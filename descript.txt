@@ -50,6 +50,7 @@ sakura.bindgroup1000.name,Magic glow,Fire
 sakura.bindgroup2000.addid,1000
 sakura.bindgroup2000.name,Spell,Fire
 
+//TODO make colors be nested...???
 
 sakura.bindgroup10000.default,1
 

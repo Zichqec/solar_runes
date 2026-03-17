@@ -66,6 +66,15 @@ surface1054
 
 
 //—————————————————————————————— Extra ——————————————————————————————
+surface1101
+{
+	element0,overlay,extra/blush.png,0,0
+}
+
+surface1102
+{
+	element0,overlay,extra/sweat.png,0,0
+}
 
 
 //—————————————————————————————— Kicky foot ——————————————————————————————
@@ -175,46 +184,90 @@ surface40003
 //—————————————————————————————— Right rings ——————————————————————————————
 
 //—————————————————————————————— Magic glow ——————————————————————————————
+//Orange
 surface100000
 {
-	element0,overlay,magic/fire_glow/0000.png,0,0
+	element0,overlay,magic/fire_glow/orange_00.png,0,0
 }
 
 surface100001
 {
-	element0,overlay,magic/fire_glow/0001.png,0,0
+	element0,overlay,magic/fire_glow/orange_01.png,0,0
 }
 
 surface100002
 {
-	element0,overlay,magic/fire_glow/0002.png,0,0
+	element0,overlay,magic/fire_glow/orange_02.png,0,0
 }
 
 surface100003
 {
-	element0,overlay,magic/fire_glow/0003.png,0,0
+	element0,overlay,magic/fire_glow/orange_03.png,0,0
+}
+
+
+//Blue
+surface100100
+{
+	element0,overlay,magic/fire_glow/blue_00.png,0,0
+}
+
+surface100101
+{
+	element0,overlay,magic/fire_glow/blue_01.png,0,0
+}
+
+surface100202
+{
+	element0,overlay,magic/fire_glow/blue_02.png,0,0
+}
+
+surface100303
+{
+	element0,overlay,magic/fire_glow/blue_03.png,0,0
 }
 
 
 //—————————————————————————————— Magic ——————————————————————————————
+//orange
 surface200000
 {
-	element0,overlay,magic/fire/0000.png,0,0
+	element0,overlay,magic/fire/orange_00.png,0,0
 }
 
 surface200001
 {
-	element0,overlay,magic/fire/0001.png,0,0
+	element0,overlay,magic/fire/orange_01.png,0,0
 }
 
 surface200002
 {
-	element0,overlay,magic/fire/0002.png,0,0
+	element0,overlay,magic/fire/orange_02.png,0,0
 }
 
 surface200003
 {
-	element0,overlay,magic/fire/0003.png,0,0
+	element0,overlay,magic/fire/orange_03.png,0,0
 }
 
 
+//Blue
+surface200100
+{
+	element0,overlay,magic/fire/blue_00.png,0,0
+}
+
+surface200101
+{
+	element0,overlay,magic/fire/blue_01.png,0,0
+}
+
+surface200202
+{
+	element0,overlay,magic/fire/blue_02.png,0,0
+}
+
+surface200303
+{
+	element0,overlay,magic/fire/blue_03.png,0,0
+}

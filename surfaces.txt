@@ -82,6 +82,16 @@ surface.append0
 	animation8.pattern1,overlay,-1,150,0,0
 }
 
+//Blush/sweat
+surface.append0-999,!10
+{
+	animation11.interval,never
+	animation11.pattern0,overlaymultiply,1101,0,0,0
+	
+	animation12.interval,never
+	animation12.pattern0,overlay,1102,0,0,0
+}
+
 //Kicky foot
 surface.append0-999,!10
 {
