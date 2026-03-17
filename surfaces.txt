@@ -1,0 +1,181 @@
+//A quick note about comments: Surfaces.txt does NOT support same line comments. If you want to write a comment, ALWAYS PUT IT ON ITS OWN LINE. If you put comments after other bits of code in the same line, it may seem to work at first, but it can cause cryptic errors down the line. Save yourself the trouble. Always put comments on their own lines in here. Additionally, it doesn't do block comments with /* and */
+
+
+descript
+{
+	version,1
+}
+
+//—————————————————————————————— Sakura surfaces ——————————————————————————————
+
+surface0
+{	
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1000,0,0,0
+	animation0.pattern2,overlay,1001,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+	
+	
+	//Talk
+	animation1.interval,talk,4
+	animation1.pattern0,alternativestart,(2,3,4)
+	
+	animation2.interval,never
+	animation2.pattern0,overlay,2000,0,0,0
+	animation2.pattern1,overlay,2001,100,0,0
+	animation2.pattern2,overlay,-1,100,0,0
+	
+	animation3.interval,never
+	animation3.pattern0,overlay,2002,0,0,0
+	animation3.pattern1,overlay,-1,100,0,0
+	
+	animation4.interval,never
+	animation4.pattern0,overlay,2002,0,0,0
+	animation4.pattern1,overlay,2001,100,0,0
+	animation4.pattern2,overlay,-1,100,0,0
+}
+
+surface1
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1010,0,0,0
+	animation0.pattern2,overlay,1011,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+	
+	
+	//Talk
+	animation1.interval,talk,4
+	animation1.pattern0,alternativestart,(2,3,4)
+	
+	animation2.interval,never
+	animation2.pattern0,overlay,2010,0,0,0
+	animation2.pattern1,overlay,2011,100,0,0
+	animation2.pattern2,overlay,-1,100,0,0
+	
+	animation3.interval,never
+	animation3.pattern0,overlay,2012,0,0,0
+	animation3.pattern1,overlay,-1,100,0,0
+	
+	animation4.interval,never
+	animation4.pattern0,overlay,2012,0,0,0
+	animation4.pattern1,overlay,2011,100,0,0
+	animation4.pattern2,overlay,-1,100,0,0
+}
+
+surface2
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1020,0,0,0
+	animation0.pattern2,overlay,1021,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface3
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1030,0,0,0
+	animation0.pattern2,overlay,1031,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface7
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1070,0,0,0
+	animation0.pattern2,overlay,1071,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface8
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1080,0,0,0
+	animation0.pattern2,overlay,1081,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface25
+{
+	//Music note loop
+	animation0.interval,always
+	animation0.pattern0,overlay,-1,0,0,0
+	animation0.pattern1,overlay,3000,500,0,0
+	animation0.pattern2,overlay,3000,500,0,0
+}
+
+//Collisions for the sakura. For many shells the collisions will have to be set per-surface because they'll be different, but I didn't want to waste the space here.
+surface.append0-9,25
+{
+	collision0,0,0,130,65,head
+}
+
+//—————————————————————————————— Kero surfaces ——————————————————————————————
+
+surface10
+{
+	//Talk
+	animation1.interval,talk,4
+	animation1.pattern0,alternativestart,(2,3,4)
+	
+	animation2.interval,never
+	animation2.pattern0,overlay,2100,0,0,0
+	animation2.pattern1,overlay,2101,100,0,0
+	animation2.pattern2,overlay,-1,100,0,0
+	
+	animation3.interval,never
+	animation3.pattern0,overlay,2102,0,0,0
+	animation3.pattern1,overlay,-1,100,0,0
+	
+	animation4.interval,never
+	animation4.pattern0,overlay,2102,0,0,0
+	animation4.pattern1,overlay,2101,100,0,0
+	animation4.pattern2,overlay,-1,100,0,0
+}
+
+surface11
+{
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern1,overlay,1100,0,0,0
+	animation0.pattern2,overlay,1101,100,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+	
+	//Talk
+	animation1.interval,talk,4
+	animation1.pattern0,alternativestart,(2,3,4)
+	
+	animation2.interval,never
+	animation2.pattern0,overlay,2100,0,0,0
+	animation2.pattern1,overlay,2101,100,0,0
+	animation2.pattern2,overlay,-1,100,0,0
+	
+	animation3.interval,never
+	animation3.pattern0,overlay,2102,0,0,0
+	animation3.pattern1,overlay,-1,100,0,0
+	
+	animation4.interval,never
+	animation4.pattern0,overlay,2102,0,0,0
+	animation4.pattern1,overlay,2101,100,0,0
+	animation4.pattern2,overlay,-1,100,0,0
+}
+
+surface19
+{
+	//Music note loop
+	animation0.interval,always
+	animation0.pattern0,overlay,-1,0,0,0
+	animation0.pattern1,overlay,3001,500,0,0
+	animation0.pattern2,overlay,3001,500,0,0
+}
+
+//Collisions for the kero. See above note about the sakura collisions.
+surface.append10,11,19
+{
+	collision0,0,0,130,65,head
+}

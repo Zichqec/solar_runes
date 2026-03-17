@@ -1,0 +1,4 @@
+charset,UTF-8
+type,shell
+name,Simplicity Shell
+directory,simplicity_shell_zi
