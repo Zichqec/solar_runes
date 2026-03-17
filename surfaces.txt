@@ -15,6 +15,7 @@ descript
 //Readme
 //Surfacetable settings
 //Satolist settings
+//The fire lighting on his hair isn't quite right, one part snaps out of existence (check on dark bg)
 
 
 //—————————— Animations numbering scheme ——————————
