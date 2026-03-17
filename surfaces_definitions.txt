@@ -19,81 +19,79 @@ descript
 //2000 - Magic
 
 
-//—————————— Surface numbering scheme... ——————————
-//Hundreds are reserved for the actual \s[] callable surfaces
-//Pieces are gonna go on... uh... uhhhhhh i'm dying
-//1000 and above can be pieces I think... yeah, arms won't go that high
-//right, yes, only need to number things that will go in ANIMATIONS, everything else is ELEMENTS
-//Add 00 after number...? Except everything that would be sub 1000
+//Up to 4999 is reserved for the actual \s[] callable surfaces
+//All pieces need to be 10000 or above
 
+
+//Just..... pretend these are lower. It doesn't matter. There was probably a better way to do this but I'm frazzled right now.
 //—————————————————————————————— Blink ——————————————————————————————
-surface1000
+surface300000
 {
 	element0,overlay,eyes/blink_full.png,0,0
 }
 
-surface1001
+surface300001
 {
 	element0,overlay,eyes/blink_half.png,0,0
 }
 
 
 //—————————————————————————————— Talk ——————————————————————————————
-surface1050
+surface300050
 {
 	element0,overlay,mouth/talk_0.png,0,0
 }
 
-surface1051
+surface300051
 {
 	element0,overlay,mouth/talk_1.png,0,0
 }
 
-surface1052
+surface300052
 {
 	element0,overlay,mouth/talk_2.png,0,0
 }
 
-surface1053
+surface300053
 {
 	element0,overlay,mouth/talk_3.png,0,0
 }
 
-surface1054
+surface300054
 {
 	element0,overlay,mouth/talk_4.png,0,0
 }
 
 
 //—————————————————————————————— Extra ——————————————————————————————
-surface1101
+surface300101
 {
 	element0,overlay,extra/blush.png,0,0
 }
 
-surface1102
+surface300102
 {
 	element0,overlay,extra/sweat.png,0,0
 }
 
 
 //—————————————————————————————— Kicky foot ——————————————————————————————
-surface2000
+surface300200
 {
 	element0,overlay,foot/0.png,0,0
 }
 
-surface2001
+surface300201
 {
 	element0,overlay,foot/1.png,0,0
 }
 
-surface2002
+surface300202
 {
 	element0,overlay,foot/2.png,0,0
 }
 
-surface2003
+surface300203
 {
 	element0,overlay,foot/3.png,0,0
 }
