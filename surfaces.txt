@@ -5,6 +5,17 @@ descript
 
 //TODO
 //without the brooch, it's super obvious that the wrinkles around there aren't spaced nicely
+//Implement multiple fire colors
+//Implement ring dressups
+//Make talks look nicer
+//Draw talks for tongue surfaces
+//The talks are currently only set for the bases and the thousands, they also need set on the hundreds...
+//Expression chart
+//PSD
+//Readme
+//Surfacetable settings
+//Satolist settings
+
 
 //—————————— Animations numbering scheme ——————————
 //0 - Blink
@@ -20,6 +31,7 @@ descript
 //600 - Right rings
 //1000 - Magic glow
 //2000 - Magic
+
 
 //—————————————————————————————— Sakura surfaces ——————————————————————————————
 //—————————— Base / Eyes ——————————
@@ -312,15 +324,16 @@ surface.append0-4999,!10,!4,!1004,!2004,!3004,!4004,!6,!1006,!2006,!3006,!4006,!
 }
 
 
-//Talk - closed start, no smile
+//—————————— Talk ——————————
 //1 is the closed frame
-surface.append0
+//Closed start, no smile
+surface.append0,1,4,20,1000,1001,1004,1020,2000,2001,2004,2020,3000,3001,3004,3020,4000,4001,4004,4020
 {
 	animation5.interval,talk,4
 	animation5.pattern0,alternativestart,(6,7,8)
 	
 	animation6.interval,never
-	animation6.pattern0,overlay,300053,150,0,0
+	animation6.pattern0,overlay,300053,0,0,0
 	animation6.pattern1,overlay,300050,150,0,0
 	animation6.pattern2,overlay,-1,150,0,0
 	
@@ -329,8 +342,88 @@ surface.append0
 	animation7.pattern1,overlay,-1,150,0,0
 	
 	animation8.interval,never
-	animation8.pattern0,overlay,300053,150,0,0
+	animation8.pattern0,overlay,300053,0,0,0
 	animation8.pattern1,overlay,-1,150,0,0
+}
+
+//Closed start, smile
+surface.append5,6,8,21,22,23,1005,1006,1008,1021,1022,1023,2005,2006,2008,2021,2022,2023,3005,3006,3008,3021,3022,3023,4005,4006,4008,4021,4022,4023
+{
+	animation5.interval,talk,5
+	animation5.pattern0,alternativestart,(6,7,8)
+	
+	animation6.interval,never
+	animation6.pattern0,overlay,300050,0,0,0
+	animation6.pattern1,overlay,300054,150,0,0
+	animation6.pattern2,overlay,-1,150,0,0
+	
+	animation7.interval,never
+	animation7.pattern0,overlay,300050,0,0,0
+	animation7.pattern1,overlay,-1,150,0,0
+	
+	animation8.interval,never
+	animation8.pattern0,overlay,300053,0,0,0
+	animation8.pattern1,overlay,-1,150,0,0
+}
+
+//Open mouth start
+surface.append2,28,29,1002,1028,1029,2002,2028,2029,3002,3028,3029,4002,4028,4029
+{
+	animation5.interval,talk,5
+	animation5.pattern0,alternativestart,(6,7,8)
+	
+	animation6.interval,never
+	animation6.pattern0,overlay,300053,0,0,0
+	animation6.pattern1,overlay,-1,150,0,0
+	
+	animation7.interval,never
+	animation7.pattern0,overlay,300050,0,0,0
+	animation7.pattern1,overlay,-1,150,0,0
+	
+	animation8.interval,never
+	animation8.pattern0,overlay,300051,0,0,0
+	animation8.pattern1,overlay,-1,150,0,0
+}
+
+//Gritted
+surface.append7,9,26,27,1007,1009,1026,1027,2007,2009,2026,2027,3007,3009,3026,3027,4007,4009,4026,4027
+{
+	animation5.interval,talk,5
+	animation5.pattern0,alternativestart,(6,7,8)
+	
+	animation6.interval,never
+	animation6.pattern0,overlay,300050,0,0,0
+	animation6.pattern1,overlay,300052,150,0,0
+	animation6.pattern2,overlay,-1,150,0,0
+	
+	animation7.interval,never
+	animation7.pattern0,overlay,300050,0,0,0
+	animation7.pattern1,overlay,-1,150,0,0
+	
+	animation8.interval,never
+	animation8.pattern0,overlay,300051,0,0,0
+	animation8.pattern1,overlay,-1,150,0,0
+}
+
+
+//Tongue
+surface.append24,25,1024,1025,2024,2025,3024,3025,4024,4025
+{
+	// animation5.interval,talk,5
+	// animation5.pattern0,alternativestart,(6,7,8)
+	
+	// animation6.interval,never
+	// animation6.pattern0,overlay,300050,0,0,0
+	// animation6.pattern1,overlay,300052,150,0,0
+	// animation6.pattern2,overlay,-1,150,0,0
+	
+	// animation7.interval,never
+	// animation7.pattern0,overlay,300050,0,0,0
+	// animation7.pattern1,overlay,-1,150,0,0
+	
+	// animation8.interval,never
+	// animation8.pattern0,overlay,300051,0,0,0
+	// animation8.pattern1,overlay,-1,150,0,0
 }
 
 
