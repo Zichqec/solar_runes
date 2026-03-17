@@ -3,6 +3,9 @@ descript
 	version,1
 }
 
+//TODO
+//Book colors overlap book hand... that's a problem, hm
+
 //—————————— Animations numbering scheme ——————————
 //0 - Blink
 //5 - Talk
@@ -20,15 +23,154 @@ descript
 
 //—————————————————————————————— Sakura surfaces ——————————————————————————————
 surface0
-{	
+{
+	//Base
 	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/neutral.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
 }
 
+//TEMP
+surface1
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/neutral.png,0,0
+	
+	//Arm
+	element4,overlay,arm/gesture.png,0,0
+}
 
-//Kicky foot
+//Blink
 surface.append0
 {
+	animation0.interval,random,4
+	animation0.pattern0,overlay,1000,0,0,0
+	animation0.pattern1,overlay,1001,75,0,0
+	animation0.pattern2,overlay,-1,50,0,0
+	animation0.option,shared-index
+}
+
+//Kicky foot
+surface.append0-999,!10
+{
+	animation20.interval,always
+	animation20.pattern0,overlay,2000,0,0,0
+	animation20.pattern1,overlay,2002,2000-3000,0,0
+	animation20.pattern2,overlay,2003,50,0,0
+	animation20.pattern3,overlay,2002,50,0,0
+	animation20.pattern4,overlay,2001,65,0,0
+	animation20.pattern5,overlay,2003,100,0,0
+	animation20.pattern6,overlay,2002,50,0,0
+	animation20.pattern7,overlay,2001,65,0,0
+	animation20.pattern8,overlay,2000,100,0,0
+	animation20.option,background+shared-index
+}
+
+//Dressups
+surface.append0-999,!10
+{
+	//Banner
+	animation100.interval,bind
+	animation100.pattern0,overlay,10000,0,0,0
 	
+	animation101.interval,bind
+	animation101.pattern0,overlay,10001,0,0,0
+	
+	animation102.interval,bind
+	animation102.pattern0,overlay,10002,0,0,0
+	
+	animation103.interval,bind
+	animation103.pattern0,overlay,10003,0,0,0
+	
+	
+	//Brooch
+	animation200.interval,bind
+	animation200.pattern0,overlay,20000,0,0,0
+	
+	animation201.interval,bind
+	animation201.pattern0,overlay,20001,0,0,0
+	
+	animation202.interval,bind
+	animation202.pattern0,overlay,20002,0,0,0
+	
+	
+	//Book color
+	animation300.interval,bind
+	animation300.pattern0,overlay,30000,0,0,0
+	
+	animation301.interval,bind
+	animation301.pattern0,overlay,30001,0,0,0
+	
+	animation302.interval,bind
+	animation302.pattern0,overlay,30002,0,0,0
+	
+	animation303.interval,bind
+	animation303.pattern0,overlay,30003,0,0,0
+	
+	
+	//Book cover
+	animation400.interval,bind
+	animation400.pattern0,overlaymultiply,40000,0,0,0
+	
+	animation401.interval,bind
+	animation401.pattern0,overlaymultiply,40001,0,0,0
+	
+	animation402.interval,bind
+	animation402.pattern0,overlaymultiply,40002,0,0,0
+	
+	animation403.interval,bind
+	animation403.pattern0,overlaymultiply,40003,0,0,0
+}
+
+//TEMP append
+//Magic + glows
+surface.append1
+{
+	//Fire
+	animation1000.interval,bind+always
+	animation1000.pattern0,overlay,100000,0,0,0
+	animation1000.pattern1,overlay,100001,100,0,0
+	animation1000.pattern2,overlay,100002,100,0,0
+	animation1000.pattern3,overlay,100003,100,0,0
+	animation1000.pattern4,overlay,100003,100,0,0
+	animation1000.option,shared-index
+	
+	animation2000.interval,bind+always
+	animation2000.pattern0,overlayfast,200000,0,0,0
+	animation2000.pattern1,overlayfast,200001,100,0,0
+	animation2000.pattern2,overlayfast,200002,100,0,0
+	animation2000.pattern3,overlayfast,200003,100,0,0
+	animation2000.pattern4,overlayfast,200003,100,0,0
+	animation2000.option,shared-index
+}
+
+//Float
+surface.append0-999,!10
+{
+	animation10000.interval,bind+always
+	animation10000.pattern0,move,-1,0,0,0
+	animation10000.pattern1,move,-1,650,0,-1
+	animation10000.pattern2,move,-1,350,0,-2
+	animation10000.pattern3,move,-1,200,0,-3
+	animation10000.pattern4,move,-1,200,0,-4
+	animation10000.pattern5,move,-1,350,0,-5
+	animation10000.pattern6,move,-1,650,0,-4
+	animation10000.pattern7,move,-1,350,0,-3
+	animation10000.pattern8,move,-1,200,0,-2
+	animation10000.pattern9,move,-1,200,0,-1
+	animation10000.pattern10,move,-1,350,0,-1
+	animation10000.option,shared-index
 }
 
 //—————————————————————————————— Kero surfaces ——————————————————————————————

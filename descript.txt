@@ -8,3 +8,52 @@ craftmanurl,https://ukagaka.zichqec.com/
 
 seriko.use_self_alpha,1
 seriko.alignmenttodesktop,free
+
+sakura.bindoption100.group,Banner,mustselect
+sakura.bindgroup100.default,1
+
+sakura.bindgroup100.name,Banner,Purple
+sakura.bindgroup101.name,Banner,Red
+sakura.bindgroup102.name,Banner,Blue
+sakura.bindgroup103.name,Banner,Gold
+
+
+sakura.bindgroup200.default,1
+
+sakura.bindgroup200.name,Brooch,Star
+sakura.bindgroup201.name,Brooch,Star moon
+sakura.bindgroup202.name,Brooch,Moon
+
+
+sakura.bindoption300.group,Book color,mustselect
+sakura.bindgroup300.default,1
+
+sakura.bindgroup300.name,Book color,Green
+sakura.bindgroup301.name,Book color,Red
+sakura.bindgroup302.name,Book color,Blue
+sakura.bindgroup303.name,Book color,Gold
+
+
+sakura.bindoption400.group,Book cover,mustselect
+sakura.bindgroup400.default,1
+
+sakura.bindgroup400.name,Book cover,Star
+sakura.bindgroup401.name,Book cover,Star moon
+sakura.bindgroup402.name,Book cover,Moon
+sakura.bindgroup403.name,Book cover,Title only
+
+
+
+sakura.bindgroup1000.default,1
+
+sakura.bindgroup1000.name,Spell,Fire
+sakura.bindgroup1000.addid,2000
+sakura.bindgroup2000.name,Magic glow,Fire
+
+
+sakura.bindgroup10000.default,1
+
+sakura.bindgroup10000.name,Floating,Floating
+
+//TODO I will have to replace this later since I want to hide the magic glows from the menu...
+sakura.menu,auto

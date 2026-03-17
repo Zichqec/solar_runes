@@ -22,19 +22,196 @@ descript
 //—————————— Surface numbering scheme... ——————————
 //Hundreds are reserved for the actual \s[] callable surfaces
 //Pieces are gonna go on... uh... uhhhhhh i'm dying
+//1000 and above can be pieces I think... yeah, arms won't go that high
+//right, yes, only need to number things that will go in ANIMATIONS, everything else is ELEMENTS
+//Add 00 after number...? Except everything that would be sub 1000
+
+//—————————————————————————————— Blink ——————————————————————————————
+surface1000
+{
+	element0,overlay,eyes/blink_full.png,0,0
+}
+
+surface1001
+{
+	element0,overlay,eyes/blink_half.png,0,0
+}
 
 
-//—————————————————————————————— Eyes ——————————————————————————————
-//—————————————————————————————— Mouth ——————————————————————————————
-//—————————————————————————————— Eyebrows ——————————————————————————————
+//—————————————————————————————— Talk ——————————————————————————————
+surface1050
+{
+	element0,overlay,mouth/talk_0.png,0,0
+}
+
+surface1051
+{
+	element0,overlay,mouth/talk_1.png,0,0
+}
+
+surface1052
+{
+	element0,overlay,mouth/talk_2.png,0,0
+}
+
+surface1053
+{
+	element0,overlay,mouth/talk_3.png,0,0
+}
+
+surface1054
+{
+	element0,overlay,mouth/talk_4.png,0,0
+}
+
+
 //—————————————————————————————— Extra ——————————————————————————————
-//—————————————————————————————— Arm ——————————————————————————————
+
+
 //—————————————————————————————— Kicky foot ——————————————————————————————
+surface2000
+{
+	element0,overlay,foot/0.png,0,0
+}
+
+surface2001
+{
+	element0,overlay,foot/1.png,0,0
+}
+
+surface2002
+{
+	element0,overlay,foot/2.png,0,0
+}
+
+surface2003
+{
+	element0,overlay,foot/3.png,0,0
+}
+
 //—————————————————————————————— Banner ——————————————————————————————
+surface10000
+{
+	element0,overlay,banner/purple.png,0,0
+}
+
+surface10001
+{
+	element0,overlay,banner/red.png,0,0
+}
+
+surface10002
+{
+	element0,overlay,banner/blue.png,0,0
+}
+
+surface10003
+{
+	element0,overlay,banner/gold.png,0,0
+}
+
+//—————————————————————————————— Brooch ——————————————————————————————
+surface20000
+{
+	element0,overlay,brooch/star.png,0,0
+}
+
+surface20001
+{
+	element0,overlay,brooch/star_moon.png,0,0
+}
+
+surface20002
+{
+	element0,overlay,brooch/moon.png,0,0
+}
+
+
 //—————————————————————————————— Book color ——————————————————————————————
+surface30000
+{
+	element0,overlay,book_color/green.png,0,0
+}
+
+surface30001
+{
+	element0,overlay,book_color/red.png,0,0
+}
+
+surface30002
+{
+	element0,overlay,book_color/blue.png,0,0
+}
+
+surface30003
+{
+	element0,overlay,book_color/gold.png,0,0
+}
+
+
 //—————————————————————————————— Book cover ——————————————————————————————
+surface40000
+{
+	element0,overlay,book_cover/star.png,0,0
+}
+
+surface40001
+{
+	element0,overlay,book_cover/star_moon.png,0,0
+}
+
+surface40002
+{
+	element0,overlay,book_cover/moon.png,0,0
+}
+
+surface40003
+{
+	element0,overlay,book_cover/title_only.png,0,0
+}
+
+
 //—————————————————————————————— Left rings ——————————————————————————————
 //—————————————————————————————— Right rings ——————————————————————————————
-//—————————————————————————————— Brooch ——————————————————————————————
 //—————————————————————————————— Magic ——————————————————————————————
+surface100000
+{
+	element0,overlay,magic/fire/0000.png,0,0
+}
+
+surface100001
+{
+	element0,overlay,magic/fire/0001.png,0,0
+}
+
+surface100002
+{
+	element0,overlay,magic/fire/0002.png,0,0
+}
+
+surface100003
+{
+	element0,overlay,magic/fire/0003.png,0,0
+}
+
+
 //—————————————————————————————— Magic glow ——————————————————————————————
+surface200000
+{
+	element0,overlay,magic/fire_glow/0000.png,0,0
+}
+
+surface200001
+{
+	element0,overlay,magic/fire_glow/0001.png,0,0
+}
+
+surface200002
+{
+	element0,overlay,magic/fire_glow/0002.png,0,0
+}
+
+surface200003
+{
+	element0,overlay,magic/fire_glow/0003.png,0,0
+}
