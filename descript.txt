@@ -1,10 +1,10 @@
 charset,UTF-8
 type,shell
 
-name,Simplicity Shell
-craftman,
-craftmanw,
-craftmanurl,
+name,Solar Runes
+craftman,Zichqec
+craftmanw,Zichqec
+craftmanurl,https://ukagaka.zichqec.com/
 
 seriko.use_self_alpha,1
-//seriko.alignmenttodesktop,free
+seriko.alignmenttodesktop,free
