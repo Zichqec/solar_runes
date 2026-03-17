@@ -9,13 +9,13 @@ craftmanurl,https://ukagaka.zichqec.com/
 seriko.use_self_alpha,1
 seriko.alignmenttodesktop,free
 
-sakura.bindoption100.group,Banner,mustselect
+sakura.bindoption100.group,Tabard,mustselect
 sakura.bindgroup100.default,1
 
-sakura.bindgroup100.name,Banner,Purple
-sakura.bindgroup101.name,Banner,Red
-sakura.bindgroup102.name,Banner,Blue
-sakura.bindgroup103.name,Banner,Gold
+sakura.bindgroup100.name,Tabard,Purple
+sakura.bindgroup101.name,Tabard,Red
+sakura.bindgroup102.name,Tabard,Blue
+sakura.bindgroup103.name,Tabard,Gold
 
 
 sakura.bindgroup200.default,1

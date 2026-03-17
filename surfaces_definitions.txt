@@ -9,7 +9,7 @@ descript
 //11 - Blush (multiply)
 //12 - Sweat
 //20 - Kick (background)
-//100 - Banner
+//100 - Tabard
 //200 - Brooch
 //300 - Book color
 //400 - Book cover (multiply)
@@ -98,25 +98,25 @@ surface2003
 	element0,overlay,foot/3.png,0,0
 }
 
-//—————————————————————————————— Banner ——————————————————————————————
+//—————————————————————————————— Tabard ——————————————————————————————
 surface10000
 {
-	element0,overlay,banner/purple.png,0,0
+	element0,overlay,tabard/purple.png,0,0
 }
 
 surface10001
 {
-	element0,overlay,banner/red.png,0,0
+	element0,overlay,tabard/red.png,0,0
 }
 
 surface10002
 {
-	element0,overlay,banner/blue.png,0,0
+	element0,overlay,tabard/blue.png,0,0
 }
 
 surface10003
 {
-	element0,overlay,banner/gold.png,0,0
+	element0,overlay,tabard/gold.png,0,0
 }
 
 //—————————————————————————————— Brooch ——————————————————————————————

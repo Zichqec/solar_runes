@@ -5,6 +5,7 @@ descript
 
 //TODO
 //Book colors overlap book hand... that's a problem, hm
+//without the brooch, it's super obvious that the wrinkles around there aren't spaced nicely
 
 //—————————— Animations numbering scheme ——————————
 //0 - Blink
@@ -12,7 +13,7 @@ descript
 //11 - Blush (multiply)
 //12 - Sweat
 //20 - Kick (background)
-//100 - Banner
+//100 - Tabard
 //200 - Brooch
 //300 - Book color
 //400 - Book cover (multiply)
@@ -22,6 +23,7 @@ descript
 //2000 - Magic
 
 //—————————————————————————————— Sakura surfaces ——————————————————————————————
+//Normal
 surface0
 {
 	//Base
@@ -36,8 +38,296 @@ surface0
 	element4,overlay,arm/book.png,0,0
 }
 
-//TEMP
+//Embarrassed
 surface1
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/frown.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Surprised
+surface2
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/raised.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/gasp.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Anxious
+surface3
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/frown.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Discouraged
+surface4
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/closed_down.png,0,0
+	element3,overlay,mouth/frown.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Smile
+surface5
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/raised.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/smile.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Eyes closed
+surface6
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/neutral.png,0,0
+	element2,overlay,eyes/closed_down.png,0,0
+	element3,overlay,mouth/smile.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Angry
+surface7
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grimace.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Sweat smile
+surface8
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/smile.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Embarrassed & angry
+surface9
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/squeeze.png,0,0
+	element3,overlay,mouth/grimace.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//10-19 range reserved for kero
+
+//Skeptical
+surface20
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/skeptical_alt.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/neutral.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Grin
+surface21
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/raised.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grin.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Competitive
+surface22
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grin.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Sheepish
+surface23
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grin.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Nehhh
+surface24
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/tongue.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Bleh
+surface25
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/tongue.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Yikes
+surface26
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/raised.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grimace.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Grimace
+surface27
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/grimace.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Shouting
+surface28
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/furrowed.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/gasp.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+//Anguish
+surface29
+{
+	//Base
+	element0,overlay,base.png,0,0
+	
+	//Face
+	element1,overlay,eyebrows/lowered.png,0,0
+	element2,overlay,eyes/read.png,0,0
+	element3,overlay,mouth/gasp.png,0,0
+	
+	//Arm
+	element4,overlay,arm/book.png,0,0
+}
+
+
+//TEMP
+surface9515999
 {
 	//Base
 	element0,overlay,base.png,0,0
@@ -82,18 +372,37 @@ surface.append0
 	animation8.pattern1,overlay,-1,150,0,0
 }
 
-//Blush/sweat
-surface.append0-999,!10
+
+//Blush
+surface.append0-999,!10-19,!1,!9
 {
 	animation11.interval,never
 	animation11.pattern0,overlaymultiply,1101,0,0,0
-	
+}
+
+surface.append1,9
+{
+	animation11.interval,runonce
+	animation11.pattern0,overlaymultiply,1101,0,0,0
+}
+
+
+//Sweat
+surface.append0-999,!10-19,!8
+{
 	animation12.interval,never
 	animation12.pattern0,overlay,1102,0,0,0
 }
 
+surface.append8
+{
+	animation12.interval,runonce
+	animation12.pattern0,overlay,1102,0,0,0
+}
+
+
 //Kicky foot
-surface.append0-999,!10
+surface.append0-999,!10-19
 {
 	animation20.interval,always
 	animation20.pattern0,overlay,2000,0,0,0
@@ -109,9 +418,9 @@ surface.append0-999,!10
 }
 
 //Dressups
-surface.append0-999,!10
+surface.append0-999,!10-19
 {
-	//Banner
+	//Tabard
 	animation100.interval,bind
 	animation100.pattern0,overlay,10000,0,0,0
 	
@@ -166,7 +475,7 @@ surface.append0-999,!10
 
 //TEMP append
 //Magic + glows
-surface.append1
+surface.append9515999
 {
 	//Fire
 	animation1000.interval,bind+always
@@ -187,7 +496,7 @@ surface.append1
 }
 
 //Float
-surface.append0-999,!10
+surface.append0-999,!10-19
 {
 	animation10000.interval,bind+always
 	animation10000.pattern0,move,-1,0,0,0
