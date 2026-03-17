@@ -15,8 +15,8 @@ descript
 //400 - Book cover (multiply)
 //500 - Left rings
 //600 - Right rings
-//1000 - Magic
-//2000 - Magic glow
+//1000 - Magic glow
+//2000 - Magic
 
 
 //—————————— Surface numbering scheme... ——————————
@@ -173,45 +173,48 @@ surface40003
 
 //—————————————————————————————— Left rings ——————————————————————————————
 //—————————————————————————————— Right rings ——————————————————————————————
-//—————————————————————————————— Magic ——————————————————————————————
+
+//—————————————————————————————— Magic glow ——————————————————————————————
 surface100000
 {
-	element0,overlay,magic/fire/0000.png,0,0
+	element0,overlay,magic/fire_glow/0000.png,0,0
 }
 
 surface100001
 {
-	element0,overlay,magic/fire/0001.png,0,0
+	element0,overlay,magic/fire_glow/0001.png,0,0
 }
 
 surface100002
 {
-	element0,overlay,magic/fire/0002.png,0,0
+	element0,overlay,magic/fire_glow/0002.png,0,0
 }
 
 surface100003
+{
+	element0,overlay,magic/fire_glow/0003.png,0,0
+}
+
+
+//—————————————————————————————— Magic ——————————————————————————————
+surface200000
+{
+	element0,overlay,magic/fire/0000.png,0,0
+}
+
+surface200001
+{
+	element0,overlay,magic/fire/0001.png,0,0
+}
+
+surface200002
+{
+	element0,overlay,magic/fire/0002.png,0,0
+}
+
+surface200003
 {
 	element0,overlay,magic/fire/0003.png,0,0
 }
 
 
-//—————————————————————————————— Magic glow ——————————————————————————————
-surface200000
-{
-	element0,overlay,magic/fire_glow/0000.png,0,0
-}
-
-surface200001
-{
-	element0,overlay,magic/fire_glow/0001.png,0,0
-}
-
-surface200002
-{
-	element0,overlay,magic/fire_glow/0002.png,0,0
-}
-
-surface200003
-{
-	element0,overlay,magic/fire_glow/0003.png,0,0
-}

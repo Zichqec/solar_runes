@@ -18,8 +18,8 @@ descript
 //400 - Book cover (multiply)
 //500 - Left rings
 //600 - Right rings
-//1000 - Magic
-//2000 - Magic glow
+//1000 - Magic glow
+//2000 - Magic
 
 //—————————————————————————————— Sakura surfaces ——————————————————————————————
 surface0
@@ -61,6 +61,27 @@ surface.append0
 	animation0.option,shared-index
 }
 
+//Talk - closed start, no smile
+//1 is the closed frame
+surface.append0
+{
+	animation5.interval,talk,4
+	animation5.pattern0,alternativestart,(6,7,8)
+	
+	animation6.interval,never
+	animation6.pattern0,overlay,1053,150,0,0
+	animation6.pattern1,overlay,1050,150,0,0
+	animation6.pattern2,overlay,-1,150,0,0
+	
+	animation7.interval,never
+	animation7.pattern0,overlay,1050,0,0,0
+	animation7.pattern1,overlay,-1,150,0,0
+	
+	animation8.interval,never
+	animation8.pattern0,overlay,1053,150,0,0
+	animation8.pattern1,overlay,-1,150,0,0
+}
+
 //Kicky foot
 surface.append0-999,!10
 {
@@ -74,7 +95,7 @@ surface.append0-999,!10
 	animation20.pattern6,overlay,2002,50,0,0
 	animation20.pattern7,overlay,2001,65,0,0
 	animation20.pattern8,overlay,2000,100,0,0
-	animation20.option,background+shared-index
+	animation20.option,shared-index
 }
 
 //Dressups
@@ -139,19 +160,19 @@ surface.append1
 {
 	//Fire
 	animation1000.interval,bind+always
-	animation1000.pattern0,overlay,100000,0,0,0
-	animation1000.pattern1,overlay,100001,100,0,0
-	animation1000.pattern2,overlay,100002,100,0,0
-	animation1000.pattern3,overlay,100003,100,0,0
-	animation1000.pattern4,overlay,100003,100,0,0
+	animation1000.pattern0,overlayfast,100000,0,0,0
+	animation1000.pattern1,overlayfast,100001,100,0,0
+	animation1000.pattern2,overlayfast,100002,100,0,0
+	animation1000.pattern3,overlayfast,100003,100,0,0
+	animation1000.pattern4,overlayfast,100003,100,0,0
 	animation1000.option,shared-index
 	
 	animation2000.interval,bind+always
-	animation2000.pattern0,overlayfast,200000,0,0,0
-	animation2000.pattern1,overlayfast,200001,100,0,0
-	animation2000.pattern2,overlayfast,200002,100,0,0
-	animation2000.pattern3,overlayfast,200003,100,0,0
-	animation2000.pattern4,overlayfast,200003,100,0,0
+	animation2000.pattern0,overlay,200000,0,0,0
+	animation2000.pattern1,overlay,200001,100,0,0
+	animation2000.pattern2,overlay,200002,100,0,0
+	animation2000.pattern3,overlay,200003,100,0,0
+	animation2000.pattern4,overlay,200003,100,0,0
 	animation2000.option,shared-index
 }
 
