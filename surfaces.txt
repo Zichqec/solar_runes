@@ -4,7 +4,6 @@ descript
 }
 
 //TODO
-//without the brooch, it's super obvious that the wrinkles around there aren't spaced nicely
 //Implement multiple fire colors
 //Implement ring dressups
 //Make talks look nicer
