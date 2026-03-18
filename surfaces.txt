@@ -1,6 +1,9 @@
 descript
 {
 	version,1
+	
+	//satolist.palette.offset,282,41
+	//satolist.palette.frame,125,125
 }
 
 //TODO
@@ -661,7 +664,6 @@ surface.append0-4999,!10-19
 	animation10000.pattern10,move,-1,350,0,-1
 	animation10000.option,shared-index
 }
-
 
 //—————————————————————————————— Kero surfaces ——————————————————————————————
 surface10

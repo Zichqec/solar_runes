@@ -385,3 +385,9 @@ surface200103
 {
 	element0,overlay,magic/fire/blue_03.png,0,0
 }
+
+//Disable non-expression pieces in Satolist
+surface.append10000-399999,999000,4999000
+{
+	//satolist.palette.visible,0
+}
