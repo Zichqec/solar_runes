@@ -113,14 +113,6 @@ surface800-809,820-829,1800-1809,1820-1829,2800-2809,2820-2829,3800-3809,3820-38
 }
 
 
-//—————————— Half eyes ——————————
-//These are here because, other than the default eyes, the 3 and 4 expression match when the eyes are the same
-surface104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,2104,2204,2304,2404,2504,3104,3204,3304,3404,3504,4104,4204,4304,4404,4504
-{
-	element5,overlay,eyes/blink_half.png,0,0
-}
-
-
 //—————————— Eyebrows / Mouths ——————————
 //Normal
 surface0,100,200,300,400,500,600,700,800,1000,1100,1200,1300,1400,1500,1600,1700,1800,2000,2100,2200,2300,2400,2500,2600,2700,2800,3000,3100,3200,3300,3400,3500,3600,3700,3800,4000,4100,4200,4300,4400,4500,4600,4700,4800
@@ -154,7 +146,7 @@ surface3,103,203,303,403,503,603,703,803,1003,1103,1203,1303,1403,1503,1603,1703
 surface4,104,204,304,404,504,604,704,804,1004,1104,1204,1304,1404,1504,1604,1704,1804,2004,2104,2204,2304,2404,2504,2604,2704,2804,3004,3104,3204,3304,3404,3504,3604,3704,3804,4004,4104,4204,4304,4404,4504,4604,4704,4804
 {
 	element2,overlay,eyebrows/lowered.png,0,0
-	element3,overlay,mouth/frown.png,0,0
+	element3,overlay,mouth/neutral.png,0,0
 }
 
 //Smile
@@ -321,16 +313,6 @@ surface.append0-4999,!10,!4,!1004,!2004,!3004,!4004,!6,!1006,!2006,!3006,!4006,!
 	animation0.interval,random,4
 	animation0.pattern0,overlay,300000,0,0,0
 	animation0.pattern1,overlay,300001,75,0,0
-	animation0.pattern2,overlay,-1,50,0,0
-	animation0.option,shared-index
-}
-
-//Separate blink for these ones because I made special half eyes to separate a couple of expressions that were the same with the non-default eyes
-surface.append104,204,304,404,504,1104,1204,1304,1404,1504,2104,2204,2304,2404,2504,3104,3204,3304,3404,3504,4104,4204,4304,4404,4504
-{
-	animation0.interval,random,4
-	animation0.pattern0,overlay,300000,0,0,0
-	animation0.pattern1,overlay,300002,75,0,0
 	animation0.pattern2,overlay,-1,50,0,0
 	animation0.option,shared-index
 }
