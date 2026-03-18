@@ -67,6 +67,11 @@ surface300055
 	element0,overlay,mouth/talk_5.png,0,0
 }
 
+surface300056
+{
+	element0,overlay,mouth/talk_6.png,0,0
+}
+
 
 //—————————————————————————————— Extra ——————————————————————————————
 surface300101
@@ -184,7 +189,113 @@ surface40003
 
 
 //—————————————————————————————— Left rings ——————————————————————————————
+//I usually do stage left and stage right, but in this case since they will be user facing... maybe his left and his right are better?
+surface50000
+{
+	element0,overlay,ring_static/pointer_silver.png,0,0
+}
+
+surface50001
+{
+	element0,overlay,ring_static/pointer_gold.png,0,0
+}
+
+surface50100
+{
+	element0,overlay,ring_static/middle_silver.png,0,0
+}
+
+surface50101
+{
+	element0,overlay,ring_static/middle_gold.png,0,0
+}
+
+
 //—————————————————————————————— Right rings ——————————————————————————————
+//Skipping 0 because that's the book hand and rings aren't visible
+surface61000
+{
+	element0,overlay,ring_mobile/extended/pointer_silver.png,0,0
+}
+
+surface61001
+{
+	element0,overlay,ring_mobile/extended/pointer_gold.png,0,0
+}
+
+surface61100
+{
+	element0,overlay,ring_mobile/extended/middle_silver.png,0,0
+}
+
+surface61101
+{
+	element0,overlay,ring_mobile/extended/middle_gold.png,0,0
+}
+
+
+surface62000
+{
+	element0,overlay,ring_mobile/gesture/pointer_silver.png,0,0
+}
+
+surface62001
+{
+	element0,overlay,ring_mobile/gesture/pointer_gold.png,0,0
+}
+
+surface62100
+{
+	element0,overlay,ring_mobile/gesture/middle_silver.png,0,0
+}
+
+surface62101
+{
+	element0,overlay,ring_mobile/gesture/middle_gold.png,0,0
+}
+
+
+surface63000
+{
+	element0,overlay,ring_mobile/point/pointer_silver.png,0,0
+}
+
+surface63001
+{
+	element0,overlay,ring_mobile/point/pointer_gold.png,0,0
+}
+
+surface63100
+{
+	element0,overlay,ring_mobile/point/middle_silver.png,0,0
+}
+
+surface63101
+{
+	element0,overlay,ring_mobile/point/middle_gold.png,0,0
+}
+
+
+surface64000
+{
+	element0,overlay,ring_mobile/think/pointer_silver.png,0,0
+}
+
+surface64001
+{
+	element0,overlay,ring_mobile/think/pointer_gold.png,0,0
+}
+
+surface64100
+{
+	element0,overlay,ring_mobile/think/middle_silver.png,0,0
+}
+
+surface64101
+{
+	element0,overlay,ring_mobile/think/middle_gold.png,0,0
+}
+
 
 //—————————————————————————————— Magic glow ——————————————————————————————
 //Orange
