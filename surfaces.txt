@@ -16,6 +16,7 @@ descript
 //Surfacetable settings
 //Satolist settings
 //The fire lighting on his hair isn't quite right, one part snaps out of existence (check on dark bg)
+//hide magic glows from dressup menu
 
 
 //—————————— Animations numbering scheme ——————————
