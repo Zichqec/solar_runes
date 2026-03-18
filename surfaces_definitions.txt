@@ -331,12 +331,12 @@ surface100101
 	element0,overlay,magic/fire_glow/blue_01.png,0,0
 }
 
-surface100202
+surface100102
 {
 	element0,overlay,magic/fire_glow/blue_02.png,0,0
 }
 
-surface100303
+surface100103
 {
 	element0,overlay,magic/fire_glow/blue_03.png,0,0
 }
@@ -376,12 +376,12 @@ surface200101
 	element0,overlay,magic/fire/blue_01.png,0,0
 }
 
-surface200202
+surface200102
 {
 	element0,overlay,magic/fire/blue_02.png,0,0
 }
 
-surface200303
+surface200103
 {
 	element0,overlay,magic/fire/blue_03.png,0,0
 }

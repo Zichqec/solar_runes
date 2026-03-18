@@ -4,13 +4,11 @@ descript
 }
 
 //TODO
-//Implement multiple fire colors
 //Expression chart
 //PSD
 //Readme
 //Surfacetable settings
 //Satolist settings
-//The fire lighting on his hair isn't quite right, one part snaps out of existence (check on dark bg)
 //hide magic glows from dressup menu
 
 
@@ -613,7 +611,7 @@ surface.append4000-4999,4999000
 //Magic + glows
 surface.append2000-2999
 {
-	//Fire
+	//Fire - orange
 	animation1000.interval,bind+always
 	animation1000.pattern0,overlayfast,100000,0,0,0
 	animation1000.pattern1,overlayfast,100001,100,0,0
@@ -629,6 +627,23 @@ surface.append2000-2999
 	animation2000.pattern3,overlay,200003,100,0,0
 	animation2000.pattern4,overlay,200003,100,0,0
 	animation2000.option,shared-index
+	
+	//Fire - blue
+	animation1001.interval,bind+always
+	animation1001.pattern0,overlayfast,100100,0,0,0
+	animation1001.pattern1,overlayfast,100101,100,0,0
+	animation1001.pattern2,overlayfast,100102,100,0,0
+	animation1001.pattern3,overlayfast,100103,100,0,0
+	animation1001.pattern4,overlayfast,100103,100,0,0
+	animation1001.option,shared-index
+	
+	animation2001.interval,bind+always
+	animation2001.pattern0,overlay,200100,0,0,0
+	animation2001.pattern1,overlay,200101,100,0,0
+	animation2001.pattern2,overlay,200102,100,0,0
+	animation2001.pattern3,overlay,200103,100,0,0
+	animation2001.pattern4,overlay,200103,100,0,0
+	animation2001.option,shared-index
 }
 
 //Float
