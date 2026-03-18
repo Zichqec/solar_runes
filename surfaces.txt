@@ -685,15 +685,15 @@ surface.append2000-2999
 	//—————————— Soul spin ——————————
 	//Purple
 	animation1100.interval,bind+always
-	animation1100.pattern0,overlayfast,110000,0,0,0
-	animation1100.pattern1,overlayfast,110001,100,0,0
-	animation1100.pattern2,overlayfast,110002,100,0,0
-	animation1100.pattern3,overlayfast,110003,100,0,0
-	animation1100.pattern4,overlayfast,110004,100,0,0
-	animation1100.pattern5,overlayfast,110003,100,0,0
-	animation1100.pattern6,overlayfast,110002,100,0,0
-	animation1100.pattern7,overlayfast,110001,100,0,0
-	animation1100.pattern8,overlayfast,110001,100,0,0
+	animation1100.pattern0,overlayfast,110001,0,0,0
+	animation1100.pattern1,overlayfast,110002,100,0,0
+	animation1100.pattern2,overlayfast,110003,100,0,0
+	animation1100.pattern3,overlayfast,110004,100,0,0
+	animation1100.pattern4,overlayfast,110003,100,0,0
+	animation1100.pattern5,overlayfast,110002,100,0,0
+	animation1100.pattern6,overlayfast,110001,100,0,0
+	animation1100.pattern7,overlayfast,110000,100,0,0
+	animation1100.pattern8,overlayfast,110000,100,0,0
 	animation1100.option,shared-index
 	
 	animation2100.interval,bind+always
@@ -710,15 +710,15 @@ surface.append2000-2999
 	
 	//Yellow
 	animation1101.interval,bind+always
-	animation1101.pattern0,overlayfast,110100,0,0,0
-	animation1101.pattern1,overlayfast,110101,100,0,0
-	animation1101.pattern2,overlayfast,110102,100,0,0
-	animation1101.pattern3,overlayfast,110103,100,0,0
-	animation1101.pattern4,overlayfast,110104,100,0,0
-	animation1101.pattern5,overlayfast,110103,100,0,0
-	animation1101.pattern6,overlayfast,110102,100,0,0
-	animation1101.pattern7,overlayfast,110101,100,0,0
-	animation1101.pattern8,overlayfast,110101,100,0,0
+	animation1101.pattern0,overlayfast,110101,0,0,0
+	animation1101.pattern1,overlayfast,110102,100,0,0
+	animation1101.pattern2,overlayfast,110103,100,0,0
+	animation1101.pattern3,overlayfast,110104,100,0,0
+	animation1101.pattern4,overlayfast,110103,100,0,0
+	animation1101.pattern5,overlayfast,110102,100,0,0
+	animation1101.pattern6,overlayfast,110101,100,0,0
+	animation1101.pattern7,overlayfast,110100,100,0,0
+	animation1101.pattern8,overlayfast,110100,100,0,0
 	animation1101.option,shared-index
 	
 	animation2101.interval,bind+always
