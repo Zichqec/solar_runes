@@ -10,7 +10,7 @@ seriko.use_self_alpha,1
 seriko.alignmenttodesktop,free
 
 sakura.bindoption100.group,Tabard,mustselect
-sakura.bindgroup100.default,1
+sakura.bindgroup103.default,1
 
 sakura.bindgroup100.name,Tabard,Purple
 sakura.bindgroup101.name,Tabard,Red
@@ -46,6 +46,7 @@ sakura.bindgroup403.name,Book cover,Title only
 sakura.bindgroup500.name,Ring - right pointer finger,Silver
 sakura.bindgroup501.name,Ring - right pointer finger,Gold
 
+sakura.bindgroup510.default,1
 sakura.bindgroup510.name,Ring - right middle finger,Silver
 sakura.bindgroup511.name,Ring - right middle finger,Gold
 
