@@ -7,7 +7,6 @@ descript
 }
 
 //TODO
-//Expression chart
 //PSD
 //Readme
 
