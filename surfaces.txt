@@ -116,7 +116,7 @@ surface800-809,820-829,1800-1809,1820-1829,2800-2809,2820-2829,3800-3809,3820-38
 
 //—————————— Half eyes ——————————
 //These are here because, other than the default eyes, the 3 and 4 expression match when the eyes are the same
-surface104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,1604,1704,1804,2104,2204,2304,2404,2504,2604,2704,2804,3104,3204,3304,3404,3504,3604,3704,3804,4104,4204,4304,4404,4504,4604,4704,4804
+surface104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,2104,2204,2304,2404,2504,3104,3204,3304,3404,3504,4104,4204,4304,4404,4504
 {
 	element5,overlay,eyes/blink_half.png,0,0
 }
@@ -327,7 +327,7 @@ surface.append0-4999,!10,!4,!1004,!2004,!3004,!4004,!6,!1006,!2006,!3006,!4006,!
 }
 
 //Separate blink for these ones because I made special half eyes to separate a couple of expressions that were the same with the non-default eyes
-surface.append104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,1604,1704,1804,2104,2204,2304,2404,2504,2604,2704,2804,3104,3204,3304,3404,3504,3604,3704,3804,4104,4204,4304,4404,4504,4604,4704,4804
+surface.append104,204,304,404,504,1104,1204,1304,1404,1504,2104,2204,2304,2404,2504,3104,3204,3304,3404,3504,4104,4204,4304,4404,4504
 {
 	animation0.interval,random,4
 	animation0.pattern0,overlay,300000,0,0,0
@@ -536,6 +536,7 @@ surface.append0-4999,!10-19
 	animation403.interval,bind
 	animation403.pattern0,overlaymultiply,40003,0,0,0
 	
+	
 	//Left hand rings (his left)
 	//Pointer finger
 	animation500.interval,bind
@@ -543,6 +544,7 @@ surface.append0-4999,!10-19
 	
 	animation501.interval,bind
 	animation501.pattern0,overlay,50001,0,0,0
+	
 	
 	//Middle finger
 	animation510.interval,bind
@@ -563,6 +565,7 @@ surface.append1000-1999
 	animation601.interval,bind
 	animation601.pattern0,overlay,61001,0,0,0
 	
+	
 	//Middle finger
 	animation610.interval,bind
 	animation610.pattern0,overlay,61100,0,0,0
@@ -580,6 +583,7 @@ surface.append2000-2999
 	
 	animation601.interval,bind
 	animation601.pattern0,overlay,62001,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -599,6 +603,7 @@ surface.append3000-3999
 	animation601.interval,bind
 	animation601.pattern0,overlay,63001,0,0,0
 	
+	
 	//Middle finger
 	animation610.interval,bind
 	animation610.pattern0,overlay,63100,0,0,0
@@ -616,6 +621,7 @@ surface.append4000-4999,4999000
 	
 	animation601.interval,bind
 	animation601.pattern0,overlay,64001,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -647,6 +653,7 @@ surface.append2000-2999
 	animation2000.pattern4,overlay,200003,100,0,0
 	animation2000.option,shared-index
 	
+	
 	//Blue
 	animation1001.interval,bind+always
 	animation1001.pattern0,overlayfast,100100,0,0,0
@@ -663,6 +670,7 @@ surface.append2000-2999
 	animation2001.pattern3,overlay,200103,100,0,0
 	animation2001.pattern4,overlay,200103,100,0,0
 	animation2001.option,shared-index
+	
 	
 	//Green
 	animation1002.interval,bind+always
@@ -707,6 +715,7 @@ surface.append2000-2999
 	animation2100.pattern7,overlay,210007,100,0,0
 	animation2100.pattern8,overlay,210007,100,0,0
 	animation2100.option,shared-index
+	
 	
 	//Yellow
 	animation1101.interval,bind+always
