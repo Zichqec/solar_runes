@@ -117,7 +117,7 @@ group,Book
 	21,Grin
 	22,Ambitious
 	23,Sheepish
-	24,Nehhh
+	24,Ick
 	25,Bleh
 	26,Yikes
 	27,Grimace
@@ -139,7 +139,7 @@ group,Book
 	121,F - Grin
 	122,F - Ambitious
 	123,F - Sheepish
-	124,F - Nehhh
+	124,F - Ick
 	125,F - Bleh
 	126,F - Yikes
 	127,F - Grimace
@@ -161,7 +161,7 @@ group,Book
 	221,L - Grin
 	222,L - Ambitious
 	223,L - Sheepish
-	224,L - Nehhh
+	224,L - Ick
 	225,L - Bleh
 	226,L - Yikes
 	227,L - Grimace
@@ -183,7 +183,7 @@ group,Book
 	321,R - Grin
 	322,R - Ambitious
 	323,R - Sheepish
-	324,R - Nehhh
+	324,R - Ick
 	325,R - Bleh
 	326,R - Yikes
 	327,R - Grimace
@@ -205,7 +205,7 @@ group,Book
 	421,LU - Grin
 	422,LU - Ambitious
 	423,LU - Sheepish
-	424,LU - Nehhh
+	424,LU - Ick
 	425,LU - Bleh
 	426,LU - Yikes
 	427,LU - Grimace
@@ -227,7 +227,7 @@ group,Book
 	521,RU - Grin
 	522,RU - Ambitious
 	523,RU - Sheepish
-	524,RU - Nehhh
+	524,RU - Ick
 	525,RU - Bleh
 	526,RU - Yikes
 	527,RU - Grimace
@@ -249,7 +249,7 @@ group,Book
 	621,CD - Grin
 	622,CD - Ambitious
 	623,CD - Sheepish
-	624,CD - Nehhh
+	624,CD - Ick
 	625,CD - Bleh
 	626,CD - Yikes
 	627,CD - Grimace
@@ -271,7 +271,7 @@ group,Book
 	721,CU - Grin
 	722,CU - Ambitious
 	723,CU - Sheepish
-	724,CU - Nehhh
+	724,CU - Ick
 	725,CU - Bleh
 	726,CU - Yikes
 	727,CU - Grimace
@@ -293,7 +293,7 @@ group,Book
 	821,S - Grin
 	822,S - Ambitious
 	823,S - Sheepish
-	824,S - Nehhh
+	824,S - Ick
 	825,S - Bleh
 	826,S - Yikes
 	827,S - Grimace
@@ -320,7 +320,7 @@ group,Extended
 	1021,Grin
 	1022,Ambitious
 	1023,Sheepish
-	1024,Nehhh
+	1024,Ick
 	1025,Bleh
 	1026,Yikes
 	1027,Grimace
@@ -342,7 +342,7 @@ group,Extended
 	1121,F - Grin
 	1122,F - Ambitious
 	1123,F - Sheepish
-	1124,F - Nehhh
+	1124,F - Ick
 	1125,F - Bleh
 	1126,F - Yikes
 	1127,F - Grimace
@@ -364,7 +364,7 @@ group,Extended
 	1221,L - Grin
 	1222,L - Ambitious
 	1223,L - Sheepish
-	1224,L - Nehhh
+	1224,L - Ick
 	1225,L - Bleh
 	1226,L - Yikes
 	1227,L - Grimace
@@ -386,7 +386,7 @@ group,Extended
 	1321,R - Grin
 	1322,R - Ambitious
 	1323,R - Sheepish
-	1324,R - Nehhh
+	1324,R - Ick
 	1325,R - Bleh
 	1326,R - Yikes
 	1327,R - Grimace
@@ -408,7 +408,7 @@ group,Extended
 	1421,LU - Grin
 	1422,LU - Ambitious
 	1423,LU - Sheepish
-	1424,LU - Nehhh
+	1424,LU - Ick
 	1425,LU - Bleh
 	1426,LU - Yikes
 	1427,LU - Grimace
@@ -430,7 +430,7 @@ group,Extended
 	1521,RU - Grin
 	1522,RU - Ambitious
 	1523,RU - Sheepish
-	1524,RU - Nehhh
+	1524,RU - Ick
 	1525,RU - Bleh
 	1526,RU - Yikes
 	1527,RU - Grimace
@@ -452,7 +452,7 @@ group,Extended
 	1621,CD - Grin
 	1622,CD - Ambitious
 	1623,CD - Sheepish
-	1624,CD - Nehhh
+	1624,CD - Ick
 	1625,CD - Bleh
 	1626,CD - Yikes
 	1627,CD - Grimace
@@ -474,7 +474,7 @@ group,Extended
 	1721,CU - Grin
 	1722,CU - Ambitious
 	1723,CU - Sheepish
-	1724,CU - Nehhh
+	1724,CU - Ick
 	1725,CU - Bleh
 	1726,CU - Yikes
 	1727,CU - Grimace
@@ -496,7 +496,7 @@ group,Extended
 	1821,S - Grin
 	1822,S - Ambitious
 	1823,S - Sheepish
-	1824,S - Nehhh
+	1824,S - Ick
 	1825,S - Bleh
 	1826,S - Yikes
 	1827,S - Grimace
@@ -523,7 +523,7 @@ group,Gesture
 	2021,Grin
 	2022,Ambitious
 	2023,Sheepish
-	2024,Nehhh
+	2024,Ick
 	2025,Bleh
 	2026,Yikes
 	2027,Grimace
@@ -545,7 +545,7 @@ group,Gesture
 	2121,F - Grin
 	2122,F - Ambitious
 	2123,F - Sheepish
-	2124,F - Nehhh
+	2124,F - Ick
 	2125,F - Bleh
 	2126,F - Yikes
 	2127,F - Grimace
@@ -567,7 +567,7 @@ group,Gesture
 	2221,L - Grin
 	2222,L - Ambitious
 	2223,L - Sheepish
-	2224,L - Nehhh
+	2224,L - Ick
 	2225,L - Bleh
 	2226,L - Yikes
 	2227,L - Grimace
@@ -589,7 +589,7 @@ group,Gesture
 	2321,R - Grin
 	2322,R - Ambitious
 	2323,R - Sheepish
-	2324,R - Nehhh
+	2324,R - Ick
 	2325,R - Bleh
 	2326,R - Yikes
 	2327,R - Grimace
@@ -611,7 +611,7 @@ group,Gesture
 	2421,LU - Grin
 	2422,LU - Ambitious
 	2423,LU - Sheepish
-	2424,LU - Nehhh
+	2424,LU - Ick
 	2425,LU - Bleh
 	2426,LU - Yikes
 	2427,LU - Grimace
@@ -633,7 +633,7 @@ group,Gesture
 	2521,RU - Grin
 	2522,RU - Ambitious
 	2523,RU - Sheepish
-	2524,RU - Nehhh
+	2524,RU - Ick
 	2525,RU - Bleh
 	2526,RU - Yikes
 	2527,RU - Grimace
@@ -655,7 +655,7 @@ group,Gesture
 	2621,CD - Grin
 	2622,CD - Ambitious
 	2623,CD - Sheepish
-	2624,CD - Nehhh
+	2624,CD - Ick
 	2625,CD - Bleh
 	2626,CD - Yikes
 	2627,CD - Grimace
@@ -677,7 +677,7 @@ group,Gesture
 	2721,CU - Grin
 	2722,CU - Ambitious
 	2723,CU - Sheepish
-	2724,CU - Nehhh
+	2724,CU - Ick
 	2725,CU - Bleh
 	2726,CU - Yikes
 	2727,CU - Grimace
@@ -699,7 +699,7 @@ group,Gesture
 	2821,S - Grin
 	2822,S - Ambitious
 	2823,S - Sheepish
-	2824,S - Nehhh
+	2824,S - Ick
 	2825,S - Bleh
 	2826,S - Yikes
 	2827,S - Grimace
@@ -726,7 +726,7 @@ group,Point
 	3021,Grin
 	3022,Ambitious
 	3023,Sheepish
-	3024,Nehhh
+	3024,Ick
 	3025,Bleh
 	3026,Yikes
 	3027,Grimace
@@ -748,7 +748,7 @@ group,Point
 	3121,F - Grin
 	3122,F - Ambitious
 	3123,F - Sheepish
-	3124,F - Nehhh
+	3124,F - Ick
 	3125,F - Bleh
 	3126,F - Yikes
 	3127,F - Grimace
@@ -770,7 +770,7 @@ group,Point
 	3221,L - Grin
 	3222,L - Ambitious
 	3223,L - Sheepish
-	3224,L - Nehhh
+	3224,L - Ick
 	3225,L - Bleh
 	3226,L - Yikes
 	3227,L - Grimace
@@ -792,7 +792,7 @@ group,Point
 	3321,R - Grin
 	3322,R - Ambitious
 	3323,R - Sheepish
-	3324,R - Nehhh
+	3324,R - Ick
 	3325,R - Bleh
 	3326,R - Yikes
 	3327,R - Grimace
@@ -814,7 +814,7 @@ group,Point
 	3421,LU - Grin
 	3422,LU - Ambitious
 	3423,LU - Sheepish
-	3424,LU - Nehhh
+	3424,LU - Ick
 	3425,LU - Bleh
 	3426,LU - Yikes
 	3427,LU - Grimace
@@ -836,7 +836,7 @@ group,Point
 	3521,RU - Grin
 	3522,RU - Ambitious
 	3523,RU - Sheepish
-	3524,RU - Nehhh
+	3524,RU - Ick
 	3525,RU - Bleh
 	3526,RU - Yikes
 	3527,RU - Grimace
@@ -858,7 +858,7 @@ group,Point
 	3621,CD - Grin
 	3622,CD - Ambitious
 	3623,CD - Sheepish
-	3624,CD - Nehhh
+	3624,CD - Ick
 	3625,CD - Bleh
 	3626,CD - Yikes
 	3627,CD - Grimace
@@ -880,7 +880,7 @@ group,Point
 	3721,CU - Grin
 	3722,CU - Ambitious
 	3723,CU - Sheepish
-	3724,CU - Nehhh
+	3724,CU - Ick
 	3725,CU - Bleh
 	3726,CU - Yikes
 	3727,CU - Grimace
@@ -902,7 +902,7 @@ group,Point
 	3821,S - Grin
 	3822,S - Ambitious
 	3823,S - Sheepish
-	3824,S - Nehhh
+	3824,S - Ick
 	3825,S - Bleh
 	3826,S - Yikes
 	3827,S - Grimace
@@ -929,7 +929,7 @@ group,Think
 	4021,Grin
 	4022,Ambitious
 	4023,Sheepish
-	4024,Nehhh
+	4024,Ick
 	4025,Bleh
 	4026,Yikes
 	4027,Grimace
@@ -951,7 +951,7 @@ group,Think
 	4121,F - Grin
 	4122,F - Ambitious
 	4123,F - Sheepish
-	4124,F - Nehhh
+	4124,F - Ick
 	4125,F - Bleh
 	4126,F - Yikes
 	4127,F - Grimace
@@ -973,7 +973,7 @@ group,Think
 	4221,L - Grin
 	4222,L - Ambitious
 	4223,L - Sheepish
-	4224,L - Nehhh
+	4224,L - Ick
 	4225,L - Bleh
 	4226,L - Yikes
 	4227,L - Grimace
@@ -995,7 +995,7 @@ group,Think
 	4321,R - Grin
 	4322,R - Ambitious
 	4323,R - Sheepish
-	4324,R - Nehhh
+	4324,R - Ick
 	4325,R - Bleh
 	4326,R - Yikes
 	4327,R - Grimace
@@ -1017,7 +1017,7 @@ group,Think
 	4421,LU - Grin
 	4422,LU - Ambitious
 	4423,LU - Sheepish
-	4424,LU - Nehhh
+	4424,LU - Ick
 	4425,LU - Bleh
 	4426,LU - Yikes
 	4427,LU - Grimace
@@ -1039,7 +1039,7 @@ group,Think
 	4521,RU - Grin
 	4522,RU - Ambitious
 	4523,RU - Sheepish
-	4524,RU - Nehhh
+	4524,RU - Ick
 	4525,RU - Bleh
 	4526,RU - Yikes
 	4527,RU - Grimace
@@ -1061,7 +1061,7 @@ group,Think
 	4621,CD - Grin
 	4622,CD - Ambitious
 	4623,CD - Sheepish
-	4624,CD - Nehhh
+	4624,CD - Ick
 	4625,CD - Bleh
 	4626,CD - Yikes
 	4627,CD - Grimace
@@ -1083,7 +1083,7 @@ group,Think
 	4721,CU - Grin
 	4722,CU - Ambitious
 	4723,CU - Sheepish
-	4724,CU - Nehhh
+	4724,CU - Ick
 	4725,CU - Bleh
 	4726,CU - Yikes
 	4727,CU - Grimace
@@ -1105,7 +1105,7 @@ group,Think
 	4821,S - Grin
 	4822,S - Ambitious
 	4823,S - Sheepish
-	4824,S - Nehhh
+	4824,S - Ick
 	4825,S - Bleh
 	4826,S - Yikes
 	4827,S - Grimace
