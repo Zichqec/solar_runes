@@ -7,9 +7,7 @@ descript
 //Expression chart
 //PSD
 //Readme
-//Surfacetable settings
-//Satolist settings
-//hide magic glows from dressup menu
+//Should I make the blush and sweat drop default on the hundreds also...? probably... maybe check my other freeshells
 
 
 //—————————— Animations numbering scheme ——————————
@@ -201,7 +199,7 @@ surface21,121,221,321,421,521,621,721,821,1021,1121,1221,1321,1421,1521,1621,172
 	element3,overlay,mouth/grin.png,0,0
 }
 
-//Competitive
+//Ambitious
 surface22,122,222,322,422,522,622,722,822,1022,1122,1222,1322,1422,1522,1622,1722,1822,2022,2122,2222,2322,2422,2522,2622,2722,2822,3022,3122,3222,3322,3422,3522,3622,3722,3822,4022,4122,4222,4322,4422,4522,4622,4722,4822
 {
 	element2,overlay,eyebrows/furrowed.png,0,0
