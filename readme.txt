@@ -1,4 +1,4 @@
-Solar Runes freeshell v1.0.0
+Freeshell "Solar Runes" v1.0.0
 for Etc. Jam 2026
 
 
