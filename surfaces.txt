@@ -500,12 +500,15 @@ surface.append0-4999,!10-19
 	//Brooch
 	animation200.interval,bind
 	animation200.pattern0,overlay,20000,0,0,0
+	animation200.collisionex200,brooch,region,collision/star.png,222,222,222
 	
 	animation201.interval,bind
 	animation201.pattern0,overlay,20001,0,0,0
+	animation201.collisionex200,brooch,region,collision/star_moon.png,222,222,222
 	
 	animation202.interval,bind
 	animation202.pattern0,overlay,20002,0,0,0
+	animation202.collisionex200,brooch,region,collision/moon.png,222,222,222
 	
 	
 	//Book color
@@ -785,6 +788,13 @@ surface.append0-4999,!10-19
 	animation10000.pattern9,move,-1,200,0,-1
 	animation10000.pattern10,move,-1,350,0,-1
 	animation10000.option,shared-index
+}
+
+//Collisions
+surface.append0-4999,!10-19
+{
+	collisionex0,head,region,collision/head.png,222,222,222
+	collisionex1,book,region,collision/book.png,222,222,222
 }
 
 //—————————————————————————————— Kero surfaces ——————————————————————————————
