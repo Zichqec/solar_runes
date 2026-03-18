@@ -35,6 +35,11 @@ surface300001
 	element0,overlay,eyes/blink_half.png,0,0
 }
 
+surface300002
+{
+	element0,overlay,eyes/blink_quarter.png,0,0
+}
+
 
 //—————————————————————————————— Talk ——————————————————————————————
 surface300050
@@ -342,8 +347,129 @@ surface100103
 }
 
 
+//Green
+surface100200
+{
+	element0,overlay,magic/fire_glow/green_00.png,0,0
+}
+
+surface100201
+{
+	element0,overlay,magic/fire_glow/green_01.png,0,0
+}
+
+surface100202
+{
+	element0,overlay,magic/fire_glow/green_02.png,0,0
+}
+
+surface100203
+{
+	element0,overlay,magic/fire_glow/green_03.png,0,0
+}
+
+
+//—————————— Soul spin ——————————
+//Purple
+surface110000
+{
+	element0,overlay,magic/soul_spin_glow/purple_00.png,0,0
+}
+
+surface110001
+{
+	element0,overlay,magic/soul_spin_glow/purple_01.png,0,0
+}
+
+surface110002
+{
+	element0,overlay,magic/soul_spin_glow/purple_02.png,0,0
+}
+
+surface110003
+{
+	element0,overlay,magic/soul_spin_glow/purple_03.png,0,0
+}
+
+surface110004
+{
+	element0,overlay,magic/soul_spin_glow/purple_04.png,0,0
+}
+
+
+//Yellow
+surface110100
+{
+	element0,overlay,magic/soul_spin_glow/yellow_00.png,0,0
+}
+
+surface110101
+{
+	element0,overlay,magic/soul_spin_glow/yellow_01.png,0,0
+}
+
+surface110102
+{
+	element0,overlay,magic/soul_spin_glow/yellow_02.png,0,0
+}
+
+surface110103
+{
+	element0,overlay,magic/soul_spin_glow/yellow_03.png,0,0
+}
+
+surface110104
+{
+	element0,overlay,magic/soul_spin_glow/yellow_04.png,0,0
+}
+
+
+//—————————— Soul chasers ——————————
+//Purple & yellow
+surface120000
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_00.png,0,0
+}
+
+surface120001
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_01.png,0,0
+}
+
+surface120002
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_02.png,0,0
+}
+
+surface120003
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_03.png,0,0
+}
+
+surface120004
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_04.png,0,0
+}
+
+surface120005
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_05.png,0,0
+}
+
+surface120006
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_06.png,0,0
+}
+
+surface120007
+{
+	element0,overlay,magic/soul_chasers_glow/purple_yellow_07.png,0,0
+}
+
+
 //—————————————————————————————— Magic ——————————————————————————————
-//orange
+//—————————— Fire ——————————
+//Orange
 surface200000
 {
 	element0,overlay,magic/fire/orange_00.png,0,0
@@ -386,7 +512,166 @@ surface200103
 	element0,overlay,magic/fire/blue_03.png,0,0
 }
 
-//Disable non-expression pieces in Satolist
+
+//Green
+surface200200
+{
+	element0,overlay,magic/fire/green_00.png,0,0
+}
+
+surface200201
+{
+	element0,overlay,magic/fire/green_01.png,0,0
+}
+
+surface200202
+{
+	element0,overlay,magic/fire/green_02.png,0,0
+}
+
+surface200203
+{
+	element0,overlay,magic/fire/green_03.png,0,0
+}
+
+
+//—————————— Soul spin ——————————
+//Purple
+surface210000
+{
+	element0,overlay,magic/soul_chasers/purple_00.png,0,0
+}
+
+surface210001
+{
+	element0,overlay,magic/soul_chasers/purple_01.png,0,0
+}
+
+surface210002
+{
+	element0,overlay,magic/soul_chasers/purple_02.png,0,0
+}
+
+surface210003
+{
+	element0,overlay,magic/soul_chasers/purple_03.png,0,0
+}
+
+surface210004
+{
+	element0,overlay,magic/soul_chasers/purple_04.png,0,0
+}
+
+surface210005
+{
+	element0,overlay,magic/soul_chasers/purple_05.png,0,0
+}
+
+surface210006
+{
+	element0,overlay,magic/soul_chasers/purple_06.png,0,0
+}
+
+surface210007
+{
+	element0,overlay,magic/soul_chasers/purple_07.png,0,0
+}
+
+
+//Yellow
+surface210100
+{
+	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+}
+
+surface210101
+{
+	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+}
+
+surface210102
+{
+	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+}
+
+surface210103
+{
+	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+}
+
+surface210104
+{
+	element0,overlay,magic/soul_chasers/yellow_04.png,0,0
+}
+
+surface210105
+{
+	element0,overlay,magic/soul_chasers/yellow_05.png,0,0
+}
+
+surface210106
+{
+	element0,overlay,magic/soul_chasers/yellow_06.png,0,0
+}
+
+surface210107
+{
+	element0,overlay,magic/soul_chasers/yellow_07.png,0,0
+}
+
+
+//—————————— Soul chasers ——————————
+//Purple & yellow
+surface220000
+{
+	element0,overlay,magic/soul_chasers/purple_00.png,0,0
+	element1,overlay,magic/soul_chasers/yellow_04.png,0,0
+}
+
+surface220001
+{
+	element0,overlay,magic/soul_chasers/purple_01.png,0,0
+	element1,overlay,magic/soul_chasers/yellow_05.png,0,0
+}
+
+surface220002
+{
+	element0,overlay,magic/soul_chasers/purple_02.png,0,0
+	element1,overlay,magic/soul_chasers/yellow_06.png,0,0
+}
+
+surface220003
+{
+	element0,overlay,magic/soul_chasers/purple_03.png,0,0
+	element1,overlay,magic/soul_chasers/yellow_07.png,0,0
+}
+
+surface220004
+{
+	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+	element1,overlay,magic/soul_chasers/purple_04.png,0,0
+}
+
+surface220005
+{
+	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+	element1,overlay,magic/soul_chasers/purple_05.png,0,0
+}
+
+surface220006
+{
+	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+	element1,overlay,magic/soul_chasers/purple_06.png,0,0
+}
+
+surface220007
+{
+	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+	element1,overlay,magic/soul_chasers/purple_07.png,0,0
+}
+
+
+//——————————————— Disable non-expression pieces in Satolist ———————————————
 surface.append10000-399999,999000,4999000
 {
 	//satolist.palette.visible,0

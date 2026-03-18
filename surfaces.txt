@@ -10,7 +10,6 @@ descript
 //Expression chart
 //PSD
 //Readme
-//Should I make the blush and sweat drop default on the hundreds also...? probably... maybe check my other freeshells
 
 
 //—————————— Animations numbering scheme ——————————
@@ -112,6 +111,14 @@ surface800-809,820-829,1800-1809,1820-1829,2800-2809,2820-2829,3800-3809,3820-38
 {
 	element0,overlay,base.png,0,0
 	element1,overlay,eyes/squeeze.png,0,0	
+}
+
+
+//—————————— Half eyes ——————————
+//These are here because, other than the default eyes, the 3 and 4 expression match when the eyes are the same
+surface104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,1604,1704,1804,2104,2204,2304,2404,2504,2604,2704,2804,3104,3204,3304,3404,3504,3604,3704,3804,4104,4204,4304,4404,4504,4604,4704,4804
+{
+	element5,overlay,eyes/blink_half.png,0,0
 }
 
 
@@ -310,11 +317,21 @@ surface4999000
 
 
 //Blink
-surface.append0-4999,!10,!4,!1004,!2004,!3004,!4004,!6,!1006,!2006,!3006,!4006,!9,!1009,!2009,!3009,!4009,!600-899,!1600-1899,!2600-2899,!3600-3899,!4600-4899
+surface.append0-4999,!10,!4,!1004,!2004,!3004,!4004,!6,!1006,!2006,!3006,!4006,!9,!1009,!2009,!3009,!4009,!600-899,!1600-1899,!2600-2899,!3600-3899,!4600-4899,!104,!204,!304,!404,!504,!604,!704,!804,!1104,!1204,!1304,!1404,!1504,!1604,!1704,!1804,!2104,!2204,!2304,!2404,!2504,!2604,!2704,!2804,!3104,!3204,!3304,!3404,!3504,!3604,!3704,!3804,!4104,!4204,!4304,!4404,!4504,!4604,!4704,!4804
 {
 	animation0.interval,random,4
 	animation0.pattern0,overlay,300000,0,0,0
 	animation0.pattern1,overlay,300001,75,0,0
+	animation0.pattern2,overlay,-1,50,0,0
+	animation0.option,shared-index
+}
+
+//Separate blink for these ones because I made special half eyes to separate a couple of expressions that were the same with the non-default eyes
+surface.append104,204,304,404,504,604,704,804,1104,1204,1304,1404,1504,1604,1704,1804,2104,2204,2304,2404,2504,2604,2704,2804,3104,3204,3304,3404,3504,3604,3704,3804,4104,4204,4304,4404,4504,4604,4704,4804
+{
+	animation0.interval,random,4
+	animation0.pattern0,overlay,300000,0,0,0
+	animation0.pattern1,overlay,300002,75,0,0
 	animation0.pattern2,overlay,-1,50,0,0
 	animation0.option,shared-index
 }
@@ -420,13 +437,13 @@ surface.append24,124,224,324,424,524,624,724,824,1024,1124,1224,1324,1424,1524,1
 
 
 //Blush
-surface.append0-4999,!10-19,!1,!1001,!2001,!3001,!4001,!9,!9001,!9002,!9003,!9004
+surface.append0-4999,!10-19,!1,!101,!201,!301,!401,!501,!601,!701,!801,!1001,!1101,!1201,!1301,!1401,!1501,!1601,!1701,!1801,!2001,!2101,!2201,!2301,!2401,!2501,!2601,!2701,!2801,!3001,!3101,!3201,!3301,!3401,!3501,!3601,!3701,!3801,!4001,!4101,!4201,!4301,!4401,!4501,!4601,!4701,!4801,!9,!109,!209,!309,!409,!509,!609,!709,!809,!1009,!1109,!1209,!1309,!1409,!1509,!1609,!1709,!1809,!2009,!2109,!2209,!2309,!2409,!2509,!2609,!2709,!2809,!3009,!3109,!3209,!3309,!3409,!3509,!3609,!3709,!3809,!4009,!4109,!4209,!4309,!4409,!4509,!4609,!4709,!4809
 {
 	animation11.interval,never
 	animation11.pattern0,overlaymultiply,300101,0,0,0
 }
 
-surface.append1,1001,2001,3001,4001,9001,9002,9003,9004
+surface.append1,101,201,301,401,501,601,701,801,1001,1101,1201,1301,1401,1501,1601,1701,1801,2001,2101,2201,2301,2401,2501,2601,2701,2801,3001,3101,3201,3301,3401,3501,3601,3701,3801,4001,4101,4201,4301,4401,4501,4601,4701,4801,9,109,209,309,409,509,609,709,809,1009,1109,1209,1309,1409,1509,1609,1709,1809,2009,2109,2209,2309,2409,2509,2609,2709,2809,3009,3109,3209,3309,3409,3509,3609,3709,3809,4009,4109,4209,4309,4409,4509,4609,4709,4809
 {
 	animation11.interval,runonce
 	animation11.pattern0,overlaymultiply,300101,0,0,0
@@ -434,13 +451,13 @@ surface.append1,1001,2001,3001,4001,9001,9002,9003,9004
 
 
 //Sweat
-surface.append0-4999,!10-19,!8,!1008,!2008,!3008,!1008
+surface.append0-4999,!10-19,!8,!108,!208,!308,!408,!508,!608,!708,!808,!1008,!1108,!1208,!1308,!1408,!1508,!1608,!1708,!1808,!2008,!2108,!2208,!2308,!2408,!2508,!2608,!2708,!2808,!3008,!3108,!3208,!3308,!3408,!3508,!3608,!3708,!3808,!4008,!4108,!4208,!4308,!4408,!4508,!4608,!4708,!4808
 {
 	animation12.interval,never
 	animation12.pattern0,overlay,300102,0,0,0
 }
 
-surface.append8,1008,2008,3008,1008
+surface.append8,108,208,308,408,508,608,708,808,1008,1108,1208,1308,1408,1508,1608,1708,1808,2008,2108,2208,2308,2408,2508,2608,2708,2808,3008,3108,3208,3308,3408,3508,3608,3708,3808,4008,4108,4208,4308,4408,4508,4608,4708,4808
 {
 	animation12.interval,runonce
 	animation12.pattern0,overlay,300102,0,0,0
@@ -612,7 +629,8 @@ surface.append4000-4999,4999000
 //Magic + glows
 surface.append2000-2999
 {
-	//Fire - orange
+	//—————————— Fire ——————————
+	//Orange
 	animation1000.interval,bind+always
 	animation1000.pattern0,overlayfast,100000,0,0,0
 	animation1000.pattern1,overlayfast,100001,100,0,0
@@ -629,7 +647,7 @@ surface.append2000-2999
 	animation2000.pattern4,overlay,200003,100,0,0
 	animation2000.option,shared-index
 	
-	//Fire - blue
+	//Blue
 	animation1001.interval,bind+always
 	animation1001.pattern0,overlayfast,100100,0,0,0
 	animation1001.pattern1,overlayfast,100101,100,0,0
@@ -645,6 +663,102 @@ surface.append2000-2999
 	animation2001.pattern3,overlay,200103,100,0,0
 	animation2001.pattern4,overlay,200103,100,0,0
 	animation2001.option,shared-index
+	
+	//Green
+	animation1002.interval,bind+always
+	animation1002.pattern0,overlayfast,100200,0,0,0
+	animation1002.pattern1,overlayfast,100201,100,0,0
+	animation1002.pattern2,overlayfast,100202,100,0,0
+	animation1002.pattern3,overlayfast,100203,100,0,0
+	animation1002.pattern4,overlayfast,100203,100,0,0
+	animation1002.option,shared-index
+	
+	animation2002.interval,bind+always
+	animation2002.pattern0,overlay,200200,0,0,0
+	animation2002.pattern1,overlay,200201,100,0,0
+	animation2002.pattern2,overlay,200202,100,0,0
+	animation2002.pattern3,overlay,200203,100,0,0
+	animation2002.pattern4,overlay,200203,100,0,0
+	animation2002.option,shared-index
+	
+	
+	//—————————— Soul spin ——————————
+	//Purple
+	animation1100.interval,bind+always
+	animation1100.pattern0,overlayfast,110000,0,0,0
+	animation1100.pattern1,overlayfast,110001,100,0,0
+	animation1100.pattern2,overlayfast,110002,100,0,0
+	animation1100.pattern3,overlayfast,110003,100,0,0
+	animation1100.pattern4,overlayfast,110004,100,0,0
+	animation1100.pattern5,overlayfast,110003,100,0,0
+	animation1100.pattern6,overlayfast,110002,100,0,0
+	animation1100.pattern7,overlayfast,110001,100,0,0
+	animation1100.pattern8,overlayfast,110001,100,0,0
+	animation1100.option,shared-index
+	
+	animation2100.interval,bind+always
+	animation2100.pattern0,overlay,210000,0,0,0
+	animation2100.pattern1,overlay,210001,100,0,0
+	animation2100.pattern2,overlay,210002,100,0,0
+	animation2100.pattern3,overlay,210003,100,0,0
+	animation2100.pattern4,overlay,210004,100,0,0
+	animation2100.pattern5,overlay,210005,100,0,0
+	animation2100.pattern6,overlay,210006,100,0,0
+	animation2100.pattern7,overlay,210007,100,0,0
+	animation2100.pattern8,overlay,210007,100,0,0
+	animation2100.option,shared-index
+	
+	//Yellow
+	animation1101.interval,bind+always
+	animation1101.pattern0,overlayfast,110100,0,0,0
+	animation1101.pattern1,overlayfast,110101,100,0,0
+	animation1101.pattern2,overlayfast,110102,100,0,0
+	animation1101.pattern3,overlayfast,110103,100,0,0
+	animation1101.pattern4,overlayfast,110104,100,0,0
+	animation1101.pattern5,overlayfast,110103,100,0,0
+	animation1101.pattern6,overlayfast,110102,100,0,0
+	animation1101.pattern7,overlayfast,110101,100,0,0
+	animation1101.pattern8,overlayfast,110101,100,0,0
+	animation1101.option,shared-index
+	
+	animation2101.interval,bind+always
+	animation2101.pattern0,overlay,210100,0,0,0
+	animation2101.pattern1,overlay,210101,100,0,0
+	animation2101.pattern2,overlay,210102,100,0,0
+	animation2101.pattern3,overlay,210103,100,0,0
+	animation2101.pattern4,overlay,210104,100,0,0
+	animation2101.pattern5,overlay,210105,100,0,0
+	animation2101.pattern6,overlay,210106,100,0,0
+	animation2101.pattern7,overlay,210107,100,0,0
+	animation2101.pattern8,overlay,210107,100,0,0
+	animation2101.option,shared-index
+	
+	
+	//—————————— Soul chasers ——————————
+	//Purple & yellow
+	animation1200.interval,bind+always
+	animation1200.pattern0,overlayfast,120000,0,0,0
+	animation1200.pattern1,overlayfast,120001,100,0,0
+	animation1200.pattern2,overlayfast,120002,100,0,0
+	animation1200.pattern3,overlayfast,120003,100,0,0
+	animation1200.pattern4,overlayfast,120004,100,0,0
+	animation1200.pattern5,overlayfast,120005,100,0,0
+	animation1200.pattern6,overlayfast,120006,100,0,0
+	animation1200.pattern7,overlayfast,120007,100,0,0
+	animation1200.pattern8,overlayfast,120007,100,0,0
+	animation1200.option,shared-index
+	
+	animation2200.interval,bind+always
+	animation2200.pattern0,overlay,220000,0,0,0
+	animation2200.pattern1,overlay,220001,100,0,0
+	animation2200.pattern2,overlay,220002,100,0,0
+	animation2200.pattern3,overlay,220003,100,0,0
+	animation2200.pattern4,overlay,220004,100,0,0
+	animation2200.pattern5,overlay,220005,100,0,0
+	animation2200.pattern6,overlay,220006,100,0,0
+	animation2200.pattern7,overlay,220007,100,0,0
+	animation2200.pattern8,overlay,220007,100,0,0
+	animation2200.option,shared-index
 }
 
 //Float

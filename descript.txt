@@ -64,7 +64,17 @@ sakura.bindgroup2000.addid,1000
 sakura.bindgroup2001.name,Spell,Fire - blue
 sakura.bindgroup2001.addid,1001
 
-//TODO make colors be nested...???
+sakura.bindgroup2002.name,Spell,Fire - green
+sakura.bindgroup2002.addid,1002
+
+sakura.bindgroup2100.name,Spell,Soul spin - purple
+sakura.bindgroup2100.addid,1100
+
+sakura.bindgroup2101.name,Spell,Soul spin - yellow
+sakura.bindgroup2101.addid,1101
+
+sakura.bindgroup2200.name,Spell,Soul chasers - purple & yellow
+sakura.bindgroup2200.addid,1200
 
 sakura.bindgroup10000.default,1
 
