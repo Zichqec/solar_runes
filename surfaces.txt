@@ -23,8 +23,8 @@ descript
 //400 - Book cover (multiply)
 //500 - Left rings
 //600 - Right rings
-//10000 - Magic glow
-//20000 - Magic
+//1000 - Magic glow
+//2000 - Magic
 
 
 //—————————————————————————————— Sakura surfaces ——————————————————————————————
