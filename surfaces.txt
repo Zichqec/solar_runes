@@ -620,137 +620,72 @@ surface.append4000-4999,4999000
 surface.append2000-2999
 {
 	//—————————— Fire ——————————
-	//Orange
 	animation1000.interval,bind+always
-	animation1000.pattern0,overlayfast,100000,0,0,0
-	animation1000.pattern1,overlayfast,100001,100,0,0
-	animation1000.pattern2,overlayfast,100002,100,0,0
-	animation1000.pattern3,overlayfast,100003,100,0,0
-	animation1000.pattern4,overlayfast,100003,100,0,0
+	animation1000.pattern0,overlayfast,70000,0,0,0
+	animation1000.pattern1,overlayfast,70001,100,0,0
+	animation1000.pattern2,overlayfast,70002,100,0,0
+	animation1000.pattern3,overlayfast,70003,100,0,0
+	animation1000.pattern4,overlayfast,70003,100,0,0
 	animation1000.option,shared-index
 	
 	animation2000.interval,bind+always
-	animation2000.pattern0,overlay,200000,0,0,0
-	animation2000.pattern1,overlay,200001,100,0,0
-	animation2000.pattern2,overlay,200002,100,0,0
-	animation2000.pattern3,overlay,200003,100,0,0
-	animation2000.pattern4,overlay,200003,100,0,0
+	animation2000.pattern0,overlay,80000,0,0,0
+	animation2000.pattern1,overlay,80001,100,0,0
+	animation2000.pattern2,overlay,80002,100,0,0
+	animation2000.pattern3,overlay,80003,100,0,0
+	animation2000.pattern4,overlay,80003,100,0,0
 	animation2000.option,shared-index
 	
 	
-	//Blue
-	animation1001.interval,bind+always
-	animation1001.pattern0,overlayfast,100100,0,0,0
-	animation1001.pattern1,overlayfast,100101,100,0,0
-	animation1001.pattern2,overlayfast,100102,100,0,0
-	animation1001.pattern3,overlayfast,100103,100,0,0
-	animation1001.pattern4,overlayfast,100103,100,0,0
-	animation1001.option,shared-index
-	
-	animation2001.interval,bind+always
-	animation2001.pattern0,overlay,200100,0,0,0
-	animation2001.pattern1,overlay,200101,100,0,0
-	animation2001.pattern2,overlay,200102,100,0,0
-	animation2001.pattern3,overlay,200103,100,0,0
-	animation2001.pattern4,overlay,200103,100,0,0
-	animation2001.option,shared-index
-	
-	
-	//Green
-	animation1002.interval,bind+always
-	animation1002.pattern0,overlayfast,100200,0,0,0
-	animation1002.pattern1,overlayfast,100201,100,0,0
-	animation1002.pattern2,overlayfast,100202,100,0,0
-	animation1002.pattern3,overlayfast,100203,100,0,0
-	animation1002.pattern4,overlayfast,100203,100,0,0
-	animation1002.option,shared-index
-	
-	animation2002.interval,bind+always
-	animation2002.pattern0,overlay,200200,0,0,0
-	animation2002.pattern1,overlay,200201,100,0,0
-	animation2002.pattern2,overlay,200202,100,0,0
-	animation2002.pattern3,overlay,200203,100,0,0
-	animation2002.pattern4,overlay,200203,100,0,0
-	animation2002.option,shared-index
-	
-	
 	//—————————— Soul spin ——————————
-	//Purple
 	animation1100.interval,bind+always
-	animation1100.pattern0,overlayfast,110001,0,0,0
-	animation1100.pattern1,overlayfast,110002,100,0,0
-	animation1100.pattern2,overlayfast,110003,100,0,0
-	animation1100.pattern3,overlayfast,110004,100,0,0
-	animation1100.pattern4,overlayfast,110003,100,0,0
-	animation1100.pattern5,overlayfast,110002,100,0,0
-	animation1100.pattern6,overlayfast,110001,100,0,0
-	animation1100.pattern7,overlayfast,110000,100,0,0
-	animation1100.pattern8,overlayfast,110000,100,0,0
+	animation1100.pattern0,overlayfast,71001,0,0,0
+	animation1100.pattern1,overlayfast,71002,100,0,0
+	animation1100.pattern2,overlayfast,71003,100,0,0
+	animation1100.pattern3,overlayfast,71004,100,0,0
+	animation1100.pattern4,overlayfast,71003,100,0,0
+	animation1100.pattern5,overlayfast,71002,100,0,0
+	animation1100.pattern6,overlayfast,71001,100,0,0
+	animation1100.pattern7,overlayfast,71000,100,0,0
+	animation1100.pattern8,overlayfast,71000,100,0,0
 	animation1100.option,shared-index
 	
 	animation2100.interval,bind+always
-	animation2100.pattern0,overlay,210000,0,0,0
-	animation2100.pattern1,overlay,210001,100,0,0
-	animation2100.pattern2,overlay,210002,100,0,0
-	animation2100.pattern3,overlay,210003,100,0,0
-	animation2100.pattern4,overlay,210004,100,0,0
-	animation2100.pattern5,overlay,210005,100,0,0
-	animation2100.pattern6,overlay,210006,100,0,0
-	animation2100.pattern7,overlay,210007,100,0,0
-	animation2100.pattern8,overlay,210007,100,0,0
+	animation2100.pattern0,overlay,81000,0,0,0
+	animation2100.pattern1,overlay,81001,100,0,0
+	animation2100.pattern2,overlay,81002,100,0,0
+	animation2100.pattern3,overlay,81003,100,0,0
+	animation2100.pattern4,overlay,81004,100,0,0
+	animation2100.pattern5,overlay,81005,100,0,0
+	animation2100.pattern6,overlay,81006,100,0,0
+	animation2100.pattern7,overlay,81007,100,0,0
+	animation2100.pattern8,overlay,81007,100,0,0
 	animation2100.option,shared-index
 	
 	
-	//Yellow
-	animation1101.interval,bind+always
-	animation1101.pattern0,overlayfast,110101,0,0,0
-	animation1101.pattern1,overlayfast,110102,100,0,0
-	animation1101.pattern2,overlayfast,110103,100,0,0
-	animation1101.pattern3,overlayfast,110104,100,0,0
-	animation1101.pattern4,overlayfast,110103,100,0,0
-	animation1101.pattern5,overlayfast,110102,100,0,0
-	animation1101.pattern6,overlayfast,110101,100,0,0
-	animation1101.pattern7,overlayfast,110100,100,0,0
-	animation1101.pattern8,overlayfast,110100,100,0,0
-	animation1101.option,shared-index
-	
-	animation2101.interval,bind+always
-	animation2101.pattern0,overlay,210100,0,0,0
-	animation2101.pattern1,overlay,210101,100,0,0
-	animation2101.pattern2,overlay,210102,100,0,0
-	animation2101.pattern3,overlay,210103,100,0,0
-	animation2101.pattern4,overlay,210104,100,0,0
-	animation2101.pattern5,overlay,210105,100,0,0
-	animation2101.pattern6,overlay,210106,100,0,0
-	animation2101.pattern7,overlay,210107,100,0,0
-	animation2101.pattern8,overlay,210107,100,0,0
-	animation2101.option,shared-index
-	
-	
 	//—————————— Soul chasers ——————————
-	//Purple & yellow
 	animation1200.interval,bind+always
-	animation1200.pattern0,overlayfast,120000,0,0,0
-	animation1200.pattern1,overlayfast,120001,100,0,0
-	animation1200.pattern2,overlayfast,120002,100,0,0
-	animation1200.pattern3,overlayfast,120003,100,0,0
-	animation1200.pattern4,overlayfast,120004,100,0,0
-	animation1200.pattern5,overlayfast,120005,100,0,0
-	animation1200.pattern6,overlayfast,120006,100,0,0
-	animation1200.pattern7,overlayfast,120007,100,0,0
-	animation1200.pattern8,overlayfast,120007,100,0,0
+	animation1200.pattern0,overlayfast,72000,0,0,0
+	animation1200.pattern1,overlayfast,72001,100,0,0
+	animation1200.pattern2,overlayfast,72002,100,0,0
+	animation1200.pattern3,overlayfast,72003,100,0,0
+	animation1200.pattern4,overlayfast,72004,100,0,0
+	animation1200.pattern5,overlayfast,72005,100,0,0
+	animation1200.pattern6,overlayfast,72006,100,0,0
+	animation1200.pattern7,overlayfast,72007,100,0,0
+	animation1200.pattern8,overlayfast,72007,100,0,0
 	animation1200.option,shared-index
 	
 	animation2200.interval,bind+always
-	animation2200.pattern0,overlay,220000,0,0,0
-	animation2200.pattern1,overlay,220001,100,0,0
-	animation2200.pattern2,overlay,220002,100,0,0
-	animation2200.pattern3,overlay,220003,100,0,0
-	animation2200.pattern4,overlay,220004,100,0,0
-	animation2200.pattern5,overlay,220005,100,0,0
-	animation2200.pattern6,overlay,220006,100,0,0
-	animation2200.pattern7,overlay,220007,100,0,0
-	animation2200.pattern8,overlay,220007,100,0,0
+	animation2200.pattern0,overlay,82000,0,0,0
+	animation2200.pattern1,overlay,82001,100,0,0
+	animation2200.pattern2,overlay,82002,100,0,0
+	animation2200.pattern3,overlay,82003,100,0,0
+	animation2200.pattern4,overlay,82004,100,0,0
+	animation2200.pattern5,overlay,82005,100,0,0
+	animation2200.pattern6,overlay,82006,100,0,0
+	animation2200.pattern7,overlay,82007,100,0,0
+	animation2200.pattern8,overlay,82007,100,0,0
 	animation2200.option,shared-index
 }
 

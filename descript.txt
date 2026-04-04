@@ -59,23 +59,59 @@ sakura.bindgroup611.name,Ring - left middle finger,Gold
 
 sakura.bindgroup2000.default,1
 
-sakura.bindgroup2000.name,Spell,Fire - orange
+sakura.bindgroup2000.name,Spell,Fire
 sakura.bindgroup2000.addid,1000
 
-sakura.bindgroup2001.name,Spell,Fire - blue
-sakura.bindgroup2001.addid,1001
-
-sakura.bindgroup2002.name,Spell,Fire - green
-sakura.bindgroup2002.addid,1002
-
-sakura.bindgroup2100.name,Spell,Soul spin - purple
+sakura.bindgroup2100.name,Spell,Soul spin
 sakura.bindgroup2100.addid,1100
 
-sakura.bindgroup2101.name,Spell,Soul spin - yellow
-sakura.bindgroup2101.addid,1101
-
-sakura.bindgroup2200.name,Spell,Soul chasers - purple & yellow
+sakura.bindgroup2200.name,Spell,Soul chasers
 sakura.bindgroup2200.addid,1200
+
+
+sakura.bindoption8000.group,Fire color,mustselect
+sakura.bindgroup8000.default,1
+
+sakura.bindgroup8000.name,Fire color,Orange
+sakura.bindgroup8000.addid,7000
+
+sakura.bindgroup8001.name,Fire color,Blue
+sakura.bindgroup8001.addid,7001
+
+sakura.bindgroup8002.name,Fire color,Green
+sakura.bindgroup8002.addid,7002
+
+
+sakura.bindoption8100.group,Soul spin color,mustselect
+sakura.bindgroup8100.default,1
+
+sakura.bindgroup8100.name,Soul spin color,Purple
+sakura.bindgroup8100.addid,7100
+
+sakura.bindgroup8101.name,Soul spin color,Yellow
+sakura.bindgroup8101.addid,7101
+
+
+sakura.bindoption8200.group,Soul chasers primary color,mustselect
+sakura.bindgroup8200.default,1
+
+sakura.bindgroup8200.name,Soul chasers primary color,Purple
+sakura.bindgroup8200.addid,7200
+
+sakura.bindgroup8201.name,Soul chasers primary color,Yellow
+sakura.bindgroup8201.addid,7201
+
+
+sakura.bindoption8250.group,Soul chasers secondary color,mustselect
+sakura.bindgroup8251.default,1
+
+sakura.bindgroup8250.name,Soul chasers secondary color,Purple
+sakura.bindgroup8250.addid,7250
+
+sakura.bindgroup8251.name,Soul chasers secondary color,Yellow
+sakura.bindgroup8251.addid,7251
+
+
 
 sakura.bindgroup10000.default,1
 

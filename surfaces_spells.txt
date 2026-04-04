@@ -1,0 +1,660 @@
+descript
+{
+	version,1
+}
+
+//—————————— Animations numbering scheme ——————————
+//0 - Blink
+//5 - Talk
+//11 - Blush (multiply)
+//12 - Sweat
+//20 - Kick (background)
+//100 - Tabard
+//200 - Brooch
+//300 - Book color
+//400 - Book cover (multiply)
+//500 - Left rings
+//600 - Right rings
+//1000 - Magic glow
+//2000 - Magic
+
+//The numbering here is a bit awkward because I moved things around later...
+//This numbering only needs to specify the base spell slot and the frame, it DOES NOT need to specify color as that is handled by the dressups within.
+//Lets just... assume 100 spell slots in case I later expand it. Less to renumber.
+//# ## ## with first digit ignored, second two as spell slot, last two as frame
+
+//—————————— Spell glows ——————————
+//—————————— Fire ——————————
+surface70000
+{
+	//Orange
+	animation7000.interval,bind
+	animation7000.pattern0,overlay,100000,0,0,0
+	
+	//Blue
+	animation7001.interval,bind
+	animation7001.pattern0,overlay,100100,0,0,0
+	
+	//Green
+	animation7002.interval,bind
+	animation7002.pattern0,overlay,100200,0,0,0
+}
+
+surface70001
+{
+	//Orange
+	animation7000.interval,bind
+	animation7000.pattern0,overlay,100001,0,0,0
+	
+	//Blue
+	animation7001.interval,bind
+	animation7001.pattern0,overlay,100101,0,0,0
+	
+	//Green
+	animation7002.interval,bind
+	animation7002.pattern0,overlay,100201,0,0,0
+}
+
+surface70002
+{
+	//Orange
+	animation7000.interval,bind
+	animation7000.pattern0,overlay,100002,0,0,0
+	
+	//Blue
+	animation7001.interval,bind
+	animation7001.pattern0,overlay,100102,0,0,0
+	
+	//Green
+	animation7002.interval,bind
+	animation7002.pattern0,overlay,100202,0,0,0
+}
+
+surface70003
+{
+	//Orange
+	animation7000.interval,bind
+	animation7000.pattern0,overlay,100003,0,0,0
+	
+	//Blue
+	animation7001.interval,bind
+	animation7001.pattern0,overlay,100103,0,0,0
+	
+	//Green
+	animation7002.interval,bind
+	animation7002.pattern0,overlay,100203,0,0,0
+}
+
+
+//—————————— Soul spin ——————————
+surface71000
+{
+	//Purple
+	animation7100.interval,bind
+	animation7100.pattern0,overlay,110000,0,0,0
+	
+	//Yellow
+	animation7101.interval,bind
+	animation7101.pattern0,overlay,110100,0,0,0
+}
+
+surface71001
+{
+	//Purple
+	animation7100.interval,bind
+	animation7100.pattern0,overlay,110001,0,0,0
+	
+	//Yellow
+	animation7101.interval,bind
+	animation7101.pattern0,overlay,110101,0,0,0
+}
+
+surface71002
+{
+	//Purple
+	animation7100.interval,bind
+	animation7100.pattern0,overlay,110002,0,0,0
+	
+	//Yellow
+	animation7101.interval,bind
+	animation7101.pattern0,overlay,110102,0,0,0
+}
+
+surface71003
+{
+	//Purple
+	animation7100.interval,bind
+	animation7100.pattern0,overlay,110003,0,0,0
+	
+	//Yellow
+	animation7101.interval,bind
+	animation7101.pattern0,overlay,110103,0,0,0
+}
+
+surface71004
+{
+	//Purple
+	animation7100.interval,bind
+	animation7100.pattern0,overlay,110004,0,0,0
+	
+	//Yellow
+	animation7101.interval,bind
+	animation7101.pattern0,overlay,110104,0,0,0
+}
+
+
+//—————————— Soul chasers ——————————
+//TODO the glows will need adjustment for sure
+surface72000
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120000,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120100,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120000,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120100,0,0,0
+}
+
+surface72001
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120001,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120101,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120001,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120101,0,0,0
+}
+
+surface72002
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120002,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120102,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120002,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120102,0,0,0
+}
+
+surface72003
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120003,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120103,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120003,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120103,0,0,0
+}
+
+surface72004
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120004,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120104,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120004,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120104,0,0,0
+}
+
+surface72005
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120005,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120105,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120005,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120105,0,0,0
+}
+
+surface72006
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120006,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120106,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120006,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120106,0,0,0
+}
+
+surface72007
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120007,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120107,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120007,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120107,0,0,0
+}
+
+
+
+//—————————— Spells ——————————
+//—————————— Fire ——————————
+surface80000
+{
+	//Orange
+	animation8000.interval,bind
+	animation8000.pattern0,overlay,200000,0,0,0
+	
+	//Blue
+	animation8001.interval,bind
+	animation8001.pattern0,overlay,200100,0,0,0
+	
+	//Green
+	animation8002.interval,bind
+	animation8002.pattern0,overlay,200200,0,0,0
+}
+
+surface80001
+{
+	//Orange
+	animation8000.interval,bind
+	animation8000.pattern0,overlay,200001,0,0,0
+	
+	//Blue
+	animation8001.interval,bind
+	animation8001.pattern0,overlay,200101,0,0,0
+	
+	//Green
+	animation8002.interval,bind
+	animation8002.pattern0,overlay,200201,0,0,0
+}
+
+surface80002
+{
+	//Orange
+	animation8000.interval,bind
+	animation8000.pattern0,overlay,200002,0,0,0
+	
+	//Blue
+	animation8001.interval,bind
+	animation8001.pattern0,overlay,200102,0,0,0
+	
+	//Green
+	animation8002.interval,bind
+	animation8002.pattern0,overlay,200202,0,0,0
+}
+
+surface80003
+{
+	//Orange
+	animation8000.interval,bind
+	animation8000.pattern0,overlay,200003,0,0,0
+	
+	//Blue
+	animation8001.interval,bind
+	animation8001.pattern0,overlay,200103,0,0,0
+	
+	//Green
+	animation8002.interval,bind
+	animation8002.pattern0,overlay,200203,0,0,0
+}
+
+
+//—————————— Soul spin ——————————
+surface81000
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210000,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210100,0,0,0
+}
+
+surface81001
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210001,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210101,0,0
+}
+
+surface81002
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210002,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210102,0,0,0
+}
+
+surface81003
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210003,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210103,0,0,0
+}
+
+surface81004
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210004,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210104,0,0,0
+}
+
+surface81005
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210005,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210105,0,0,0
+}
+
+surface81006
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210006,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210106,0,0,0
+}
+
+surface81007
+{
+	//Purple
+	animation8100.interval,bind
+	animation8100.pattern0,overlay,210007,0,0,0
+	
+	//Yellow
+	animation8101.interval,bind
+	animation8101.pattern0,overlay,210107,0,0,0
+}
+
+
+//—————————— Soul chasers ——————————
+surface82000
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210000,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210100,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220000,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220100,0,0,0
+}
+
+surface82001
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210001,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210101,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220001,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220101,0,0,0
+}
+
+surface82002
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210002,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210102,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220002,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220102,0,0,0
+}
+
+surface82003
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210003,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210103,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220003,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220103,0,0,0
+}
+
+surface82004
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210004,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210104,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220004,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220104,0,0,0
+}
+
+surface82005
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210005,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210105,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220005,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220105,0,0,0
+}
+
+surface82006
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210006,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210106,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220006,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220106,0,0,0
+}
+
+surface82007
+{
+	//————— Primary —————
+	//Purple
+	animation8200.interval,bind
+	animation8200.pattern0,overlay,210007,0,0,0
+	
+	//Yellow
+	animation8201.interval,bind
+	animation8201.pattern0,overlay,210107,0,0,0
+	
+	
+	//————— Secondary —————
+	//Purple
+	animation8250.interval,bind
+	animation8250.pattern0,overlay,220007,0,0,0
+	
+	//Yellow
+	animation8251.interval,bind
+	animation8251.pattern0,overlay,220107,0,0,0
+}
+
+
+surface.append70000-89999
+{
+	element0,overlay,blank.png,0,0
+}
