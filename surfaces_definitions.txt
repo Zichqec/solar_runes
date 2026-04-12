@@ -428,44 +428,50 @@ surface110104
 //Purple
 surface120000
 {
-	element0,overlay,magic/soul_chasers_glow/purple_100.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple.png,0,0
 }
 
 surface120001
 {
-	element0,overlay,magic/soul_chasers_glow/purple_075.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_75.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
 surface120002
 {
-	element0,overlay,magic/soul_chasers_glow/purple_050.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_50.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
 surface120003
 {
-	element0,overlay,magic/soul_chasers_glow/purple_025.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_25.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
 
 //Yellow
 surface120100
 {
-	element0,overlay,magic/soul_chasers_glow/yellow_100.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow.png,0,0
 }
 
 surface120101
 {
-	element0,overlay,magic/soul_chasers_glow/yellow_075.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_75.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
 }
 
 surface120102
 {
-	element0,overlay,magic/soul_chasers_glow/yellow_050.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_50.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
 }
 
 surface120103
 {
-	element0,overlay,magic/soul_chasers_glow/yellow_025.png,0,0
+	element0,overlay,magic/soul_chasers_glow/opacity_25.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
 }
 
 
