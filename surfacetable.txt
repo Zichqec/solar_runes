@@ -66,14 +66,14 @@ group,__disabled
 	71003,__parts
 	71004,__parts
 	
-	72000,__parts
-	72001,__parts
-	72002,__parts
-	72003,__parts
-	72004,__parts
-	72005,__parts
-	72006,__parts
-	72007,__parts
+	//72000,__parts
+	//72001,__parts
+	//72002,__parts
+	//72003,__parts
+	//72004,__parts
+	//72005,__parts
+	//72006,__parts
+	//72007,__parts
 	
 	80000,__parts
 	80001,__parts
@@ -125,23 +125,23 @@ group,__disabled
 	110103,__parts
 	110104,__parts
 	
-	120000,__parts
-	120001,__parts
-	120002,__parts
-	120003,__parts
-	120004,__parts
-	120005,__parts
-	120006,__parts
-	120007,__parts
-	
-	120100,__parts
-	120101,__parts
-	120102,__parts
-	120103,__parts
-	120104,__parts
-	120105,__parts
-	120106,__parts
-	120107,__parts
+	//120000,__parts
+	//120001,__parts
+	//120002,__parts
+	//120003,__parts
+	//120004,__parts
+	//120005,__parts
+	//120006,__parts
+	//120007,__parts
+	//
+	//120100,__parts
+	//120101,__parts
+	//120102,__parts
+	//120103,__parts
+	//120104,__parts
+	//120105,__parts
+	//120106,__parts
+	//120107,__parts
 	
 	200000,__parts
 	200001,__parts

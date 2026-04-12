@@ -144,8 +144,14 @@ surface71004
 
 
 //—————————— Soul chasers ——————————
-//TODO the glows will need adjustment for sure
 surface72000
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72990,0,0,0
+	animation12000.pattern1,overlayfast,720000,0,0,0
+}
+
+surface720000
 {
 	//————— Primary —————
 	//Purple
@@ -157,51 +163,7 @@ surface72000
 	animation7201.pattern0,overlay,120100,0,0,0
 	
 	
-	//————— Secondary —————
-	//Purple
-	animation7250.interval,bind
-	animation7250.pattern0,overlay,120000,0,0,0
-	
-	//Yellow
-	animation7251.interval,bind
-	animation7251.pattern0,overlay,120100,0,0,0
-}
-
-surface72001
-{
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlay,120001,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlay,120101,0,0,0
-	
-	
-	//————— Secondary —————
-	//Purple
-	animation7250.interval,bind
-	animation7250.pattern0,overlay,120001,0,0,0
-	
-	//Yellow
-	animation7251.interval,bind
-	animation7251.pattern0,overlay,120101,0,0,0
-}
-
-surface72002
-{
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlay,120002,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlay,120102,0,0,0
-	
-	
-	//————— Secondary —————
+	//————— Secondary 50% —————
 	//Purple
 	animation7250.interval,bind
 	animation7250.pattern0,overlay,120002,0,0,0
@@ -211,19 +173,27 @@ surface72002
 	animation7251.pattern0,overlay,120102,0,0,0
 }
 
-surface72003
+
+surface72001
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72991,0,0,0
+	animation12000.pattern1,overlayfast,720010,0,0,0
+}
+
+surface720010
 {
 	//————— Primary —————
 	//Purple
 	animation7200.interval,bind
-	animation7200.pattern0,overlay,120003,0,0,0
+	animation7200.pattern0,overlay,120000,0,0,0
 	
 	//Yellow
 	animation7201.interval,bind
-	animation7201.pattern0,overlay,120103,0,0,0
+	animation7201.pattern0,overlay,120100,0,0,0
 	
 	
-	//————— Secondary —————
+	//————— Secondary 25% —————
 	//Purple
 	animation7250.interval,bind
 	animation7250.pattern0,overlay,120003,0,0,0
@@ -233,92 +203,170 @@ surface72003
 	animation7251.pattern0,overlay,120103,0,0,0
 }
 
-surface72004
+
+surface72002
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72992,0,0,0
+	animation12000.pattern1,overlayfast,720020,0,0,0
+}
+
+surface720020
 {
 	//————— Primary —————
 	//Purple
 	animation7200.interval,bind
-	animation7200.pattern0,overlay,120004,0,0,0
+	animation7200.pattern0,overlay,120000,0,0,0
 	
 	//Yellow
 	animation7201.interval,bind
-	animation7201.pattern0,overlay,120104,0,0,0
+	animation7201.pattern0,overlay,120100,0,0,0
 	
 	
-	//————— Secondary —————
+	//————— Secondary 0% —————
+}
+
+
+surface72003
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72991,0,0,0
+	animation12000.pattern1,overlayfast,720030,0,0,0
+}
+
+surface720030
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120000,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120100,0,0,0
+	
+	
+	//————— Secondary 25% —————
 	//Purple
 	animation7250.interval,bind
-	animation7250.pattern0,overlay,120004,0,0,0
+	animation7250.pattern0,overlay,120003,0,0,0
 	
 	//Yellow
 	animation7251.interval,bind
-	animation7251.pattern0,overlay,120104,0,0,0
+	animation7251.pattern0,overlay,120103,0,0,0
 }
+
+
+surface72004
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72990,0,0,0
+	animation12000.pattern1,overlayfast,720040,0,0,0
+}
+
+surface720040
+{
+	//————— Primary —————
+	//Purple
+	animation7200.interval,bind
+	animation7200.pattern0,overlay,120000,0,0,0
+	
+	//Yellow
+	animation7201.interval,bind
+	animation7201.pattern0,overlay,120100,0,0,0
+	
+	
+	//————— Secondary 50% —————
+	//Purple
+	animation7250.interval,bind
+	animation7250.pattern0,overlay,120002,0,0,0
+	
+	//Yellow
+	animation7251.interval,bind
+	animation7251.pattern0,overlay,120102,0,0,0
+}
+
 
 surface72005
 {
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72991,0,0,0
+	animation12000.pattern1,overlayfast,720050,0,0,0
+}
+
+surface720050
+{
 	//————— Primary —————
 	//Purple
 	animation7200.interval,bind
-	animation7200.pattern0,overlay,120005,0,0,0
+	animation7200.pattern0,overlay,120000,0,0,0
 	
 	//Yellow
 	animation7201.interval,bind
-	animation7201.pattern0,overlay,120105,0,0,0
+	animation7201.pattern0,overlay,120100,0,0,0
 	
 	
-	//————— Secondary —————
+	//————— Secondary 75% —————
 	//Purple
 	animation7250.interval,bind
-	animation7250.pattern0,overlay,120005,0,0,0
+	animation7250.pattern0,overlay,120001,0,0,0
 	
 	//Yellow
 	animation7251.interval,bind
-	animation7251.pattern0,overlay,120105,0,0,0
+	animation7251.pattern0,overlay,120101,0,0,0
 }
+
 
 surface72006
 {
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72992,0,0,0
+	animation12000.pattern1,overlayfast,720060,0,0,0
+}
+
+surface720060
+{
 	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlay,120006,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlay,120106,0,0,0
 	
 	
-	//————— Secondary —————
+	//————— Secondary 100% —————
 	//Purple
 	animation7250.interval,bind
-	animation7250.pattern0,overlay,120006,0,0,0
+	animation7250.pattern0,overlay,120000,0,0,0
 	
 	//Yellow
 	animation7251.interval,bind
-	animation7251.pattern0,overlay,120106,0,0,0
+	animation7251.pattern0,overlay,120100,0,0,0
 }
 
+
 surface72007
+{
+	animation12000.interval,bind
+	animation12000.pattern0,overlay,72991,0,0,0
+	animation12000.pattern1,overlayfast,720070,0,0,0
+}
+
+surface720070
 {
 	//————— Primary —————
 	//Purple
 	animation7200.interval,bind
-	animation7200.pattern0,overlay,120007,0,0,0
+	animation7200.pattern0,overlay,120000,0,0,0
 	
 	//Yellow
 	animation7201.interval,bind
-	animation7201.pattern0,overlay,120107,0,0,0
+	animation7201.pattern0,overlay,120100,0,0,0
 	
 	
-	//————— Secondary —————
+	//————— Secondary 75% —————
 	//Purple
 	animation7250.interval,bind
-	animation7250.pattern0,overlay,120007,0,0,0
+	animation7250.pattern0,overlay,120001,0,0,0
 	
 	//Yellow
 	animation7251.interval,bind
-	animation7251.pattern0,overlay,120107,0,0,0
+	animation7251.pattern0,overlay,120101,0,0,0
 }
 
 
@@ -654,7 +702,7 @@ surface82007
 }
 
 
-surface.append70000-89999
+surface.append70000-89999,720000-720070,!72990-72992
 {
 	element0,overlay,blank.png,0,0
 }

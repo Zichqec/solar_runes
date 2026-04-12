@@ -425,86 +425,65 @@ surface110104
 
 
 //—————————— Soul chasers ——————————
-//Purple & yellow - to be purple later
+//Shape
+surface72990
+{
+	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
+}
+
+surface72991
+{
+	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
+}
+
+
+surface72992
+{
+	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
+}
+
+
+//Purple
 surface120000
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple_100.png,0,0
 }
 
 surface120001
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple_075.png,0,0
 }
 
 surface120002
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_02.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple_050.png,0,0
 }
 
 surface120003
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_03.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple_025.png,0,0
 }
 
-surface120004
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_04.png,0,0
-}
 
-surface120005
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_05.png,0,0
-}
-
-surface120006
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_06.png,0,0
-}
-
-surface120007
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_07.png,0,0
-}
-
-//TEMP - will be yellow
+//Yellow
 surface120100
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow_100.png,0,0
 }
 
 surface120101
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow_075.png,0,0
 }
 
 surface120102
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_02.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow_050.png,0,0
 }
 
 surface120103
 {
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_03.png,0,0
-}
-
-surface120104
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_04.png,0,0
-}
-
-surface120105
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_05.png,0,0
-}
-
-surface120106
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_06.png,0,0
-}
-
-surface120107
-{
-	element0,overlay,magic/soul_chasers_glow/purple_yellow_07.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow_025.png,0,0
 }
 
 
