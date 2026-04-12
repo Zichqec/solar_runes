@@ -370,108 +370,484 @@ surface100203
 
 
 //—————————— Soul spin ——————————
-//Purple
+//Red
 surface110000
 {
-	element0,overlay,magic/soul_spin_glow/purple_00.png,0,0
+	element0,overlay,magic/soul_spin_glow/red_00.png,0,0
 }
 
 surface110001
 {
-	element0,overlay,magic/soul_spin_glow/purple_01.png,0,0
+	element0,overlay,magic/soul_spin_glow/red_01.png,0,0
 }
 
 surface110002
 {
-	element0,overlay,magic/soul_spin_glow/purple_02.png,0,0
+	element0,overlay,magic/soul_spin_glow/red_02.png,0,0
 }
 
 surface110003
 {
-	element0,overlay,magic/soul_spin_glow/purple_03.png,0,0
+	element0,overlay,magic/soul_spin_glow/red_03.png,0,0
 }
 
 surface110004
 {
-	element0,overlay,magic/soul_spin_glow/purple_04.png,0,0
+	element0,overlay,magic/soul_spin_glow/red_04.png,0,0
 }
 
 
-//Yellow
+//Orange
 surface110100
 {
-	element0,overlay,magic/soul_spin_glow/yellow_00.png,0,0
+	element0,overlay,magic/soul_spin_glow/orange_00.png,0,0
 }
 
 surface110101
 {
-	element0,overlay,magic/soul_spin_glow/yellow_01.png,0,0
+	element0,overlay,magic/soul_spin_glow/orange_01.png,0,0
 }
 
 surface110102
 {
-	element0,overlay,magic/soul_spin_glow/yellow_02.png,0,0
+	element0,overlay,magic/soul_spin_glow/orange_02.png,0,0
 }
 
 surface110103
 {
-	element0,overlay,magic/soul_spin_glow/yellow_03.png,0,0
+	element0,overlay,magic/soul_spin_glow/orange_03.png,0,0
 }
 
 surface110104
+{
+	element0,overlay,magic/soul_spin_glow/orange_04.png,0,0
+}
+
+
+//Yellow
+surface110200
+{
+	element0,overlay,magic/soul_spin_glow/yellow_00.png,0,0
+}
+
+surface110201
+{
+	element0,overlay,magic/soul_spin_glow/yellow_01.png,0,0
+}
+
+surface110202
+{
+	element0,overlay,magic/soul_spin_glow/yellow_02.png,0,0
+}
+
+surface110203
+{
+	element0,overlay,magic/soul_spin_glow/yellow_03.png,0,0
+}
+
+surface110204
 {
 	element0,overlay,magic/soul_spin_glow/yellow_04.png,0,0
 }
 
 
-//—————————— Soul chasers ——————————
-//Purple
-surface120000
+//Chartreuse
+surface110300
 {
-	element0,overlay,magic/soul_chasers_glow/purple.png,0,0
+	element0,overlay,magic/soul_spin_glow/chartreuse_00.png,0,0
 }
 
-surface120001
+surface110301
+{
+	element0,overlay,magic/soul_spin_glow/chartreuse_01.png,0,0
+}
+
+surface110302
+{
+	element0,overlay,magic/soul_spin_glow/chartreuse_02.png,0,0
+}
+
+surface110303
+{
+	element0,overlay,magic/soul_spin_glow/chartreuse_03.png,0,0
+}
+
+surface110304
+{
+	element0,overlay,magic/soul_spin_glow/chartreuse_04.png,0,0
+}
+
+//Green
+surface110400
+{
+	element0,overlay,magic/soul_spin_glow/green_00.png,0,0
+}
+
+surface110401
+{
+	element0,overlay,magic/soul_spin_glow/green_01.png,0,0
+}
+
+surface110402
+{
+	element0,overlay,magic/soul_spin_glow/green_02.png,0,0
+}
+
+surface110403
+{
+	element0,overlay,magic/soul_spin_glow/green_03.png,0,0
+}
+
+surface110404
+{
+	element0,overlay,magic/soul_spin_glow/green_04.png,0,0
+}
+
+//Turquoise
+surface110500
+{
+	element0,overlay,magic/soul_spin_glow/turquoise_00.png,0,0
+}
+
+surface110501
+{
+	element0,overlay,magic/soul_spin_glow/turquoise_01.png,0,0
+}
+
+surface110502
+{
+	element0,overlay,magic/soul_spin_glow/turquoise_02.png,0,0
+}
+
+surface110503
+{
+	element0,overlay,magic/soul_spin_glow/turquoise_03.png,0,0
+}
+
+surface110504
+{
+	element0,overlay,magic/soul_spin_glow/turquoise_04.png,0,0
+}
+
+//Cyan
+surface110600
+{
+	element0,overlay,magic/soul_spin_glow/cyan_00.png,0,0
+}
+
+surface110601
+{
+	element0,overlay,magic/soul_spin_glow/cyan_01.png,0,0
+}
+
+surface110602
+{
+	element0,overlay,magic/soul_spin_glow/cyan_02.png,0,0
+}
+
+surface110603
+{
+	element0,overlay,magic/soul_spin_glow/cyan_03.png,0,0
+}
+
+surface110604
+{
+	element0,overlay,magic/soul_spin_glow/cyan_04.png,0,0
+}
+
+//Blue
+surface110700
+{
+	element0,overlay,magic/soul_spin_glow/blue_00.png,0,0
+}
+
+surface110701
+{
+	element0,overlay,magic/soul_spin_glow/blue_01.png,0,0
+}
+
+surface110702
+{
+	element0,overlay,magic/soul_spin_glow/blue_02.png,0,0
+}
+
+surface110703
+{
+	element0,overlay,magic/soul_spin_glow/blue_03.png,0,0
+}
+
+surface110704
+{
+	element0,overlay,magic/soul_spin_glow/blue_04.png,0,0
+}
+
+
+//Purple
+surface110800
+{
+	element0,overlay,magic/soul_spin_glow/purple_00.png,0,0
+}
+
+surface110801
+{
+	element0,overlay,magic/soul_spin_glow/purple_01.png,0,0
+}
+
+surface110802
+{
+	element0,overlay,magic/soul_spin_glow/purple_02.png,0,0
+}
+
+surface110803
+{
+	element0,overlay,magic/soul_spin_glow/purple_03.png,0,0
+}
+
+surface110804
+{
+	element0,overlay,magic/soul_spin_glow/purple_04.png,0,0
+}
+
+
+//Magenta
+surface110900
+{
+	element0,overlay,magic/soul_spin_glow/magenta_00.png,0,0
+}
+
+surface110901
+{
+	element0,overlay,magic/soul_spin_glow/magenta_01.png,0,0
+}
+
+surface110902
+{
+	element0,overlay,magic/soul_spin_glow/magenta_02.png,0,0
+}
+
+surface110903
+{
+	element0,overlay,magic/soul_spin_glow/magenta_03.png,0,0
+}
+
+surface110904
+{
+	element0,overlay,magic/soul_spin_glow/magenta_04.png,0,0
+}
+
+
+//Pink
+surface111000
+{
+	element0,overlay,magic/soul_spin_glow/pink_00.png,0,0
+}
+
+surface111001
+{
+	element0,overlay,magic/soul_spin_glow/pink_01.png,0,0
+}
+
+surface111002
+{
+	element0,overlay,magic/soul_spin_glow/pink_02.png,0,0
+}
+
+surface111003
+{
+	element0,overlay,magic/soul_spin_glow/pink_03.png,0,0
+}
+
+surface111004
+{
+	element0,overlay,magic/soul_spin_glow/pink_04.png,0,0
+}
+
+
+//Black
+surface111100
+{
+	element0,overlay,magic/soul_spin_glow/black_00.png,0,0
+}
+
+surface111101
+{
+	element0,overlay,magic/soul_spin_glow/black_01.png,0,0
+}
+
+surface111102
+{
+	element0,overlay,magic/soul_spin_glow/black_02.png,0,0
+}
+
+surface111103
+{
+	element0,overlay,magic/soul_spin_glow/black_03.png,0,0
+}
+
+surface111104
+{
+	element0,overlay,magic/soul_spin_glow/black_04.png,0,0
+}
+
+
+//Gray
+surface111200
+{
+	element0,overlay,magic/soul_spin_glow/gray_00.png,0,0
+}
+
+surface111201
+{
+	element0,overlay,magic/soul_spin_glow/gray_01.png,0,0
+}
+
+surface111202
+{
+	element0,overlay,magic/soul_spin_glow/gray_02.png,0,0
+}
+
+surface111203
+{
+	element0,overlay,magic/soul_spin_glow/gray_03.png,0,0
+}
+
+surface111204
+{
+	element0,overlay,magic/soul_spin_glow/gray_04.png,0,0
+}
+
+
+//White
+surface111300
+{
+	element0,overlay,magic/soul_spin_glow/white_00.png,0,0
+}
+
+surface111301
+{
+	element0,overlay,magic/soul_spin_glow/white_01.png,0,0
+}
+
+surface111302
+{
+	element0,overlay,magic/soul_spin_glow/white_02.png,0,0
+}
+
+surface111303
+{
+	element0,overlay,magic/soul_spin_glow/white_03.png,0,0
+}
+
+surface111304
+{
+	element0,overlay,magic/soul_spin_glow/white_04.png,0,0
+}
+
+
+//—————————— Soul chasers ——————————
+surface120000,120100,120200,120300,120400,120500,120600,120700,120800,120900,121000,121100,121200,121300
+{
+	//Yes, this element is effectively useless since it's just covered. It's for consistency in the numbering/layering.
+	element0,overlay,magic/soul_chasers_glow/opacity_100.png,0,0
+}
+
+surface120001,120101,120201,120301,120401,120501,120601,120701,120801,120901,121001,121101,121201,121301
 {
 	element0,overlay,magic/soul_chasers_glow/opacity_75.png,0,0
-	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
-surface120002
+surface120002,120102,120202,120302,120402,120502,120602,120702,120802,120902,121002,121102,121202,121302
 {
 	element0,overlay,magic/soul_chasers_glow/opacity_50.png,0,0
-	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
-surface120003
+surface120003,120103,120203,120303,120403,120503,120603,120703,120803,120903,121003,121103,121203,121303
 {
 	element0,overlay,magic/soul_chasers_glow/opacity_25.png,0,0
-	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
 }
 
+//Red
+surface120000-120003
+{
+	element1,overlayfast,magic/soul_chasers_glow/red.png,0,0
+}
+
+//Orange
+surface120100-120103
+{
+	element1,overlayfast,magic/soul_chasers_glow/orange.png,0,0
+}
 
 //Yellow
-surface120100
+surface120200-120203
 {
-	element0,overlay,magic/soul_chasers_glow/yellow.png,0,0
-}
-
-surface120101
-{
-	element0,overlay,magic/soul_chasers_glow/opacity_75.png,0,0
 	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
 }
 
-surface120102
+//Chartreuse
+surface120300-120303
 {
-	element0,overlay,magic/soul_chasers_glow/opacity_50.png,0,0
-	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/chartreuse.png,0,0
 }
 
-surface120103
+//Green
+surface120400-120403
 {
-	element0,overlay,magic/soul_chasers_glow/opacity_25.png,0,0
-	element1,overlayfast,magic/soul_chasers_glow/yellow.png,0,0
+	element1,overlayfast,magic/soul_chasers_glow/green.png,0,0
+}
+
+//Turquoise
+surface120500-120503
+{
+	element1,overlayfast,magic/soul_chasers_glow/turquoise.png,0,0
+}
+
+//Cyan
+surface120600-120603
+{
+	element1,overlayfast,magic/soul_chasers_glow/cyan.png,0,0
+}
+
+//Blue
+surface120700-120703
+{
+	element1,overlayfast,magic/soul_chasers_glow/blue.png,0,0
+}
+
+//Purple
+surface120800-120803
+{
+	element1,overlayfast,magic/soul_chasers_glow/purple.png,0,0
+}
+
+//Magenta
+surface120900-120903
+{
+	element1,overlayfast,magic/soul_chasers_glow/magenta.png,0,0
+}
+
+//Pink
+surface121000-121003
+{
+	element1,overlayfast,magic/soul_chasers_glow/pink.png,0,0
+}
+
+//Black
+surface121100-121103
+{
+	element1,overlayfast,magic/soul_chasers_glow/black.png,0,0
+}
+
+//Gray
+surface121200-121203
+{
+	element1,overlayfast,magic/soul_chasers_glow/gray.png,0,0
+}
+
+//White
+surface121300-121303
+{
+	element1,overlayfast,magic/soul_chasers_glow/white.png,0,0
 }
 
 
@@ -544,172 +920,1180 @@ surface200203
 
 
 //—————————— Soul spin (also used as soul chasers primary) ——————————
-//Purple
+//Red
 surface210000
 {
-	element0,overlay,magic/soul_chasers/purple_00.png,0,0
+	element0,overlay,magic/soul_chasers/red_00.png,0,0
 }
 
 surface210001
 {
-	element0,overlay,magic/soul_chasers/purple_01.png,0,0
+	element0,overlay,magic/soul_chasers/red_01.png,0,0
 }
 
 surface210002
 {
-	element0,overlay,magic/soul_chasers/purple_02.png,0,0
+	element0,overlay,magic/soul_chasers/red_02.png,0,0
 }
 
 surface210003
 {
-	element0,overlay,magic/soul_chasers/purple_03.png,0,0
+	element0,overlay,magic/soul_chasers/red_03.png,0,0
 }
 
 surface210004
 {
-	element0,overlay,magic/soul_chasers/purple_04.png,0,0
+	element0,overlay,magic/soul_chasers/red_04.png,0,0
 }
 
 surface210005
 {
-	element0,overlay,magic/soul_chasers/purple_05.png,0,0
+	element0,overlay,magic/soul_chasers/red_05.png,0,0
 }
 
 surface210006
 {
-	element0,overlay,magic/soul_chasers/purple_06.png,0,0
+	element0,overlay,magic/soul_chasers/red_06.png,0,0
 }
 
 surface210007
 {
-	element0,overlay,magic/soul_chasers/purple_07.png,0,0
+	element0,overlay,magic/soul_chasers/red_07.png,0,0
 }
 
 
-//Yellow
+//Orange
 surface210100
 {
-	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+	element0,overlay,magic/soul_chasers/orange_00.png,0,0
 }
 
 surface210101
 {
-	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+	element0,overlay,magic/soul_chasers/orange_01.png,0,0
 }
 
 surface210102
 {
-	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+	element0,overlay,magic/soul_chasers/orange_02.png,0,0
 }
 
 surface210103
 {
-	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+	element0,overlay,magic/soul_chasers/orange_03.png,0,0
 }
 
 surface210104
 {
-	element0,overlay,magic/soul_chasers/yellow_04.png,0,0
+	element0,overlay,magic/soul_chasers/orange_04.png,0,0
 }
 
 surface210105
 {
-	element0,overlay,magic/soul_chasers/yellow_05.png,0,0
+	element0,overlay,magic/soul_chasers/orange_05.png,0,0
 }
 
 surface210106
 {
-	element0,overlay,magic/soul_chasers/yellow_06.png,0,0
+	element0,overlay,magic/soul_chasers/orange_06.png,0,0
 }
 
 surface210107
+{
+	element0,overlay,magic/soul_chasers/orange_07.png,0,0
+}
+
+
+//Yellow
+surface210200
+{
+	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+}
+
+surface210201
+{
+	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+}
+
+surface210202
+{
+	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+}
+
+surface210203
+{
+	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+}
+
+surface210204
+{
+	element0,overlay,magic/soul_chasers/yellow_04.png,0,0
+}
+
+surface210205
+{
+	element0,overlay,magic/soul_chasers/yellow_05.png,0,0
+}
+
+surface210206
+{
+	element0,overlay,magic/soul_chasers/yellow_06.png,0,0
+}
+
+surface210207
 {
 	element0,overlay,magic/soul_chasers/yellow_07.png,0,0
 }
 
 
-//—————————— Soul chasers (secondary) ——————————
+//Chartreuse
+surface210300
+{
+	element0,overlay,magic/soul_chasers/chartreuse_00.png,0,0
+}
+
+surface210301
+{
+	element0,overlay,magic/soul_chasers/chartreuse_01.png,0,0
+}
+
+surface210302
+{
+	element0,overlay,magic/soul_chasers/chartreuse_02.png,0,0
+}
+
+surface210303
+{
+	element0,overlay,magic/soul_chasers/chartreuse_03.png,0,0
+}
+
+surface210304
+{
+	element0,overlay,magic/soul_chasers/chartreuse_04.png,0,0
+}
+
+surface210305
+{
+	element0,overlay,magic/soul_chasers/chartreuse_05.png,0,0
+}
+
+surface210306
+{
+	element0,overlay,magic/soul_chasers/chartreuse_06.png,0,0
+}
+
+surface210307
+{
+	element0,overlay,magic/soul_chasers/chartreuse_07.png,0,0
+}
+
+
+//Green
+surface210400
+{
+	element0,overlay,magic/soul_chasers/green_00.png,0,0
+}
+
+surface210401
+{
+	element0,overlay,magic/soul_chasers/green_01.png,0,0
+}
+
+surface210402
+{
+	element0,overlay,magic/soul_chasers/green_02.png,0,0
+}
+
+surface210403
+{
+	element0,overlay,magic/soul_chasers/green_03.png,0,0
+}
+
+surface210404
+{
+	element0,overlay,magic/soul_chasers/green_04.png,0,0
+}
+
+surface210405
+{
+	element0,overlay,magic/soul_chasers/green_05.png,0,0
+}
+
+surface210406
+{
+	element0,overlay,magic/soul_chasers/green_06.png,0,0
+}
+
+surface210407
+{
+	element0,overlay,magic/soul_chasers/green_07.png,0,0
+}
+
+
+//Turquoise
+surface210500
+{
+	element0,overlay,magic/soul_chasers/turquoise_00.png,0,0
+}
+
+surface210501
+{
+	element0,overlay,magic/soul_chasers/turquoise_01.png,0,0
+}
+
+surface210502
+{
+	element0,overlay,magic/soul_chasers/turquoise_02.png,0,0
+}
+
+surface210503
+{
+	element0,overlay,magic/soul_chasers/turquoise_03.png,0,0
+}
+
+surface210504
+{
+	element0,overlay,magic/soul_chasers/turquoise_04.png,0,0
+}
+
+surface210505
+{
+	element0,overlay,magic/soul_chasers/turquoise_05.png,0,0
+}
+
+surface210506
+{
+	element0,overlay,magic/soul_chasers/turquoise_06.png,0,0
+}
+
+surface210507
+{
+	element0,overlay,magic/soul_chasers/turquoise_07.png,0,0
+}
+
+
+//Cyan
+surface210600
+{
+	element0,overlay,magic/soul_chasers/cyan_00.png,0,0
+}
+
+surface210601
+{
+	element0,overlay,magic/soul_chasers/cyan_01.png,0,0
+}
+
+surface210602
+{
+	element0,overlay,magic/soul_chasers/cyan_02.png,0,0
+}
+
+surface210603
+{
+	element0,overlay,magic/soul_chasers/cyan_03.png,0,0
+}
+
+surface210604
+{
+	element0,overlay,magic/soul_chasers/cyan_04.png,0,0
+}
+
+surface210605
+{
+	element0,overlay,magic/soul_chasers/cyan_05.png,0,0
+}
+
+surface210606
+{
+	element0,overlay,magic/soul_chasers/cyan_06.png,0,0
+}
+
+surface210607
+{
+	element0,overlay,magic/soul_chasers/cyan_07.png,0,0
+}
+
+
+//Blue
+surface210700
+{
+	element0,overlay,magic/soul_chasers/blue_00.png,0,0
+}
+
+surface210701
+{
+	element0,overlay,magic/soul_chasers/blue_01.png,0,0
+}
+
+surface210702
+{
+	element0,overlay,magic/soul_chasers/blue_02.png,0,0
+}
+
+surface210703
+{
+	element0,overlay,magic/soul_chasers/blue_03.png,0,0
+}
+
+surface210704
+{
+	element0,overlay,magic/soul_chasers/blue_04.png,0,0
+}
+
+surface210705
+{
+	element0,overlay,magic/soul_chasers/blue_05.png,0,0
+}
+
+surface210706
+{
+	element0,overlay,magic/soul_chasers/blue_06.png,0,0
+}
+
+surface210707
+{
+	element0,overlay,magic/soul_chasers/blue_07.png,0,0
+}
+
+
 //Purple
-surface220000
-{
-	element0,overlay,magic/soul_chasers/purple_04.png,0,0
-}
-
-surface220001
-{
-	element0,overlay,magic/soul_chasers/purple_05.png,0,0
-}
-
-surface220002
-{
-	element0,overlay,magic/soul_chasers/purple_06.png,0,0
-}
-
-surface220003
-{
-	element0,overlay,magic/soul_chasers/purple_07.png,0,0
-}
-
-surface220004
+surface210800
 {
 	element0,overlay,magic/soul_chasers/purple_00.png,0,0
 }
 
-surface220005
+surface210801
 {
 	element0,overlay,magic/soul_chasers/purple_01.png,0,0
 }
 
-surface220006
+surface210802
 {
 	element0,overlay,magic/soul_chasers/purple_02.png,0,0
 }
 
+surface210803
+{
+	element0,overlay,magic/soul_chasers/purple_03.png,0,0
+}
+
+surface210804
+{
+	element0,overlay,magic/soul_chasers/purple_04.png,0,0
+}
+
+surface210805
+{
+	element0,overlay,magic/soul_chasers/purple_05.png,0,0
+}
+
+surface210806
+{
+	element0,overlay,magic/soul_chasers/purple_06.png,0,0
+}
+
+surface210807
+{
+	element0,overlay,magic/soul_chasers/purple_07.png,0,0
+}
+
+
+//Magenta
+surface210900
+{
+	element0,overlay,magic/soul_chasers/magenta_00.png,0,0
+}
+
+surface210901
+{
+	element0,overlay,magic/soul_chasers/magenta_01.png,0,0
+}
+
+surface210902
+{
+	element0,overlay,magic/soul_chasers/magenta_02.png,0,0
+}
+
+surface210903
+{
+	element0,overlay,magic/soul_chasers/magenta_03.png,0,0
+}
+
+surface210904
+{
+	element0,overlay,magic/soul_chasers/magenta_04.png,0,0
+}
+
+surface210905
+{
+	element0,overlay,magic/soul_chasers/magenta_05.png,0,0
+}
+
+surface210906
+{
+	element0,overlay,magic/soul_chasers/magenta_06.png,0,0
+}
+
+surface210907
+{
+	element0,overlay,magic/soul_chasers/magenta_07.png,0,0
+}
+
+
+//Pink
+surface211000
+{
+	element0,overlay,magic/soul_chasers/pink_00.png,0,0
+}
+
+surface211001
+{
+	element0,overlay,magic/soul_chasers/pink_01.png,0,0
+}
+
+surface211002
+{
+	element0,overlay,magic/soul_chasers/pink_02.png,0,0
+}
+
+surface211003
+{
+	element0,overlay,magic/soul_chasers/pink_03.png,0,0
+}
+
+surface211004
+{
+	element0,overlay,magic/soul_chasers/pink_04.png,0,0
+}
+
+surface211005
+{
+	element0,overlay,magic/soul_chasers/pink_05.png,0,0
+}
+
+surface211006
+{
+	element0,overlay,magic/soul_chasers/pink_06.png,0,0
+}
+
+surface211007
+{
+	element0,overlay,magic/soul_chasers/pink_07.png,0,0
+}
+
+
+//Black
+surface211100
+{
+	element0,overlay,magic/soul_chasers/black_00.png,0,0
+}
+
+surface211101
+{
+	element0,overlay,magic/soul_chasers/black_01.png,0,0
+}
+
+surface211102
+{
+	element0,overlay,magic/soul_chasers/black_02.png,0,0
+}
+
+surface211103
+{
+	element0,overlay,magic/soul_chasers/black_03.png,0,0
+}
+
+surface211104
+{
+	element0,overlay,magic/soul_chasers/black_04.png,0,0
+}
+
+surface211105
+{
+	element0,overlay,magic/soul_chasers/black_05.png,0,0
+}
+
+surface211106
+{
+	element0,overlay,magic/soul_chasers/black_06.png,0,0
+}
+
+surface211107
+{
+	element0,overlay,magic/soul_chasers/black_07.png,0,0
+}
+
+
+//Gray
+surface211200
+{
+	element0,overlay,magic/soul_chasers/gray_00.png,0,0
+}
+
+surface211201
+{
+	element0,overlay,magic/soul_chasers/gray_01.png,0,0
+}
+
+surface211202
+{
+	element0,overlay,magic/soul_chasers/gray_02.png,0,0
+}
+
+surface211203
+{
+	element0,overlay,magic/soul_chasers/gray_03.png,0,0
+}
+
+surface211204
+{
+	element0,overlay,magic/soul_chasers/gray_04.png,0,0
+}
+
+surface211205
+{
+	element0,overlay,magic/soul_chasers/gray_05.png,0,0
+}
+
+surface211206
+{
+	element0,overlay,magic/soul_chasers/gray_06.png,0,0
+}
+
+surface211207
+{
+	element0,overlay,magic/soul_chasers/gray_07.png,0,0
+}
+
+
+//White
+surface211300
+{
+	element0,overlay,magic/soul_chasers/white_00.png,0,0
+}
+
+surface211301
+{
+	element0,overlay,magic/soul_chasers/white_01.png,0,0
+}
+
+surface211302
+{
+	element0,overlay,magic/soul_chasers/white_02.png,0,0
+}
+
+surface211303
+{
+	element0,overlay,magic/soul_chasers/white_03.png,0,0
+}
+
+surface211304
+{
+	element0,overlay,magic/soul_chasers/white_04.png,0,0
+}
+
+surface211305
+{
+	element0,overlay,magic/soul_chasers/white_05.png,0,0
+}
+
+surface211306
+{
+	element0,overlay,magic/soul_chasers/white_06.png,0,0
+}
+
+surface211307
+{
+	element0,overlay,magic/soul_chasers/white_07.png,0,0
+}
+
+
+//—————————— Soul chasers (secondary) ——————————
+//Red
+surface220000
+{
+	element0,overlay,magic/soul_chasers/red_04.png,0,0
+}
+
+surface220001
+{
+	element0,overlay,magic/soul_chasers/red_05.png,0,0
+}
+
+surface220002
+{
+	element0,overlay,magic/soul_chasers/red_06.png,0,0
+}
+
+surface220003
+{
+	element0,overlay,magic/soul_chasers/red_07.png,0,0
+}
+
+surface220004
+{
+	element0,overlay,magic/soul_chasers/red_00.png,0,0
+}
+
+surface220005
+{
+	element0,overlay,magic/soul_chasers/red_01.png,0,0
+}
+
+surface220006
+{
+	element0,overlay,magic/soul_chasers/red_02.png,0,0
+}
+
 surface220007
+{
+	element0,overlay,magic/soul_chasers/red_03.png,0,0
+}
+
+
+//Orange
+surface220100
+{
+	element0,overlay,magic/soul_chasers/orange_04.png,0,0
+}
+
+surface220101
+{
+	element0,overlay,magic/soul_chasers/orange_05.png,0,0
+}
+
+surface220102
+{
+	element0,overlay,magic/soul_chasers/orange_06.png,0,0
+}
+
+surface220103
+{
+	element0,overlay,magic/soul_chasers/orange_07.png,0,0
+}
+
+surface220104
+{
+	element0,overlay,magic/soul_chasers/orange_00.png,0,0
+}
+
+surface220105
+{
+	element0,overlay,magic/soul_chasers/orange_01.png,0,0
+}
+
+surface220106
+{
+	element0,overlay,magic/soul_chasers/orange_02.png,0,0
+}
+
+surface220107
+{
+	element0,overlay,magic/soul_chasers/orange_03.png,0,0
+}
+
+
+//Yellow
+surface220200
+{
+	element0,overlay,magic/soul_chasers/yellow_04.png,0,0
+}
+
+surface220201
+{
+	element0,overlay,magic/soul_chasers/yellow_05.png,0,0
+}
+
+surface220202
+{
+	element0,overlay,magic/soul_chasers/yellow_06.png,0,0
+}
+
+surface220203
+{
+	element0,overlay,magic/soul_chasers/yellow_07.png,0,0
+}
+
+surface220204
+{
+	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+}
+
+surface220205
+{
+	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+}
+
+surface220206
+{
+	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+}
+
+surface220207
+{
+	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+}
+
+
+//Chartreuse
+surface220300
+{
+	element0,overlay,magic/soul_chasers/chartreuse_04.png,0,0
+}
+
+surface220301
+{
+	element0,overlay,magic/soul_chasers/chartreuse_05.png,0,0
+}
+
+surface220302
+{
+	element0,overlay,magic/soul_chasers/chartreuse_06.png,0,0
+}
+
+surface220303
+{
+	element0,overlay,magic/soul_chasers/chartreuse_07.png,0,0
+}
+
+surface220304
+{
+	element0,overlay,magic/soul_chasers/chartreuse_00.png,0,0
+}
+
+surface220305
+{
+	element0,overlay,magic/soul_chasers/chartreuse_01.png,0,0
+}
+
+surface220306
+{
+	element0,overlay,magic/soul_chasers/chartreuse_02.png,0,0
+}
+
+surface220307
+{
+	element0,overlay,magic/soul_chasers/chartreuse_03.png,0,0
+}
+
+
+//Green
+surface220400
+{
+	element0,overlay,magic/soul_chasers/green_04.png,0,0
+}
+
+surface220401
+{
+	element0,overlay,magic/soul_chasers/green_05.png,0,0
+}
+
+surface220402
+{
+	element0,overlay,magic/soul_chasers/green_06.png,0,0
+}
+
+surface220403
+{
+	element0,overlay,magic/soul_chasers/green_07.png,0,0
+}
+
+surface220404
+{
+	element0,overlay,magic/soul_chasers/green_00.png,0,0
+}
+
+surface220405
+{
+	element0,overlay,magic/soul_chasers/green_01.png,0,0
+}
+
+surface220406
+{
+	element0,overlay,magic/soul_chasers/green_02.png,0,0
+}
+
+surface220407
+{
+	element0,overlay,magic/soul_chasers/green_03.png,0,0
+}
+
+
+//Turquoise
+surface220500
+{
+	element0,overlay,magic/soul_chasers/turquoise_04.png,0,0
+}
+
+surface220501
+{
+	element0,overlay,magic/soul_chasers/turquoise_05.png,0,0
+}
+
+surface220502
+{
+	element0,overlay,magic/soul_chasers/turquoise_06.png,0,0
+}
+
+surface220503
+{
+	element0,overlay,magic/soul_chasers/turquoise_07.png,0,0
+}
+
+surface220504
+{
+	element0,overlay,magic/soul_chasers/turquoise_00.png,0,0
+}
+
+surface220505
+{
+	element0,overlay,magic/soul_chasers/turquoise_01.png,0,0
+}
+
+surface220506
+{
+	element0,overlay,magic/soul_chasers/turquoise_02.png,0,0
+}
+
+surface220507
+{
+	element0,overlay,magic/soul_chasers/turquoise_03.png,0,0
+}
+
+
+//Cyan
+surface220600
+{
+	element0,overlay,magic/soul_chasers/cyan_04.png,0,0
+}
+
+surface220601
+{
+	element0,overlay,magic/soul_chasers/cyan_05.png,0,0
+}
+
+surface220602
+{
+	element0,overlay,magic/soul_chasers/cyan_06.png,0,0
+}
+
+surface220603
+{
+	element0,overlay,magic/soul_chasers/cyan_07.png,0,0
+}
+
+surface220604
+{
+	element0,overlay,magic/soul_chasers/cyan_00.png,0,0
+}
+
+surface220605
+{
+	element0,overlay,magic/soul_chasers/cyan_01.png,0,0
+}
+
+surface220606
+{
+	element0,overlay,magic/soul_chasers/cyan_02.png,0,0
+}
+
+surface220607
+{
+	element0,overlay,magic/soul_chasers/cyan_03.png,0,0
+}
+
+
+//Blue
+surface220700
+{
+	element0,overlay,magic/soul_chasers/blue_04.png,0,0
+}
+
+surface220701
+{
+	element0,overlay,magic/soul_chasers/blue_05.png,0,0
+}
+
+surface220702
+{
+	element0,overlay,magic/soul_chasers/blue_06.png,0,0
+}
+
+surface220703
+{
+	element0,overlay,magic/soul_chasers/blue_07.png,0,0
+}
+
+surface220704
+{
+	element0,overlay,magic/soul_chasers/blue_00.png,0,0
+}
+
+surface220705
+{
+	element0,overlay,magic/soul_chasers/blue_01.png,0,0
+}
+
+surface220706
+{
+	element0,overlay,magic/soul_chasers/blue_02.png,0,0
+}
+
+surface220707
+{
+	element0,overlay,magic/soul_chasers/blue_03.png,0,0
+}
+
+
+//Purple
+surface220800
+{
+	element0,overlay,magic/soul_chasers/purple_04.png,0,0
+}
+
+surface220801
+{
+	element0,overlay,magic/soul_chasers/purple_05.png,0,0
+}
+
+surface220802
+{
+	element0,overlay,magic/soul_chasers/purple_06.png,0,0
+}
+
+surface220803
+{
+	element0,overlay,magic/soul_chasers/purple_07.png,0,0
+}
+
+surface220804
+{
+	element0,overlay,magic/soul_chasers/purple_00.png,0,0
+}
+
+surface220805
+{
+	element0,overlay,magic/soul_chasers/purple_01.png,0,0
+}
+
+surface220806
+{
+	element0,overlay,magic/soul_chasers/purple_02.png,0,0
+}
+
+surface220807
 {
 	element0,overlay,magic/soul_chasers/purple_03.png,0,0
 }
 
 
-//Yellow
-surface220100
+//Magenta
+surface220900
 {
-	element0,overlay,magic/soul_chasers/yellow_04.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_04.png,0,0
 }
 
-surface220101
+surface220901
 {
-	element0,overlay,magic/soul_chasers/yellow_05.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_05.png,0,0
 }
 
-surface220102
+surface220902
 {
-	element0,overlay,magic/soul_chasers/yellow_06.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_06.png,0,0
 }
 
-surface220103
+surface220903
 {
-	element0,overlay,magic/soul_chasers/yellow_07.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_07.png,0,0
 }
 
-surface220104
+surface220904
 {
-	element0,overlay,magic/soul_chasers/yellow_00.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_00.png,0,0
 }
 
-surface220105
+surface220905
 {
-	element0,overlay,magic/soul_chasers/yellow_01.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_01.png,0,0
 }
 
-surface220106
+surface220906
 {
-	element0,overlay,magic/soul_chasers/yellow_02.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_02.png,0,0
 }
 
-surface220107
+surface220907
 {
-	element0,overlay,magic/soul_chasers/yellow_03.png,0,0
+	element0,overlay,magic/soul_chasers/magenta_03.png,0,0
+}
+
+
+//Pink
+surface221000
+{
+	element0,overlay,magic/soul_chasers/pink_04.png,0,0
+}
+
+surface221001
+{
+	element0,overlay,magic/soul_chasers/pink_05.png,0,0
+}
+
+surface221002
+{
+	element0,overlay,magic/soul_chasers/pink_06.png,0,0
+}
+
+surface221003
+{
+	element0,overlay,magic/soul_chasers/pink_07.png,0,0
+}
+
+surface221004
+{
+	element0,overlay,magic/soul_chasers/pink_00.png,0,0
+}
+
+surface221005
+{
+	element0,overlay,magic/soul_chasers/pink_01.png,0,0
+}
+
+surface221006
+{
+	element0,overlay,magic/soul_chasers/pink_02.png,0,0
+}
+
+surface221007
+{
+	element0,overlay,magic/soul_chasers/pink_03.png,0,0
+}
+
+
+//Black
+surface221100
+{
+	element0,overlay,magic/soul_chasers/black_04.png,0,0
+}
+
+surface221101
+{
+	element0,overlay,magic/soul_chasers/black_05.png,0,0
+}
+
+surface221102
+{
+	element0,overlay,magic/soul_chasers/black_06.png,0,0
+}
+
+surface221103
+{
+	element0,overlay,magic/soul_chasers/black_07.png,0,0
+}
+
+surface221104
+{
+	element0,overlay,magic/soul_chasers/black_00.png,0,0
+}
+
+surface221105
+{
+	element0,overlay,magic/soul_chasers/black_01.png,0,0
+}
+
+surface221106
+{
+	element0,overlay,magic/soul_chasers/black_02.png,0,0
+}
+
+surface221107
+{
+	element0,overlay,magic/soul_chasers/black_03.png,0,0
+}
+
+
+//Gray
+surface221200
+{
+	element0,overlay,magic/soul_chasers/gray_04.png,0,0
+}
+
+surface221201
+{
+	element0,overlay,magic/soul_chasers/gray_05.png,0,0
+}
+
+surface221202
+{
+	element0,overlay,magic/soul_chasers/gray_06.png,0,0
+}
+
+surface221203
+{
+	element0,overlay,magic/soul_chasers/gray_07.png,0,0
+}
+
+surface221204
+{
+	element0,overlay,magic/soul_chasers/gray_00.png,0,0
+}
+
+surface221205
+{
+	element0,overlay,magic/soul_chasers/gray_01.png,0,0
+}
+
+surface221206
+{
+	element0,overlay,magic/soul_chasers/gray_02.png,0,0
+}
+
+surface221207
+{
+	element0,overlay,magic/soul_chasers/gray_03.png,0,0
+}
+
+
+//White
+surface221300
+{
+	element0,overlay,magic/soul_chasers/white_04.png,0,0
+}
+
+surface221301
+{
+	element0,overlay,magic/soul_chasers/white_05.png,0,0
+}
+
+surface221302
+{
+	element0,overlay,magic/soul_chasers/white_06.png,0,0
+}
+
+surface221303
+{
+	element0,overlay,magic/soul_chasers/white_07.png,0,0
+}
+
+surface221304
+{
+	element0,overlay,magic/soul_chasers/white_00.png,0,0
+}
+
+surface221305
+{
+	element0,overlay,magic/soul_chasers/white_01.png,0,0
+}
+
+surface221306
+{
+	element0,overlay,magic/soul_chasers/white_02.png,0,0
+}
+
+surface221307
+{
+	element0,overlay,magic/soul_chasers/white_03.png,0,0
 }
 
 

@@ -83,33 +83,142 @@ sakura.bindgroup8002.addid,7002
 
 
 sakura.bindoption8100.group,Soul spin color,mustselect
-sakura.bindgroup8100.default,1
+sakura.bindgroup8108.default,1
 
-sakura.bindgroup8100.name,Soul spin color,Purple
+sakura.bindgroup8100.name,Soul spin color,Red
 sakura.bindgroup8100.addid,7100
 
-sakura.bindgroup8101.name,Soul spin color,Yellow
+sakura.bindgroup8101.name,Soul spin color,Orange
 sakura.bindgroup8101.addid,7101
+
+sakura.bindgroup8102.name,Soul spin color,Yellow
+sakura.bindgroup8102.addid,7102
+
+sakura.bindgroup8103.name,Soul spin color,Chartreuse
+sakura.bindgroup8103.addid,7103
+
+sakura.bindgroup8104.name,Soul spin color,Green
+sakura.bindgroup8104.addid,7104
+
+sakura.bindgroup8105.name,Soul spin color,Turquoise
+sakura.bindgroup8105.addid,7105
+
+sakura.bindgroup8106.name,Soul spin color,Cyan
+sakura.bindgroup8106.addid,7106
+
+sakura.bindgroup8107.name,Soul spin color,Blue
+sakura.bindgroup8107.addid,7107
+
+sakura.bindgroup8108.name,Soul spin color,Purple
+sakura.bindgroup8108.addid,7108
+
+sakura.bindgroup8109.name,Soul spin color,Magenta
+sakura.bindgroup8109.addid,7109
+
+sakura.bindgroup8110.name,Soul spin color,Pink
+sakura.bindgroup8110.addid,7110
+
+sakura.bindgroup8111.name,Soul spin color,Black
+sakura.bindgroup8111.addid,7111
+
+sakura.bindgroup8112.name,Soul spin color,Gray
+sakura.bindgroup8112.addid,7112
+
+sakura.bindgroup8113.name,Soul spin color,White
+sakura.bindgroup8113.addid,7113
 
 
 sakura.bindoption8200.group,Soul chasers primary color,mustselect
-sakura.bindgroup8200.default,1
+sakura.bindgroup8208.default,1
 
-sakura.bindgroup8200.name,Soul chasers primary color,Purple
+sakura.bindgroup8200.name,Soul chasers primary color,Red
 sakura.bindgroup8200.addid,7200
 
-sakura.bindgroup8201.name,Soul chasers primary color,Yellow
+sakura.bindgroup8201.name,Soul chasers primary color,Orange
 sakura.bindgroup8201.addid,7201
+
+sakura.bindgroup8202.name,Soul chasers primary color,Yellow
+sakura.bindgroup8202.addid,7202
+
+sakura.bindgroup8203.name,Soul chasers primary color,Chartreuse
+sakura.bindgroup8203.addid,7203
+
+sakura.bindgroup8204.name,Soul chasers primary color,Green
+sakura.bindgroup8204.addid,7204
+
+sakura.bindgroup8205.name,Soul chasers primary color,Turquoise
+sakura.bindgroup8205.addid,7205
+
+sakura.bindgroup8206.name,Soul chasers primary color,Cyan
+sakura.bindgroup8206.addid,7206
+
+sakura.bindgroup8207.name,Soul chasers primary color,Blue
+sakura.bindgroup8207.addid,7207
+
+sakura.bindgroup8208.name,Soul chasers primary color,Purple
+sakura.bindgroup8208.addid,7208
+
+sakura.bindgroup8209.name,Soul chasers primary color,Magenta
+sakura.bindgroup8209.addid,7209
+
+sakura.bindgroup8210.name,Soul chasers primary color,Pink
+sakura.bindgroup8210.addid,7210
+
+sakura.bindgroup8211.name,Soul chasers primary color,Black
+sakura.bindgroup8211.addid,7211
+
+sakura.bindgroup8212.name,Soul chasers primary color,Gray
+sakura.bindgroup8212.addid,7212
+
+sakura.bindgroup8213.name,Soul chasers primary color,White
+sakura.bindgroup8213.addid,7213
+
 
 
 sakura.bindoption8250.group,Soul chasers secondary color,mustselect
-sakura.bindgroup8251.default,1
+sakura.bindgroup8252.default,1
 
-sakura.bindgroup8250.name,Soul chasers secondary color,Purple
+sakura.bindgroup8250.name,Soul chasers secondary color,Red
 sakura.bindgroup8250.addid,7250
 
-sakura.bindgroup8251.name,Soul chasers secondary color,Yellow
+sakura.bindgroup8251.name,Soul chasers secondary color,Orange
 sakura.bindgroup8251.addid,7251
+
+sakura.bindgroup8252.name,Soul chasers secondary color,Yellow
+sakura.bindgroup8252.addid,7252
+
+sakura.bindgroup8253.name,Soul chasers secondary color,Chartreuse
+sakura.bindgroup8253.addid,7253
+
+sakura.bindgroup8254.name,Soul chasers secondary color,Green
+sakura.bindgroup8254.addid,7254
+
+sakura.bindgroup8255.name,Soul chasers secondary color,Turquoise
+sakura.bindgroup8255.addid,7255
+
+sakura.bindgroup8256.name,Soul chasers secondary color,Cyan
+sakura.bindgroup8256.addid,7256
+
+sakura.bindgroup8257.name,Soul chasers secondary color,Blue
+sakura.bindgroup8257.addid,7257
+
+sakura.bindgroup8258.name,Soul chasers secondary color,Purple
+sakura.bindgroup8258.addid,7258
+
+sakura.bindgroup8259.name,Soul chasers secondary color,Magenta
+sakura.bindgroup8259.addid,7259
+
+sakura.bindgroup8260.name,Soul chasers secondary color,Pink
+sakura.bindgroup8260.addid,7260
+
+sakura.bindgroup8261.name,Soul chasers secondary color,Black
+sakura.bindgroup8261.addid,7261
+
+sakura.bindgroup8262.name,Soul chasers secondary color,Gray
+sakura.bindgroup8262.addid,7262
+
+sakura.bindgroup8263.name,Soul chasers secondary color,White
+sakura.bindgroup8263.addid,7263
 
 
 

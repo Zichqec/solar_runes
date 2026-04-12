@@ -89,57 +89,297 @@ surface70003
 //—————————— Soul spin ——————————
 surface71000
 {
-	//Purple
+	//Red
 	animation7100.interval,bind
 	animation7100.pattern0,overlay,110000,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7101.interval,bind
 	animation7101.pattern0,overlay,110100,0,0,0
+	
+	//Yellow
+	animation7102.interval,bind
+	animation7102.pattern0,overlay,110200,0,0,0
+	
+	//Chartreuse
+	animation7103.interval,bind
+	animation7103.pattern0,overlay,110300,0,0,0
+	
+	//Green
+	animation7104.interval,bind
+	animation7104.pattern0,overlay,110400,0,0,0
+	
+	//Turquoise
+	animation7105.interval,bind
+	animation7105.pattern0,overlay,110500,0,0,0
+	
+	//Cyan
+	animation7106.interval,bind
+	animation7106.pattern0,overlay,110600,0,0,0
+	
+	//Blue
+	animation7107.interval,bind
+	animation7107.pattern0,overlay,110700,0,0,0
+	
+	//Purple
+	animation7108.interval,bind
+	animation7108.pattern0,overlay,110800,0,0,0
+	
+	//Magenta
+	animation7109.interval,bind
+	animation7109.pattern0,overlay,110900,0,0,0
+	
+	//Pink
+	animation7110.interval,bind
+	animation7110.pattern0,overlay,111000,0,0,0
+	
+	//Black
+	animation7111.interval,bind
+	animation7111.pattern0,overlay,111100,0,0,0
+	
+	//Gray
+	animation7112.interval,bind
+	animation7112.pattern0,overlay,111200,0,0,0
+	
+	//White
+	animation7113.interval,bind
+	animation7113.pattern0,overlay,111300,0,0,0
 }
 
 surface71001
 {
-	//Purple
+	//Red
 	animation7100.interval,bind
 	animation7100.pattern0,overlay,110001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7101.interval,bind
 	animation7101.pattern0,overlay,110101,0,0,0
+	
+	//Yellow
+	animation7102.interval,bind
+	animation7102.pattern0,overlay,110201,0,0,0
+	
+	//Chartreuse
+	animation7103.interval,bind
+	animation7103.pattern0,overlay,110301,0,0,0
+	
+	//Green
+	animation7104.interval,bind
+	animation7104.pattern0,overlay,110401,0,0,0
+	
+	//Turquoise
+	animation7105.interval,bind
+	animation7105.pattern0,overlay,110501,0,0,0
+	
+	//Cyan
+	animation7106.interval,bind
+	animation7106.pattern0,overlay,110601,0,0,0
+	
+	//Blue
+	animation7107.interval,bind
+	animation7107.pattern0,overlay,110701,0,0,0
+	
+	//Purple
+	animation7108.interval,bind
+	animation7108.pattern0,overlay,110801,0,0,0
+	
+	//Magenta
+	animation7109.interval,bind
+	animation7109.pattern0,overlay,110901,0,0,0
+	
+	//Pink
+	animation7110.interval,bind
+	animation7110.pattern0,overlay,111001,0,0,0
+	
+	//Black
+	animation7111.interval,bind
+	animation7111.pattern0,overlay,111101,0,0,0
+	
+	//Gray
+	animation7112.interval,bind
+	animation7112.pattern0,overlay,111201,0,0,0
+	
+	//White
+	animation7113.interval,bind
+	animation7113.pattern0,overlay,111301,0,0,0
 }
 
 surface71002
 {
-	//Purple
+	//Red
 	animation7100.interval,bind
 	animation7100.pattern0,overlay,110002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7101.interval,bind
 	animation7101.pattern0,overlay,110102,0,0,0
+	
+	//Yellow
+	animation7102.interval,bind
+	animation7102.pattern0,overlay,110202,0,0,0
+	
+	//Chartreuse
+	animation7103.interval,bind
+	animation7103.pattern0,overlay,110302,0,0,0
+	
+	//Green
+	animation7104.interval,bind
+	animation7104.pattern0,overlay,110402,0,0,0
+	
+	//Turquoise
+	animation7105.interval,bind
+	animation7105.pattern0,overlay,110502,0,0,0
+	
+	//Cyan
+	animation7106.interval,bind
+	animation7106.pattern0,overlay,110602,0,0,0
+	
+	//Blue
+	animation7107.interval,bind
+	animation7107.pattern0,overlay,110702,0,0,0
+	
+	//Purple
+	animation7108.interval,bind
+	animation7108.pattern0,overlay,110802,0,0,0
+	
+	//Magenta
+	animation7109.interval,bind
+	animation7109.pattern0,overlay,110902,0,0,0
+	
+	//Pink
+	animation7110.interval,bind
+	animation7110.pattern0,overlay,111002,0,0,0
+	
+	//Black
+	animation7111.interval,bind
+	animation7111.pattern0,overlay,111102,0,0,0
+	
+	//Gray
+	animation7112.interval,bind
+	animation7112.pattern0,overlay,111202,0,0,0
+	
+	//White
+	animation7113.interval,bind
+	animation7113.pattern0,overlay,111302,0,0,0
 }
 
 surface71003
 {
-	//Purple
+	//Red
 	animation7100.interval,bind
 	animation7100.pattern0,overlay,110003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7101.interval,bind
 	animation7101.pattern0,overlay,110103,0,0,0
+	
+	//Yellow
+	animation7102.interval,bind
+	animation7102.pattern0,overlay,110203,0,0,0
+	
+	//Chartreuse
+	animation7103.interval,bind
+	animation7103.pattern0,overlay,110303,0,0,0
+	
+	//Green
+	animation7104.interval,bind
+	animation7104.pattern0,overlay,110403,0,0,0
+	
+	//Turquoise
+	animation7105.interval,bind
+	animation7105.pattern0,overlay,110503,0,0,0
+	
+	//Cyan
+	animation7106.interval,bind
+	animation7106.pattern0,overlay,110603,0,0,0
+	
+	//Blue
+	animation7107.interval,bind
+	animation7107.pattern0,overlay,110703,0,0,0
+	
+	//Purple
+	animation7108.interval,bind
+	animation7108.pattern0,overlay,110803,0,0,0
+	
+	//Magenta
+	animation7109.interval,bind
+	animation7109.pattern0,overlay,110903,0,0,0
+	
+	//Pink
+	animation7110.interval,bind
+	animation7110.pattern0,overlay,111003,0,0,0
+	
+	//Black
+	animation7111.interval,bind
+	animation7111.pattern0,overlay,111103,0,0,0
+	
+	//Gray
+	animation7112.interval,bind
+	animation7112.pattern0,overlay,111203,0,0,0
+	
+	//White
+	animation7113.interval,bind
+	animation7113.pattern0,overlay,111303,0,0,0
 }
 
 surface71004
 {
-	//Purple
+	//Red
 	animation7100.interval,bind
 	animation7100.pattern0,overlay,110004,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7101.interval,bind
 	animation7101.pattern0,overlay,110104,0,0,0
+	
+	//Yellow
+	animation7102.interval,bind
+	animation7102.pattern0,overlay,110204,0,0,0
+	
+	//Chartreuse
+	animation7103.interval,bind
+	animation7103.pattern0,overlay,110304,0,0,0
+	
+	//Green
+	animation7104.interval,bind
+	animation7104.pattern0,overlay,110404,0,0,0
+	
+	//Turquoise
+	animation7105.interval,bind
+	animation7105.pattern0,overlay,110504,0,0,0
+	
+	//Cyan
+	animation7106.interval,bind
+	animation7106.pattern0,overlay,110604,0,0,0
+	
+	//Blue
+	animation7107.interval,bind
+	animation7107.pattern0,overlay,110704,0,0,0
+	
+	//Purple
+	animation7108.interval,bind
+	animation7108.pattern0,overlay,110804,0,0,0
+	
+	//Magenta
+	animation7109.interval,bind
+	animation7109.pattern0,overlay,110904,0,0,0
+	
+	//Pink
+	animation7110.interval,bind
+	animation7110.pattern0,overlay,111004,0,0,0
+	
+	//Black
+	animation7111.interval,bind
+	animation7111.pattern0,overlay,111104,0,0,0
+	
+	//Gray
+	animation7112.interval,bind
+	animation7112.pattern0,overlay,111204,0,0,0
+	
+	//White
+	animation7113.interval,bind
+	animation7113.pattern0,overlay,111304,0,0,0
 }
 
 
@@ -148,63 +388,129 @@ surface72000
 {
 	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 50% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120102,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120202,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120302,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120402,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120502,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120602,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120702,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120802,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120902,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121002,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121102,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121202,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121302,0,0,0
 }
 
 surface72001
 {
 	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 25% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120103,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120203,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120303,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120403,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120503,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120603,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120703,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120803,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120903,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121003,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121103,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121203,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121303,0,0,0
 }
 
 surface72002
 {
 	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
-	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
 	
 	//————— Secondary 0% —————
 }
@@ -213,113 +519,372 @@ surface72003
 {
 	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 25% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120103,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120203,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120303,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120403,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120503,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120603,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120703,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120803,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120903,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121003,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121103,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121203,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121303,0,0,0
 }
 
 surface72004
 {
 	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 50% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120102,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120202,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120302,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120402,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120502,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120602,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120702,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120802,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120902,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121002,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121102,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121202,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121302,0,0,0
 }
 
 surface72005
 {
 	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 75% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120101,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120201,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120301,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120401,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120501,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120601,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120701,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120801,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120901,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121001,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121101,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121201,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121301,0,0,0
 }
 
 surface72006
 {
 	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
 	
-	//————— Primary —————
-	
-	
 	//————— Secondary 100% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120000,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120100,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120200,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120300,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120400,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120500,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120600,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120700,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120800,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120900,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121000,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121100,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121200,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121300,0,0,0
 }
 
 surface72007
 {
 	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
 	
-	//————— Primary —————
-	//Purple
-	animation7200.interval,bind
-	animation7200.pattern0,overlayfast,120000,0,0,0
-	
-	//Yellow
-	animation7201.interval,bind
-	animation7201.pattern0,overlayfast,120100,0,0,0
-	
-	
 	//————— Secondary 75% —————
-	//Purple
+	//Red
 	animation7250.interval,bind
 	animation7250.pattern0,overlayfast,120001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation7251.interval,bind
 	animation7251.pattern0,overlayfast,120101,0,0,0
+	
+	//Yellow
+	animation7252.interval,bind
+	animation7252.pattern0,overlayfast,120201,0,0,0
+	
+	//Chartreuse
+	animation7253.interval,bind
+	animation7253.pattern0,overlayfast,120301,0,0,0
+	
+	//Green
+	animation7254.interval,bind
+	animation7254.pattern0,overlayfast,120401,0,0,0
+	
+	//Turquoise
+	animation7255.interval,bind
+	animation7255.pattern0,overlayfast,120501,0,0,0
+	
+	//Cyan
+	animation7256.interval,bind
+	animation7256.pattern0,overlayfast,120601,0,0,0
+	
+	//Blue
+	animation7257.interval,bind
+	animation7257.pattern0,overlayfast,120701,0,0,0
+	
+	//Purple
+	animation7258.interval,bind
+	animation7258.pattern0,overlayfast,120801,0,0,0
+	
+	//Magenta
+	animation7259.interval,bind
+	animation7259.pattern0,overlayfast,120901,0,0,0
+	
+	//Pink
+	animation7260.interval,bind
+	animation7260.pattern0,overlayfast,121001,0,0,0
+	
+	//Black
+	animation7261.interval,bind
+	animation7261.pattern0,overlayfast,121101,0,0,0
+	
+	//Gray
+	animation7262.interval,bind
+	animation7262.pattern0,overlayfast,121201,0,0,0
+	
+	//White
+	animation7263.interval,bind
+	animation7263.pattern0,overlayfast,121301,0,0,0
+}
+
+//Primary colors are exactly the same across all of these. The numbers will layer them properly.
+//72006 doesn't have primary at all because it's full secondary.
+surface72000-72007,!72006
+{
+	//————— Primary —————
+	//Red
+	animation7200.interval,bind
+	animation7200.pattern0,overlayfast,120000,0,0,0
+	
+	//Orange
+	animation7201.interval,bind
+	animation7201.pattern0,overlayfast,120100,0,0,0
+	
+	//Yellow
+	animation7202.interval,bind
+	animation7202.pattern0,overlayfast,120200,0,0,0
+	
+	//Chartreuse
+	animation7203.interval,bind
+	animation7203.pattern0,overlayfast,120300,0,0,0
+	
+	//Green
+	animation7204.interval,bind
+	animation7204.pattern0,overlayfast,120400,0,0,0
+	
+	//Turquoise
+	animation7205.interval,bind
+	animation7205.pattern0,overlayfast,120500,0,0,0
+	
+	//Cyan
+	animation7206.interval,bind
+	animation7206.pattern0,overlayfast,120600,0,0,0
+	
+	//Blue
+	animation7207.interval,bind
+	animation7207.pattern0,overlayfast,120700,0,0,0
+	
+	//Purple
+	animation7208.interval,bind
+	animation7208.pattern0,overlayfast,120800,0,0,0
+	
+	//Magenta
+	animation7209.interval,bind
+	animation7209.pattern0,overlayfast,120900,0,0,0
+	
+	//Pink
+	animation7210.interval,bind
+	animation7210.pattern0,overlayfast,121000,0,0,0
+	
+	//Black
+	animation7211.interval,bind
+	animation7211.pattern0,overlayfast,121100,0,0,0
+	
+	//Gray
+	animation7212.interval,bind
+	animation7212.pattern0,overlayfast,121200,0,0,0
+	
+	//White
+	animation7213.interval,bind
+	animation7213.pattern0,overlayfast,121300,0,0,0
 }
 
 
@@ -389,90 +954,474 @@ surface80003
 //—————————— Soul spin ——————————
 surface81000
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210000,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210100,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210200,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210300,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210400,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210500,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210600,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210700,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210800,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210900,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211000,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211100,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211200,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211300,0,0,0
 }
 
 surface81001
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
-	animation8101.pattern0,overlay,210101,0,0
+	animation8101.pattern0,overlay,210101,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210201,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210301,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210401,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210501,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210601,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210701,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210801,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210901,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211001,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211101,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211201,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211301,0,0,0
 }
 
 surface81002
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210102,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210202,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210302,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210402,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210502,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210602,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210702,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210802,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210902,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211002,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211102,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211202,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211302,0,0,0
 }
 
 surface81003
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210103,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210203,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210303,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210403,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210503,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210603,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210703,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210803,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210903,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211003,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211103,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211203,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211303,0,0,0
 }
 
 surface81004
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210004,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210104,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210204,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210304,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210404,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210504,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210604,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210704,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210804,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210904,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211004,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211104,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211204,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211304,0,0,0
 }
 
 surface81005
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210005,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210105,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210205,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210305,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210405,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210505,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210605,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210705,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210805,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210905,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211005,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211105,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211205,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211305,0,0,0
 }
 
 surface81006
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210006,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210106,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210206,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210306,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210406,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210506,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210606,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210706,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210806,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210906,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211006,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211106,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211206,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211306,0,0,0
 }
 
 surface81007
 {
-	//Purple
+	//Red
 	animation8100.interval,bind
 	animation8100.pattern0,overlay,210007,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8101.interval,bind
 	animation8101.pattern0,overlay,210107,0,0,0
+	
+	//Yellow
+	animation8102.interval,bind
+	animation8102.pattern0,overlay,210207,0,0,0
+	
+	//Chartreuse
+	animation8103.interval,bind
+	animation8103.pattern0,overlay,210307,0,0,0
+	
+	//Green
+	animation8104.interval,bind
+	animation8104.pattern0,overlay,210407,0,0,0
+	
+	//Turquoise
+	animation8105.interval,bind
+	animation8105.pattern0,overlay,210507,0,0,0
+	
+	//Cyan
+	animation8106.interval,bind
+	animation8106.pattern0,overlay,210607,0,0,0
+	
+	//Blue
+	animation8107.interval,bind
+	animation8107.pattern0,overlay,210707,0,0,0
+	
+	//Purple
+	animation8108.interval,bind
+	animation8108.pattern0,overlay,210807,0,0,0
+	
+	//Magenta
+	animation8109.interval,bind
+	animation8109.pattern0,overlay,210907,0,0,0
+	
+	//Pink
+	animation8110.interval,bind
+	animation8110.pattern0,overlay,211007,0,0,0
+	
+	//Black
+	animation8111.interval,bind
+	animation8111.pattern0,overlay,211107,0,0,0
+	
+	//Gray
+	animation8112.interval,bind
+	animation8112.pattern0,overlay,211207,0,0,0
+	
+	//White
+	animation8113.interval,bind
+	animation8113.pattern0,overlay,211307,0,0,0
 }
 
 
@@ -480,177 +1429,945 @@ surface81007
 surface82000
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210000,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210100,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210200,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210300,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210400,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210500,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210600,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210700,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210800,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210900,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211000,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211100,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211200,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211300,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220000,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220100,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220200,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220300,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220400,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220500,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220600,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220700,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220800,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220900,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221000,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221100,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221200,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221300,0,0,0
 }
 
 surface82001
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210101,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210201,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210301,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210401,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210501,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210601,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210701,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210801,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210901,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211001,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211101,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211201,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211301,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220001,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220101,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220201,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220301,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220401,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220501,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220601,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220701,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220801,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220901,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221001,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221101,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221201,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221301,0,0,0
 }
 
 surface82002
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210102,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210202,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210302,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210402,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210502,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210602,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210702,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210802,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210902,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211002,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211102,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211202,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211302,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220002,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220102,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220202,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220302,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220402,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220502,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220602,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220702,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220802,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220902,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221002,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221102,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221202,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221302,0,0,0
 }
 
 surface82003
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210103,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210203,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210303,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210403,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210503,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210603,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210703,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210803,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210903,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211003,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211103,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211203,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211303,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220003,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220103,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220203,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220303,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220403,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220503,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220603,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220703,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220803,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220903,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221003,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221103,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221203,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221303,0,0,0
 }
 
 surface82004
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210004,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210104,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210204,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210304,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210404,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210504,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210604,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210704,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210804,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210904,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211004,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211104,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211204,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211304,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220004,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220104,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220204,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220304,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220404,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220504,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220604,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220704,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220804,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220904,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221004,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221104,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221204,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221304,0,0,0
 }
 
 surface82005
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210005,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210105,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210205,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210305,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210405,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210505,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210605,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210705,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210805,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210905,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211005,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211105,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211205,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211305,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220005,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220105,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220205,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220305,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220405,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220505,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220605,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220705,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220805,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220905,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221005,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221105,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221205,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221305,0,0,0
 }
 
 surface82006
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210006,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210106,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210206,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210306,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210406,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210506,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210606,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210706,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210806,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210906,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211006,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211106,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211206,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211306,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220006,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220106,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220206,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220306,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220406,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220506,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220606,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220706,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220806,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220906,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221006,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221106,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221206,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221306,0,0,0
 }
 
 surface82007
 {
 	//————— Primary —————
-	//Purple
+	//Red
 	animation8200.interval,bind
 	animation8200.pattern0,overlay,210007,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8201.interval,bind
 	animation8201.pattern0,overlay,210107,0,0,0
 	
+	//Yellow
+	animation8202.interval,bind
+	animation8202.pattern0,overlay,210207,0,0,0
+	
+	//Chartreuse
+	animation8203.interval,bind
+	animation8203.pattern0,overlay,210307,0,0,0
+	
+	//Green
+	animation8204.interval,bind
+	animation8204.pattern0,overlay,210407,0,0,0
+	
+	//Turquoise
+	animation8205.interval,bind
+	animation8205.pattern0,overlay,210507,0,0,0
+	
+	//Cyan
+	animation8206.interval,bind
+	animation8206.pattern0,overlay,210607,0,0,0
+	
+	//Blue
+	animation8207.interval,bind
+	animation8207.pattern0,overlay,210707,0,0,0
+	
+	//Purple
+	animation8208.interval,bind
+	animation8208.pattern0,overlay,210807,0,0,0
+	
+	//Magenta
+	animation8209.interval,bind
+	animation8209.pattern0,overlay,210907,0,0,0
+	
+	//Pink
+	animation8210.interval,bind
+	animation8210.pattern0,overlay,211007,0,0,0
+	
+	//Black
+	animation8211.interval,bind
+	animation8211.pattern0,overlay,211107,0,0,0
+	
+	//Gray
+	animation8212.interval,bind
+	animation8212.pattern0,overlay,211207,0,0,0
+	
+	//White
+	animation8213.interval,bind
+	animation8213.pattern0,overlay,211307,0,0,0
+	
 	
 	//————— Secondary —————
-	//Purple
+	//Red
 	animation8250.interval,bind
 	animation8250.pattern0,overlay,220007,0,0,0
 	
-	//Yellow
+	//Orange
 	animation8251.interval,bind
 	animation8251.pattern0,overlay,220107,0,0,0
+	
+	//Yellow
+	animation8252.interval,bind
+	animation8252.pattern0,overlay,220207,0,0,0
+	
+	//Chartreuse
+	animation8253.interval,bind
+	animation8253.pattern0,overlay,220307,0,0,0
+	
+	//Green
+	animation8254.interval,bind
+	animation8254.pattern0,overlay,220407,0,0,0
+	
+	//Turquoise
+	animation8255.interval,bind
+	animation8255.pattern0,overlay,220507,0,0,0
+	
+	//Cyan
+	animation8256.interval,bind
+	animation8256.pattern0,overlay,220607,0,0,0
+	
+	//Blue
+	animation8257.interval,bind
+	animation8257.pattern0,overlay,220707,0,0,0
+	
+	//Purple
+	animation8258.interval,bind
+	animation8258.pattern0,overlay,220807,0,0,0
+	
+	//Magenta
+	animation8259.interval,bind
+	animation8259.pattern0,overlay,220907,0,0,0
+	
+	//Pink
+	animation8260.interval,bind
+	animation8260.pattern0,overlay,221007,0,0,0
+	
+	//Black
+	animation8261.interval,bind
+	animation8261.pattern0,overlay,221107,0,0,0
+	
+	//Gray
+	animation8262.interval,bind
+	animation8262.pattern0,overlay,221207,0,0,0
+	
+	//White
+	animation8263.interval,bind
+	animation8263.pattern0,overlay,221307,0,0,0
 }
 
 
