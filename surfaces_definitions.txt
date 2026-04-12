@@ -425,24 +425,6 @@ surface110104
 
 
 //—————————— Soul chasers ——————————
-//Shape
-surface72990
-{
-	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
-}
-
-surface72991
-{
-	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
-}
-
-
-surface72992
-{
-	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
-}
-
-
 //Purple
 surface120000
 {
