@@ -373,374 +373,85 @@ surface100203
 //Red
 surface110000
 {
-	element0,overlay,magic/soul_spin_glow/red_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/red.png,0,0
 }
-
-surface110001
-{
-	element0,overlay,magic/soul_spin_glow/red_01.png,0,0
-}
-
-surface110002
-{
-	element0,overlay,magic/soul_spin_glow/red_02.png,0,0
-}
-
-surface110003
-{
-	element0,overlay,magic/soul_spin_glow/red_03.png,0,0
-}
-
-surface110004
-{
-	element0,overlay,magic/soul_spin_glow/red_04.png,0,0
-}
-
 
 //Orange
 surface110100
 {
-	element0,overlay,magic/soul_spin_glow/orange_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/orange.png,0,0
 }
-
-surface110101
-{
-	element0,overlay,magic/soul_spin_glow/orange_01.png,0,0
-}
-
-surface110102
-{
-	element0,overlay,magic/soul_spin_glow/orange_02.png,0,0
-}
-
-surface110103
-{
-	element0,overlay,magic/soul_spin_glow/orange_03.png,0,0
-}
-
-surface110104
-{
-	element0,overlay,magic/soul_spin_glow/orange_04.png,0,0
-}
-
 
 //Yellow
 surface110200
 {
-	element0,overlay,magic/soul_spin_glow/yellow_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/yellow.png,0,0
 }
-
-surface110201
-{
-	element0,overlay,magic/soul_spin_glow/yellow_01.png,0,0
-}
-
-surface110202
-{
-	element0,overlay,magic/soul_spin_glow/yellow_02.png,0,0
-}
-
-surface110203
-{
-	element0,overlay,magic/soul_spin_glow/yellow_03.png,0,0
-}
-
-surface110204
-{
-	element0,overlay,magic/soul_spin_glow/yellow_04.png,0,0
-}
-
 
 //Chartreuse
 surface110300
 {
-	element0,overlay,magic/soul_spin_glow/chartreuse_00.png,0,0
-}
-
-surface110301
-{
-	element0,overlay,magic/soul_spin_glow/chartreuse_01.png,0,0
-}
-
-surface110302
-{
-	element0,overlay,magic/soul_spin_glow/chartreuse_02.png,0,0
-}
-
-surface110303
-{
-	element0,overlay,magic/soul_spin_glow/chartreuse_03.png,0,0
-}
-
-surface110304
-{
-	element0,overlay,magic/soul_spin_glow/chartreuse_04.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chartreuse.png,0,0
 }
 
 //Green
 surface110400
 {
-	element0,overlay,magic/soul_spin_glow/green_00.png,0,0
-}
-
-surface110401
-{
-	element0,overlay,magic/soul_spin_glow/green_01.png,0,0
-}
-
-surface110402
-{
-	element0,overlay,magic/soul_spin_glow/green_02.png,0,0
-}
-
-surface110403
-{
-	element0,overlay,magic/soul_spin_glow/green_03.png,0,0
-}
-
-surface110404
-{
-	element0,overlay,magic/soul_spin_glow/green_04.png,0,0
+	element0,overlay,magic/soul_chasers_glow/green.png,0,0
 }
 
 //Turquoise
 surface110500
 {
-	element0,overlay,magic/soul_spin_glow/turquoise_00.png,0,0
-}
-
-surface110501
-{
-	element0,overlay,magic/soul_spin_glow/turquoise_01.png,0,0
-}
-
-surface110502
-{
-	element0,overlay,magic/soul_spin_glow/turquoise_02.png,0,0
-}
-
-surface110503
-{
-	element0,overlay,magic/soul_spin_glow/turquoise_03.png,0,0
-}
-
-surface110504
-{
-	element0,overlay,magic/soul_spin_glow/turquoise_04.png,0,0
+	element0,overlay,magic/soul_chasers_glow/turquoise.png,0,0
 }
 
 //Cyan
 surface110600
 {
-	element0,overlay,magic/soul_spin_glow/cyan_00.png,0,0
-}
-
-surface110601
-{
-	element0,overlay,magic/soul_spin_glow/cyan_01.png,0,0
-}
-
-surface110602
-{
-	element0,overlay,magic/soul_spin_glow/cyan_02.png,0,0
-}
-
-surface110603
-{
-	element0,overlay,magic/soul_spin_glow/cyan_03.png,0,0
-}
-
-surface110604
-{
-	element0,overlay,magic/soul_spin_glow/cyan_04.png,0,0
+	element0,overlay,magic/soul_chasers_glow/cyan.png,0,0
 }
 
 //Blue
 surface110700
 {
-	element0,overlay,magic/soul_spin_glow/blue_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/blue.png,0,0
 }
-
-surface110701
-{
-	element0,overlay,magic/soul_spin_glow/blue_01.png,0,0
-}
-
-surface110702
-{
-	element0,overlay,magic/soul_spin_glow/blue_02.png,0,0
-}
-
-surface110703
-{
-	element0,overlay,magic/soul_spin_glow/blue_03.png,0,0
-}
-
-surface110704
-{
-	element0,overlay,magic/soul_spin_glow/blue_04.png,0,0
-}
-
 
 //Purple
 surface110800
 {
-	element0,overlay,magic/soul_spin_glow/purple_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/purple.png,0,0
 }
-
-surface110801
-{
-	element0,overlay,magic/soul_spin_glow/purple_01.png,0,0
-}
-
-surface110802
-{
-	element0,overlay,magic/soul_spin_glow/purple_02.png,0,0
-}
-
-surface110803
-{
-	element0,overlay,magic/soul_spin_glow/purple_03.png,0,0
-}
-
-surface110804
-{
-	element0,overlay,magic/soul_spin_glow/purple_04.png,0,0
-}
-
 
 //Magenta
 surface110900
 {
-	element0,overlay,magic/soul_spin_glow/magenta_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/magenta.png,0,0
 }
-
-surface110901
-{
-	element0,overlay,magic/soul_spin_glow/magenta_01.png,0,0
-}
-
-surface110902
-{
-	element0,overlay,magic/soul_spin_glow/magenta_02.png,0,0
-}
-
-surface110903
-{
-	element0,overlay,magic/soul_spin_glow/magenta_03.png,0,0
-}
-
-surface110904
-{
-	element0,overlay,magic/soul_spin_glow/magenta_04.png,0,0
-}
-
 
 //Pink
 surface111000
 {
-	element0,overlay,magic/soul_spin_glow/pink_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/pink.png,0,0
 }
-
-surface111001
-{
-	element0,overlay,magic/soul_spin_glow/pink_01.png,0,0
-}
-
-surface111002
-{
-	element0,overlay,magic/soul_spin_glow/pink_02.png,0,0
-}
-
-surface111003
-{
-	element0,overlay,magic/soul_spin_glow/pink_03.png,0,0
-}
-
-surface111004
-{
-	element0,overlay,magic/soul_spin_glow/pink_04.png,0,0
-}
-
 
 //Black
 surface111100
 {
-	element0,overlay,magic/soul_spin_glow/black_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/black.png,0,0
 }
-
-surface111101
-{
-	element0,overlay,magic/soul_spin_glow/black_01.png,0,0
-}
-
-surface111102
-{
-	element0,overlay,magic/soul_spin_glow/black_02.png,0,0
-}
-
-surface111103
-{
-	element0,overlay,magic/soul_spin_glow/black_03.png,0,0
-}
-
-surface111104
-{
-	element0,overlay,magic/soul_spin_glow/black_04.png,0,0
-}
-
 
 //Gray
 surface111200
 {
-	element0,overlay,magic/soul_spin_glow/gray_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/gray.png,0,0
 }
-
-surface111201
-{
-	element0,overlay,magic/soul_spin_glow/gray_01.png,0,0
-}
-
-surface111202
-{
-	element0,overlay,magic/soul_spin_glow/gray_02.png,0,0
-}
-
-surface111203
-{
-	element0,overlay,magic/soul_spin_glow/gray_03.png,0,0
-}
-
-surface111204
-{
-	element0,overlay,magic/soul_spin_glow/gray_04.png,0,0
-}
-
 
 //White
 surface111300
 {
-	element0,overlay,magic/soul_spin_glow/white_00.png,0,0
-}
-
-surface111301
-{
-	element0,overlay,magic/soul_spin_glow/white_01.png,0,0
-}
-
-surface111302
-{
-	element0,overlay,magic/soul_spin_glow/white_02.png,0,0
-}
-
-surface111303
-{
-	element0,overlay,magic/soul_spin_glow/white_03.png,0,0
-}
-
-surface111304
-{
-	element0,overlay,magic/soul_spin_glow/white_04.png,0,0
+	element0,overlay,magic/soul_chasers_glow/white.png,0,0
 }
 
 

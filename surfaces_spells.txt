@@ -89,53 +89,78 @@ surface70003
 //—————————— Soul spin ——————————
 surface71000
 {
+	element0,overlay,magic/soul_chasers_glow/spin_shape_00.png,0,0
+}
+
+surface71001
+{
+	element0,overlay,magic/soul_chasers_glow/spin_shape_01.png,0,0
+}
+
+surface71002
+{
+	element0,overlay,magic/soul_chasers_glow/spin_shape_02.png,0,0
+}
+
+surface71003
+{
+	element0,overlay,magic/soul_chasers_glow/spin_shape_03.png,0,0
+}
+
+surface71004
+{
+	element0,overlay,magic/soul_chasers_glow/spin_shape_04.png,0,0
+}
+
+surface71000-71004
+{
 	//Red
 	animation7100.interval,bind
-	animation7100.pattern0,overlay,110000,0,0,0
+	animation7100.pattern0,overlayfast,110000,0,0,0
 	
 	//Orange
 	animation7101.interval,bind
-	animation7101.pattern0,overlay,110100,0,0,0
+	animation7101.pattern0,overlayfast,110100,0,0,0
 	
 	//Yellow
 	animation7102.interval,bind
-	animation7102.pattern0,overlay,110200,0,0,0
+	animation7102.pattern0,overlayfast,110200,0,0,0
 	
 	//Chartreuse
 	animation7103.interval,bind
-	animation7103.pattern0,overlay,110300,0,0,0
+	animation7103.pattern0,overlayfast,110300,0,0,0
 	
 	//Green
 	animation7104.interval,bind
-	animation7104.pattern0,overlay,110400,0,0,0
+	animation7104.pattern0,overlayfast,110400,0,0,0
 	
 	//Turquoise
 	animation7105.interval,bind
-	animation7105.pattern0,overlay,110500,0,0,0
+	animation7105.pattern0,overlayfast,110500,0,0,0
 	
 	//Cyan
 	animation7106.interval,bind
-	animation7106.pattern0,overlay,110600,0,0,0
+	animation7106.pattern0,overlayfast,110600,0,0,0
 	
 	//Blue
 	animation7107.interval,bind
-	animation7107.pattern0,overlay,110700,0,0,0
+	animation7107.pattern0,overlayfast,110700,0,0,0
 	
 	//Purple
 	animation7108.interval,bind
-	animation7108.pattern0,overlay,110800,0,0,0
+	animation7108.pattern0,overlayfast,110800,0,0,0
 	
 	//Magenta
 	animation7109.interval,bind
-	animation7109.pattern0,overlay,110900,0,0,0
+	animation7109.pattern0,overlayfast,110900,0,0,0
 	
 	//Pink
 	animation7110.interval,bind
-	animation7110.pattern0,overlay,111000,0,0,0
+	animation7110.pattern0,overlayfast,111000,0,0,0
 	
 	//Black
 	animation7111.interval,bind
-	animation7111.pattern0,overlay,111100,0,0,0
+	animation7111.pattern0,overlayfast,111100,0,0,0
 	
 	//Gray
 	animation7112.interval,bind
@@ -146,247 +171,11 @@ surface71000
 	animation7113.pattern0,overlay,111300,0,0,0
 }
 
-surface71001
-{
-	//Red
-	animation7100.interval,bind
-	animation7100.pattern0,overlay,110001,0,0,0
-	
-	//Orange
-	animation7101.interval,bind
-	animation7101.pattern0,overlay,110101,0,0,0
-	
-	//Yellow
-	animation7102.interval,bind
-	animation7102.pattern0,overlay,110201,0,0,0
-	
-	//Chartreuse
-	animation7103.interval,bind
-	animation7103.pattern0,overlay,110301,0,0,0
-	
-	//Green
-	animation7104.interval,bind
-	animation7104.pattern0,overlay,110401,0,0,0
-	
-	//Turquoise
-	animation7105.interval,bind
-	animation7105.pattern0,overlay,110501,0,0,0
-	
-	//Cyan
-	animation7106.interval,bind
-	animation7106.pattern0,overlay,110601,0,0,0
-	
-	//Blue
-	animation7107.interval,bind
-	animation7107.pattern0,overlay,110701,0,0,0
-	
-	//Purple
-	animation7108.interval,bind
-	animation7108.pattern0,overlay,110801,0,0,0
-	
-	//Magenta
-	animation7109.interval,bind
-	animation7109.pattern0,overlay,110901,0,0,0
-	
-	//Pink
-	animation7110.interval,bind
-	animation7110.pattern0,overlay,111001,0,0,0
-	
-	//Black
-	animation7111.interval,bind
-	animation7111.pattern0,overlay,111101,0,0,0
-	
-	//Gray
-	animation7112.interval,bind
-	animation7112.pattern0,overlay,111201,0,0,0
-	
-	//White
-	animation7113.interval,bind
-	animation7113.pattern0,overlay,111301,0,0,0
-}
-
-surface71002
-{
-	//Red
-	animation7100.interval,bind
-	animation7100.pattern0,overlay,110002,0,0,0
-	
-	//Orange
-	animation7101.interval,bind
-	animation7101.pattern0,overlay,110102,0,0,0
-	
-	//Yellow
-	animation7102.interval,bind
-	animation7102.pattern0,overlay,110202,0,0,0
-	
-	//Chartreuse
-	animation7103.interval,bind
-	animation7103.pattern0,overlay,110302,0,0,0
-	
-	//Green
-	animation7104.interval,bind
-	animation7104.pattern0,overlay,110402,0,0,0
-	
-	//Turquoise
-	animation7105.interval,bind
-	animation7105.pattern0,overlay,110502,0,0,0
-	
-	//Cyan
-	animation7106.interval,bind
-	animation7106.pattern0,overlay,110602,0,0,0
-	
-	//Blue
-	animation7107.interval,bind
-	animation7107.pattern0,overlay,110702,0,0,0
-	
-	//Purple
-	animation7108.interval,bind
-	animation7108.pattern0,overlay,110802,0,0,0
-	
-	//Magenta
-	animation7109.interval,bind
-	animation7109.pattern0,overlay,110902,0,0,0
-	
-	//Pink
-	animation7110.interval,bind
-	animation7110.pattern0,overlay,111002,0,0,0
-	
-	//Black
-	animation7111.interval,bind
-	animation7111.pattern0,overlay,111102,0,0,0
-	
-	//Gray
-	animation7112.interval,bind
-	animation7112.pattern0,overlay,111202,0,0,0
-	
-	//White
-	animation7113.interval,bind
-	animation7113.pattern0,overlay,111302,0,0,0
-}
-
-surface71003
-{
-	//Red
-	animation7100.interval,bind
-	animation7100.pattern0,overlay,110003,0,0,0
-	
-	//Orange
-	animation7101.interval,bind
-	animation7101.pattern0,overlay,110103,0,0,0
-	
-	//Yellow
-	animation7102.interval,bind
-	animation7102.pattern0,overlay,110203,0,0,0
-	
-	//Chartreuse
-	animation7103.interval,bind
-	animation7103.pattern0,overlay,110303,0,0,0
-	
-	//Green
-	animation7104.interval,bind
-	animation7104.pattern0,overlay,110403,0,0,0
-	
-	//Turquoise
-	animation7105.interval,bind
-	animation7105.pattern0,overlay,110503,0,0,0
-	
-	//Cyan
-	animation7106.interval,bind
-	animation7106.pattern0,overlay,110603,0,0,0
-	
-	//Blue
-	animation7107.interval,bind
-	animation7107.pattern0,overlay,110703,0,0,0
-	
-	//Purple
-	animation7108.interval,bind
-	animation7108.pattern0,overlay,110803,0,0,0
-	
-	//Magenta
-	animation7109.interval,bind
-	animation7109.pattern0,overlay,110903,0,0,0
-	
-	//Pink
-	animation7110.interval,bind
-	animation7110.pattern0,overlay,111003,0,0,0
-	
-	//Black
-	animation7111.interval,bind
-	animation7111.pattern0,overlay,111103,0,0,0
-	
-	//Gray
-	animation7112.interval,bind
-	animation7112.pattern0,overlay,111203,0,0,0
-	
-	//White
-	animation7113.interval,bind
-	animation7113.pattern0,overlay,111303,0,0,0
-}
-
-surface71004
-{
-	//Red
-	animation7100.interval,bind
-	animation7100.pattern0,overlay,110004,0,0,0
-	
-	//Orange
-	animation7101.interval,bind
-	animation7101.pattern0,overlay,110104,0,0,0
-	
-	//Yellow
-	animation7102.interval,bind
-	animation7102.pattern0,overlay,110204,0,0,0
-	
-	//Chartreuse
-	animation7103.interval,bind
-	animation7103.pattern0,overlay,110304,0,0,0
-	
-	//Green
-	animation7104.interval,bind
-	animation7104.pattern0,overlay,110404,0,0,0
-	
-	//Turquoise
-	animation7105.interval,bind
-	animation7105.pattern0,overlay,110504,0,0,0
-	
-	//Cyan
-	animation7106.interval,bind
-	animation7106.pattern0,overlay,110604,0,0,0
-	
-	//Blue
-	animation7107.interval,bind
-	animation7107.pattern0,overlay,110704,0,0,0
-	
-	//Purple
-	animation7108.interval,bind
-	animation7108.pattern0,overlay,110804,0,0,0
-	
-	//Magenta
-	animation7109.interval,bind
-	animation7109.pattern0,overlay,110904,0,0,0
-	
-	//Pink
-	animation7110.interval,bind
-	animation7110.pattern0,overlay,111004,0,0,0
-	
-	//Black
-	animation7111.interval,bind
-	animation7111.pattern0,overlay,111104,0,0,0
-	
-	//Gray
-	animation7112.interval,bind
-	animation7112.pattern0,overlay,111204,0,0,0
-	
-	//White
-	animation7113.interval,bind
-	animation7113.pattern0,overlay,111304,0,0,0
-}
-
 
 //—————————— Soul chasers ——————————
 surface72000
 {
-	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_00.png,0,0
 	
 	//————— Secondary 50% —————
 	//Red
@@ -448,7 +237,7 @@ surface72000
 
 surface72001
 {
-	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_01.png,0,0
 	
 	//————— Secondary 25% —————
 	//Red
@@ -510,14 +299,14 @@ surface72001
 
 surface72002
 {
-	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_02.png,0,0
 	
 	//————— Secondary 0% —————
 }
 
 surface72003
 {
-	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_01.png,0,0
 	
 	//————— Secondary 25% —————
 	//Red
@@ -579,7 +368,7 @@ surface72003
 
 surface72004
 {
-	element0,overlay,magic/soul_chasers_glow/shape_00.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_00.png,0,0
 	
 	//————— Secondary 50% —————
 	//Red
@@ -641,7 +430,7 @@ surface72004
 
 surface72005
 {
-	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_01.png,0,0
 	
 	//————— Secondary 75% —————
 	//Red
@@ -703,7 +492,7 @@ surface72005
 
 surface72006
 {
-	element0,overlay,magic/soul_chasers_glow/shape_02.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_02.png,0,0
 	
 	//————— Secondary 100% —————
 	//Red
@@ -765,7 +554,7 @@ surface72006
 
 surface72007
 {
-	element0,overlay,magic/soul_chasers_glow/shape_01.png,0,0
+	element0,overlay,magic/soul_chasers_glow/chasers_shape_01.png,0,0
 	
 	//————— Secondary 75% —————
 	//Red
@@ -2371,7 +2160,7 @@ surface82007
 }
 
 
-surface.append70000-89999,!72000-72999
+surface.append70000-89999,!71000-71999,!72000-72999
 {
 	element0,overlay,blank.png,0,0
 }

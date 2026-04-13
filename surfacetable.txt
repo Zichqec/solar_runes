@@ -114,75 +114,19 @@ group,__disabled
 	100203,__parts
 	
 	110000,__parts
-	110001,__parts
-	110002,__parts
-	110003,__parts
-	110004,__parts
 	110100,__parts
-	110101,__parts
-	110102,__parts
-	110103,__parts
-	110104,__parts
 	110200,__parts
-	110201,__parts
-	110202,__parts
-	110203,__parts
-	110204,__parts
 	110300,__parts
-	110301,__parts
-	110302,__parts
-	110303,__parts
-	110304,__parts
 	110400,__parts
-	110401,__parts
-	110402,__parts
-	110403,__parts
-	110404,__parts
 	110500,__parts
-	110501,__parts
-	110502,__parts
-	110503,__parts
-	110504,__parts
 	110600,__parts
-	110601,__parts
-	110602,__parts
-	110603,__parts
-	110604,__parts
 	110700,__parts
-	110701,__parts
-	110702,__parts
-	110703,__parts
-	110704,__parts
 	110800,__parts
-	110801,__parts
-	110802,__parts
-	110803,__parts
-	110804,__parts
 	110900,__parts
-	110901,__parts
-	110902,__parts
-	110903,__parts
-	110904,__parts
 	111000,__parts
-	111001,__parts
-	111002,__parts
-	111003,__parts
-	111004,__parts
 	111100,__parts
-	111101,__parts
-	111102,__parts
-	111103,__parts
-	111104,__parts
 	111200,__parts
-	111201,__parts
-	111202,__parts
-	111203,__parts
-	111204,__parts
 	111300,__parts
-	111301,__parts
-	111302,__parts
-	111303,__parts
-	111304,__parts
 	
 	120000,__parts
 	120001,__parts
