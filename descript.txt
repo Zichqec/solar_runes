@@ -9,6 +9,15 @@ craftmanurl,https://ukagaka.zichqec.com/
 seriko.use_self_alpha,1
 seriko.alignmenttodesktop,free
 
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.background.bitmap.filename,menu_background.png
+menu.sidebar.bitmap.filename,menu_sidebar.png
+
+menu.foreground.alignment,lefttop + repeatx + repeaty
+menu.background.alignment,lefttop + repeatx + repeaty
+menu.sidebar.alignment,lefttop + repeaty
+
+
 sakura.bindoption100.group,Tabard,mustselect
 sakura.bindgroup103.default,1
 
