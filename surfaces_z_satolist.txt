@@ -1,0 +1,6 @@
+//——————————————— Disable non-expression pieces in Satolist ———————————————
+//This got moved to its own file because I was having to move it around for it to come last in alphabetical order...
+surface.append10,10000-399999,999000,4999000,9999000-9999003
+{
+	//satolist.palette.visible,0
+}

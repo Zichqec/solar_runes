@@ -1976,10 +1976,3 @@ surface221307
 {
 	element0,overlay,magic/soul_chasers/white_03.png,0,0
 }
-
-
-//——————————————— Disable non-expression pieces in Satolist ———————————————
-surface.append10000-399999,999000,4999000
-{
-	//satolist.palette.visible,0
-}
