@@ -27,33 +27,71 @@ group,__disabled
 	
 	50000,__parts
 	50001,__parts
+	50002,__parts
 	
 	50100,__parts
 	50101,__parts
+	50102,__parts
 	
 	61000,__parts
 	61001,__parts
+	61002,__parts
 	
 	61100,__parts
 	61101,__parts
+	61102,__parts
 	
 	62000,__parts
 	62001,__parts
+	62002,__parts
 	
 	62100,__parts
 	62101,__parts
+	62102,__parts
 	
 	63000,__parts
 	63001,__parts
+	63002,__parts
 	
 	63100,__parts
 	63101,__parts
+	63102,__parts
 	
 	64000,__parts
 	64001,__parts
+	64002,__parts
 	
 	64100,__parts
 	64101,__parts
+	64102,__parts
+	
+	65000,__parts
+	65001,__parts
+	65002,__parts
+	
+	65100,__parts
+	65101,__parts
+	65102,__parts
+	
+	66000,__parts
+	66001,__parts
+	66002,__parts
+	
+	66100,__parts
+	66101,__parts
+	66102,__parts
+	
+	67000,__parts
+	67001,__parts
+	67002,__parts
+	
+	67100,__parts
+	67101,__parts
+	67102,__parts
+	
+	68100,__parts
+	68101,__parts
+	68102,__parts
 	
 	70000,__parts
 	70001,__parts
@@ -448,6 +486,10 @@ group,__disabled
 	
 	999000,__parts
 	4999000,__parts
+	9999000,__parts
+	9999001,__parts
+	9999002,__parts
+	9999003,__parts
 }
 
 group,Book
@@ -1463,4 +1505,1019 @@ group,Think
 	4827,S - Grimace
 	4828,S - Shouting
 	4829,S - Anguish
+}
+
+group,Rest
+{
+	scope,0
+	
+	//Read
+	5000,Normal
+	5001,Embarrassed
+	5002,Surprised
+	5003,Anxious
+	5004,Discouraged
+	5005,Smile
+	5006,Eyes closed
+	5007,Angry
+	5008,Sweat smile
+	5009,Embarrassed & angry
+	5020,Skeptical
+	5021,Grin
+	5022,Ambitious
+	5023,Sheepish
+	5024,Ick
+	5025,Bleh
+	5026,Yikes
+	5027,Grimace
+	5028,Shouting
+	5029,Anguish
+	
+	//Forward
+	5100,F - Normal
+	5101,F - Embarrassed
+	5102,F - Surprised
+	5103,F - Anxious
+	5104,F - Discouraged
+	5105,F - Smile
+	5106,F - Eyes closed
+	5107,F - Angry
+	5108,F - Sweat smile
+	5109,F - Embarrassed & angry
+	5120,F - Skeptical
+	5121,F - Grin
+	5122,F - Ambitious
+	5123,F - Sheepish
+	5124,F - Ick
+	5125,F - Bleh
+	5126,F - Yikes
+	5127,F - Grimace
+	5128,F - Shouting
+	5129,F - Anguish
+	
+	//Left
+	5200,L - Normal
+	5201,L - Embarrassed
+	5202,L - Surprised
+	5203,L - Anxious
+	5204,L - Discouraged
+	5205,L - Smile
+	5206,L - Eyes closed
+	5207,L - Angry
+	5208,L - Sweat smile
+	5209,L - Embarrassed & angry
+	5220,L - Skeptical
+	5221,L - Grin
+	5222,L - Ambitious
+	5223,L - Sheepish
+	5224,L - Ick
+	5225,L - Bleh
+	5226,L - Yikes
+	5227,L - Grimace
+	5228,L - Shouting
+	5229,L - Anguish
+	
+	//Right
+	5300,R - Normal
+	5301,R - Embarrassed
+	5302,R - Surprised
+	5303,R - Anxious
+	5304,R - Discouraged
+	5305,R - Smile
+	5306,R - Eyes closed
+	5307,R - Angry
+	5308,R - Sweat smile
+	5309,R - Embarrassed & angry
+	5320,R - Skeptical
+	5321,R - Grin
+	5322,R - Ambitious
+	5323,R - Sheepish
+	5324,R - Ick
+	5325,R - Bleh
+	5326,R - Yikes
+	5327,R - Grimace
+	5328,R - Shouting
+	5329,R - Anguish
+	
+	//Left up
+	5400,LU - Normal
+	5401,LU - Embarrassed
+	5402,LU - Surprised
+	5403,LU - Anxious
+	5404,LU - Discouraged
+	5405,LU - Smile
+	5406,LU - Eyes closed
+	5407,LU - Angry
+	5408,LU - Sweat smile
+	5409,LU - Embarrassed & angry
+	5420,LU - Skeptical
+	5421,LU - Grin
+	5422,LU - Ambitious
+	5423,LU - Sheepish
+	5424,LU - Ick
+	5425,LU - Bleh
+	5426,LU - Yikes
+	5427,LU - Grimace
+	5428,LU - Shouting
+	5429,LU - Anguish
+	
+	//Right up
+	5500,RU - Normal
+	5501,RU - Embarrassed
+	5502,RU - Surprised
+	5503,RU - Anxious
+	5504,RU - Discouraged
+	5505,RU - Smile
+	5506,RU - Eyes closed
+	5507,RU - Angry
+	5508,RU - Sweat smile
+	5509,RU - Embarrassed & angry
+	5520,RU - Skeptical
+	5521,RU - Grin
+	5522,RU - Ambitious
+	5523,RU - Sheepish
+	5524,RU - Ick
+	5525,RU - Bleh
+	5526,RU - Yikes
+	5527,RU - Grimace
+	5528,RU - Shouting
+	5529,RU - Anguish
+	
+	//Closed down
+	5600,CD - Normal
+	5601,CD - Embarrassed
+	5602,CD - Surprised
+	5603,CD - Anxious
+	5604,CD - Discouraged
+	5605,CD - Smile
+	5606,CD - Eyes closed
+	5607,CD - Angry
+	5608,CD - Sweat smile
+	5609,CD - Embarrassed & angry
+	5620,CD - Skeptical
+	5621,CD - Grin
+	5622,CD - Ambitious
+	5623,CD - Sheepish
+	5624,CD - Ick
+	5625,CD - Bleh
+	5626,CD - Yikes
+	5627,CD - Grimace
+	5628,CD - Shouting
+	5629,CD - Anguish
+	
+	//Closed up
+	5700,CU - Normal
+	5701,CU - Embarrassed
+	5702,CU - Surprised
+	5703,CU - Anxious
+	5704,CU - Discouraged
+	5705,CU - Smile
+	5706,CU - Eyes closed
+	5707,CU - Angry
+	5708,CU - Sweat smile
+	5709,CU - Embarrassed & angry
+	5720,CU - Skeptical
+	5721,CU - Grin
+	5722,CU - Ambitious
+	5723,CU - Sheepish
+	5724,CU - Ick
+	5725,CU - Bleh
+	5726,CU - Yikes
+	5727,CU - Grimace
+	5728,CU - Shouting
+	5729,CU - Anguish
+	
+	//Squeeze
+	5800,S - Normal
+	5801,S - Embarrassed
+	5802,S - Surprised
+	5803,S - Anxious
+	5804,S - Discouraged
+	5805,S - Smile
+	5806,S - Eyes closed
+	5807,S - Angry
+	5808,S - Sweat smile
+	5809,S - Embarrassed & angry
+	5820,S - Skeptical
+	5821,S - Grin
+	5822,S - Ambitious
+	5823,S - Sheepish
+	5824,S - Ick
+	5825,S - Bleh
+	5826,S - Yikes
+	5827,S - Grimace
+	5828,S - Shouting
+	5829,S - Anguish
+}
+
+group,Grasp
+{
+	scope,0
+	
+	//Read
+	6000,Normal
+	6001,Embarrassed
+	6002,Surprised
+	6003,Anxious
+	6004,Discouraged
+	6005,Smile
+	6006,Eyes closed
+	6007,Angry
+	6008,Sweat smile
+	6009,Embarrassed & angry
+	6020,Skeptical
+	6021,Grin
+	6022,Ambitious
+	6023,Sheepish
+	6024,Ick
+	6025,Bleh
+	6026,Yikes
+	6027,Grimace
+	6028,Shouting
+	6029,Anguish
+	
+	//Forward
+	6100,F - Normal
+	6101,F - Embarrassed
+	6102,F - Surprised
+	6103,F - Anxious
+	6104,F - Discouraged
+	6105,F - Smile
+	6106,F - Eyes closed
+	6107,F - Angry
+	6108,F - Sweat smile
+	6109,F - Embarrassed & angry
+	6120,F - Skeptical
+	6121,F - Grin
+	6122,F - Ambitious
+	6123,F - Sheepish
+	6124,F - Ick
+	6125,F - Bleh
+	6126,F - Yikes
+	6127,F - Grimace
+	6128,F - Shouting
+	6129,F - Anguish
+	
+	//Left
+	6200,L - Normal
+	6201,L - Embarrassed
+	6202,L - Surprised
+	6203,L - Anxious
+	6204,L - Discouraged
+	6205,L - Smile
+	6206,L - Eyes closed
+	6207,L - Angry
+	6208,L - Sweat smile
+	6209,L - Embarrassed & angry
+	6220,L - Skeptical
+	6221,L - Grin
+	6222,L - Ambitious
+	6223,L - Sheepish
+	6224,L - Ick
+	6225,L - Bleh
+	6226,L - Yikes
+	6227,L - Grimace
+	6228,L - Shouting
+	6229,L - Anguish
+	
+	//Right
+	6300,R - Normal
+	6301,R - Embarrassed
+	6302,R - Surprised
+	6303,R - Anxious
+	6304,R - Discouraged
+	6305,R - Smile
+	6306,R - Eyes closed
+	6307,R - Angry
+	6308,R - Sweat smile
+	6309,R - Embarrassed & angry
+	6320,R - Skeptical
+	6321,R - Grin
+	6322,R - Ambitious
+	6323,R - Sheepish
+	6324,R - Ick
+	6325,R - Bleh
+	6326,R - Yikes
+	6327,R - Grimace
+	6328,R - Shouting
+	6329,R - Anguish
+	
+	//Left up
+	6400,LU - Normal
+	6401,LU - Embarrassed
+	6402,LU - Surprised
+	6403,LU - Anxious
+	6404,LU - Discouraged
+	6405,LU - Smile
+	6406,LU - Eyes closed
+	6407,LU - Angry
+	6408,LU - Sweat smile
+	6409,LU - Embarrassed & angry
+	6420,LU - Skeptical
+	6421,LU - Grin
+	6422,LU - Ambitious
+	6423,LU - Sheepish
+	6424,LU - Ick
+	6425,LU - Bleh
+	6426,LU - Yikes
+	6427,LU - Grimace
+	6428,LU - Shouting
+	6429,LU - Anguish
+	
+	//Right up
+	6500,RU - Normal
+	6501,RU - Embarrassed
+	6502,RU - Surprised
+	6503,RU - Anxious
+	6504,RU - Discouraged
+	6505,RU - Smile
+	6506,RU - Eyes closed
+	6507,RU - Angry
+	6508,RU - Sweat smile
+	6509,RU - Embarrassed & angry
+	6520,RU - Skeptical
+	6521,RU - Grin
+	6522,RU - Ambitious
+	6523,RU - Sheepish
+	6524,RU - Ick
+	6525,RU - Bleh
+	6526,RU - Yikes
+	6527,RU - Grimace
+	6528,RU - Shouting
+	6529,RU - Anguish
+	
+	//Closed down
+	6600,CD - Normal
+	6601,CD - Embarrassed
+	6602,CD - Surprised
+	6603,CD - Anxious
+	6604,CD - Discouraged
+	6605,CD - Smile
+	6606,CD - Eyes closed
+	6607,CD - Angry
+	6608,CD - Sweat smile
+	6609,CD - Embarrassed & angry
+	6620,CD - Skeptical
+	6621,CD - Grin
+	6622,CD - Ambitious
+	6623,CD - Sheepish
+	6624,CD - Ick
+	6625,CD - Bleh
+	6626,CD - Yikes
+	6627,CD - Grimace
+	6628,CD - Shouting
+	6629,CD - Anguish
+	
+	//Closed up
+	6700,CU - Normal
+	6701,CU - Embarrassed
+	6702,CU - Surprised
+	6703,CU - Anxious
+	6704,CU - Discouraged
+	6705,CU - Smile
+	6706,CU - Eyes closed
+	6707,CU - Angry
+	6708,CU - Sweat smile
+	6709,CU - Embarrassed & angry
+	6720,CU - Skeptical
+	6721,CU - Grin
+	6722,CU - Ambitious
+	6723,CU - Sheepish
+	6724,CU - Ick
+	6725,CU - Bleh
+	6726,CU - Yikes
+	6727,CU - Grimace
+	6728,CU - Shouting
+	6729,CU - Anguish
+	
+	//Squeeze
+	6800,S - Normal
+	6801,S - Embarrassed
+	6802,S - Surprised
+	6803,S - Anxious
+	6804,S - Discouraged
+	6805,S - Smile
+	6806,S - Eyes closed
+	6807,S - Angry
+	6808,S - Sweat smile
+	6809,S - Embarrassed & angry
+	6820,S - Skeptical
+	6821,S - Grin
+	6822,S - Ambitious
+	6823,S - Sheepish
+	6824,S - Ick
+	6825,S - Bleh
+	6826,S - Yikes
+	6827,S - Grimace
+	6828,S - Shouting
+	6829,S - Anguish
+}
+
+group,Wave
+{
+	scope,0
+	
+	//Read
+	7000,Normal
+	7001,Embarrassed
+	7002,Surprised
+	7003,Anxious
+	7004,Discouraged
+	7005,Smile
+	7006,Eyes closed
+	7007,Angry
+	7008,Sweat smile
+	7009,Embarrassed & angry
+	7020,Skeptical
+	7021,Grin
+	7022,Ambitious
+	7023,Sheepish
+	7024,Ick
+	7025,Bleh
+	7026,Yikes
+	7027,Grimace
+	7028,Shouting
+	7029,Anguish
+	
+	//Forward
+	7100,F - Normal
+	7101,F - Embarrassed
+	7102,F - Surprised
+	7103,F - Anxious
+	7104,F - Discouraged
+	7105,F - Smile
+	7106,F - Eyes closed
+	7107,F - Angry
+	7108,F - Sweat smile
+	7109,F - Embarrassed & angry
+	7120,F - Skeptical
+	7121,F - Grin
+	7122,F - Ambitious
+	7123,F - Sheepish
+	7124,F - Ick
+	7125,F - Bleh
+	7126,F - Yikes
+	7127,F - Grimace
+	7128,F - Shouting
+	7129,F - Anguish
+	
+	//Left
+	7200,L - Normal
+	7201,L - Embarrassed
+	7202,L - Surprised
+	7203,L - Anxious
+	7204,L - Discouraged
+	7205,L - Smile
+	7206,L - Eyes closed
+	7207,L - Angry
+	7208,L - Sweat smile
+	7209,L - Embarrassed & angry
+	7220,L - Skeptical
+	7221,L - Grin
+	7222,L - Ambitious
+	7223,L - Sheepish
+	7224,L - Ick
+	7225,L - Bleh
+	7226,L - Yikes
+	7227,L - Grimace
+	7228,L - Shouting
+	7229,L - Anguish
+	
+	//Right
+	7300,R - Normal
+	7301,R - Embarrassed
+	7302,R - Surprised
+	7303,R - Anxious
+	7304,R - Discouraged
+	7305,R - Smile
+	7306,R - Eyes closed
+	7307,R - Angry
+	7308,R - Sweat smile
+	7309,R - Embarrassed & angry
+	7320,R - Skeptical
+	7321,R - Grin
+	7322,R - Ambitious
+	7323,R - Sheepish
+	7324,R - Ick
+	7325,R - Bleh
+	7326,R - Yikes
+	7327,R - Grimace
+	7328,R - Shouting
+	7329,R - Anguish
+	
+	//Left up
+	7400,LU - Normal
+	7401,LU - Embarrassed
+	7402,LU - Surprised
+	7403,LU - Anxious
+	7404,LU - Discouraged
+	7405,LU - Smile
+	7406,LU - Eyes closed
+	7407,LU - Angry
+	7408,LU - Sweat smile
+	7409,LU - Embarrassed & angry
+	7420,LU - Skeptical
+	7421,LU - Grin
+	7422,LU - Ambitious
+	7423,LU - Sheepish
+	7424,LU - Ick
+	7425,LU - Bleh
+	7426,LU - Yikes
+	7427,LU - Grimace
+	7428,LU - Shouting
+	7429,LU - Anguish
+	
+	//Right up
+	7500,RU - Normal
+	7501,RU - Embarrassed
+	7502,RU - Surprised
+	7503,RU - Anxious
+	7504,RU - Discouraged
+	7505,RU - Smile
+	7506,RU - Eyes closed
+	7507,RU - Angry
+	7508,RU - Sweat smile
+	7509,RU - Embarrassed & angry
+	7520,RU - Skeptical
+	7521,RU - Grin
+	7522,RU - Ambitious
+	7523,RU - Sheepish
+	7524,RU - Ick
+	7525,RU - Bleh
+	7526,RU - Yikes
+	7527,RU - Grimace
+	7528,RU - Shouting
+	7529,RU - Anguish
+	
+	//Closed down
+	7600,CD - Normal
+	7601,CD - Embarrassed
+	7602,CD - Surprised
+	7603,CD - Anxious
+	7604,CD - Discouraged
+	7605,CD - Smile
+	7606,CD - Eyes closed
+	7607,CD - Angry
+	7608,CD - Sweat smile
+	7609,CD - Embarrassed & angry
+	7620,CD - Skeptical
+	7621,CD - Grin
+	7622,CD - Ambitious
+	7623,CD - Sheepish
+	7624,CD - Ick
+	7625,CD - Bleh
+	7626,CD - Yikes
+	7627,CD - Grimace
+	7628,CD - Shouting
+	7629,CD - Anguish
+	
+	//Closed up
+	7700,CU - Normal
+	7701,CU - Embarrassed
+	7702,CU - Surprised
+	7703,CU - Anxious
+	7704,CU - Discouraged
+	7705,CU - Smile
+	7706,CU - Eyes closed
+	7707,CU - Angry
+	7708,CU - Sweat smile
+	7709,CU - Embarrassed & angry
+	7720,CU - Skeptical
+	7721,CU - Grin
+	7722,CU - Ambitious
+	7723,CU - Sheepish
+	7724,CU - Ick
+	7725,CU - Bleh
+	7726,CU - Yikes
+	7727,CU - Grimace
+	7728,CU - Shouting
+	7729,CU - Anguish
+	
+	//Squeeze
+	7800,S - Normal
+	7801,S - Embarrassed
+	7802,S - Surprised
+	7803,S - Anxious
+	7804,S - Discouraged
+	7805,S - Smile
+	7806,S - Eyes closed
+	7807,S - Angry
+	7808,S - Sweat smile
+	7809,S - Embarrassed & angry
+	7820,S - Skeptical
+	7821,S - Grin
+	7822,S - Ambitious
+	7823,S - Sheepish
+	7824,S - Ick
+	7825,S - Bleh
+	7826,S - Yikes
+	7827,S - Grimace
+	7828,S - Shouting
+	7829,S - Anguish
+}
+
+group,Temple
+{
+	scope,0
+	
+	//Read
+	8000,Normal
+	8001,Embarrassed
+	8002,Surprised
+	8003,Anxious
+	8004,Discouraged
+	8005,Smile
+	8006,Eyes closed
+	8007,Angry
+	8008,Sweat smile
+	8009,Embarrassed & angry
+	8020,Skeptical
+	8021,Grin
+	8022,Ambitious
+	8023,Sheepish
+	8024,Ick
+	8025,Bleh
+	8026,Yikes
+	8027,Grimace
+	8028,Shouting
+	8029,Anguish
+	
+	//Forward
+	8100,F - Normal
+	8101,F - Embarrassed
+	8102,F - Surprised
+	8103,F - Anxious
+	8104,F - Discouraged
+	8105,F - Smile
+	8106,F - Eyes closed
+	8107,F - Angry
+	8108,F - Sweat smile
+	8109,F - Embarrassed & angry
+	8120,F - Skeptical
+	8121,F - Grin
+	8122,F - Ambitious
+	8123,F - Sheepish
+	8124,F - Ick
+	8125,F - Bleh
+	8126,F - Yikes
+	8127,F - Grimace
+	8128,F - Shouting
+	8129,F - Anguish
+	
+	//Left
+	8200,L - Normal
+	8201,L - Embarrassed
+	8202,L - Surprised
+	8203,L - Anxious
+	8204,L - Discouraged
+	8205,L - Smile
+	8206,L - Eyes closed
+	8207,L - Angry
+	8208,L - Sweat smile
+	8209,L - Embarrassed & angry
+	8220,L - Skeptical
+	8221,L - Grin
+	8222,L - Ambitious
+	8223,L - Sheepish
+	8224,L - Ick
+	8225,L - Bleh
+	8226,L - Yikes
+	8227,L - Grimace
+	8228,L - Shouting
+	8229,L - Anguish
+	
+	//Right
+	8300,R - Normal
+	8301,R - Embarrassed
+	8302,R - Surprised
+	8303,R - Anxious
+	8304,R - Discouraged
+	8305,R - Smile
+	8306,R - Eyes closed
+	8307,R - Angry
+	8308,R - Sweat smile
+	8309,R - Embarrassed & angry
+	8320,R - Skeptical
+	8321,R - Grin
+	8322,R - Ambitious
+	8323,R - Sheepish
+	8324,R - Ick
+	8325,R - Bleh
+	8326,R - Yikes
+	8327,R - Grimace
+	8328,R - Shouting
+	8329,R - Anguish
+	
+	//Left up
+	8400,LU - Normal
+	8401,LU - Embarrassed
+	8402,LU - Surprised
+	8403,LU - Anxious
+	8404,LU - Discouraged
+	8405,LU - Smile
+	8406,LU - Eyes closed
+	8407,LU - Angry
+	8408,LU - Sweat smile
+	8409,LU - Embarrassed & angry
+	8420,LU - Skeptical
+	8421,LU - Grin
+	8422,LU - Ambitious
+	8423,LU - Sheepish
+	8424,LU - Ick
+	8425,LU - Bleh
+	8426,LU - Yikes
+	8427,LU - Grimace
+	8428,LU - Shouting
+	8429,LU - Anguish
+	
+	//Right up
+	8500,RU - Normal
+	8501,RU - Embarrassed
+	8502,RU - Surprised
+	8503,RU - Anxious
+	8504,RU - Discouraged
+	8505,RU - Smile
+	8506,RU - Eyes closed
+	8507,RU - Angry
+	8508,RU - Sweat smile
+	8509,RU - Embarrassed & angry
+	8520,RU - Skeptical
+	8521,RU - Grin
+	8522,RU - Ambitious
+	8523,RU - Sheepish
+	8524,RU - Ick
+	8525,RU - Bleh
+	8526,RU - Yikes
+	8527,RU - Grimace
+	8528,RU - Shouting
+	8529,RU - Anguish
+	
+	//Closed down
+	8600,CD - Normal
+	8601,CD - Embarrassed
+	8602,CD - Surprised
+	8603,CD - Anxious
+	8604,CD - Discouraged
+	8605,CD - Smile
+	8606,CD - Eyes closed
+	8607,CD - Angry
+	8608,CD - Sweat smile
+	8609,CD - Embarrassed & angry
+	8620,CD - Skeptical
+	8621,CD - Grin
+	8622,CD - Ambitious
+	8623,CD - Sheepish
+	8624,CD - Ick
+	8625,CD - Bleh
+	8626,CD - Yikes
+	8627,CD - Grimace
+	8628,CD - Shouting
+	8629,CD - Anguish
+	
+	//Closed up
+	8700,CU - Normal
+	8701,CU - Embarrassed
+	8702,CU - Surprised
+	8703,CU - Anxious
+	8704,CU - Discouraged
+	8705,CU - Smile
+	8706,CU - Eyes closed
+	8707,CU - Angry
+	8708,CU - Sweat smile
+	8709,CU - Embarrassed & angry
+	8720,CU - Skeptical
+	8721,CU - Grin
+	8722,CU - Ambitious
+	8723,CU - Sheepish
+	8724,CU - Ick
+	8725,CU - Bleh
+	8726,CU - Yikes
+	8727,CU - Grimace
+	8728,CU - Shouting
+	8729,CU - Anguish
+	
+	//Squeeze
+	8800,S - Normal
+	8801,S - Embarrassed
+	8802,S - Surprised
+	8803,S - Anxious
+	8804,S - Discouraged
+	8805,S - Smile
+	8806,S - Eyes closed
+	8807,S - Angry
+	8808,S - Sweat smile
+	8809,S - Embarrassed & angry
+	8820,S - Skeptical
+	8821,S - Grin
+	8822,S - Ambitious
+	8823,S - Sheepish
+	8824,S - Ick
+	8825,S - Bleh
+	8826,S - Yikes
+	8827,S - Grimace
+	8828,S - Shouting
+	8829,S - Anguish
+}
+
+group,Scratch
+{
+	scope,0
+	
+	//Read
+	9000,Normal
+	9001,Embarrassed
+	9002,Surprised
+	9003,Anxious
+	9004,Discouraged
+	9005,Smile
+	9006,Eyes closed
+	9007,Angry
+	9008,Sweat smile
+	9009,Embarrassed & angry
+	9020,Skeptical
+	9021,Grin
+	9022,Ambitious
+	9023,Sheepish
+	9024,Ick
+	9025,Bleh
+	9026,Yikes
+	9027,Grimace
+	9028,Shouting
+	9029,Anguish
+	
+	//Forward
+	9100,F - Normal
+	9101,F - Embarrassed
+	9102,F - Surprised
+	9103,F - Anxious
+	9104,F - Discouraged
+	9105,F - Smile
+	9106,F - Eyes closed
+	9107,F - Angry
+	9108,F - Sweat smile
+	9109,F - Embarrassed & angry
+	9120,F - Skeptical
+	9121,F - Grin
+	9122,F - Ambitious
+	9123,F - Sheepish
+	9124,F - Ick
+	9125,F - Bleh
+	9126,F - Yikes
+	9127,F - Grimace
+	9128,F - Shouting
+	9129,F - Anguish
+	
+	//Left
+	9200,L - Normal
+	9201,L - Embarrassed
+	9202,L - Surprised
+	9203,L - Anxious
+	9204,L - Discouraged
+	9205,L - Smile
+	9206,L - Eyes closed
+	9207,L - Angry
+	9208,L - Sweat smile
+	9209,L - Embarrassed & angry
+	9220,L - Skeptical
+	9221,L - Grin
+	9222,L - Ambitious
+	9223,L - Sheepish
+	9224,L - Ick
+	9225,L - Bleh
+	9226,L - Yikes
+	9227,L - Grimace
+	9228,L - Shouting
+	9229,L - Anguish
+	
+	//Right
+	9300,R - Normal
+	9301,R - Embarrassed
+	9302,R - Surprised
+	9303,R - Anxious
+	9304,R - Discouraged
+	9305,R - Smile
+	9306,R - Eyes closed
+	9307,R - Angry
+	9308,R - Sweat smile
+	9309,R - Embarrassed & angry
+	9320,R - Skeptical
+	9321,R - Grin
+	9322,R - Ambitious
+	9323,R - Sheepish
+	9324,R - Ick
+	9325,R - Bleh
+	9326,R - Yikes
+	9327,R - Grimace
+	9328,R - Shouting
+	9329,R - Anguish
+	
+	//Left up
+	9400,LU - Normal
+	9401,LU - Embarrassed
+	9402,LU - Surprised
+	9403,LU - Anxious
+	9404,LU - Discouraged
+	9405,LU - Smile
+	9406,LU - Eyes closed
+	9407,LU - Angry
+	9408,LU - Sweat smile
+	9409,LU - Embarrassed & angry
+	9420,LU - Skeptical
+	9421,LU - Grin
+	9422,LU - Ambitious
+	9423,LU - Sheepish
+	9424,LU - Ick
+	9425,LU - Bleh
+	9426,LU - Yikes
+	9427,LU - Grimace
+	9428,LU - Shouting
+	9429,LU - Anguish
+	
+	//Right up
+	9500,RU - Normal
+	9501,RU - Embarrassed
+	9502,RU - Surprised
+	9503,RU - Anxious
+	9504,RU - Discouraged
+	9505,RU - Smile
+	9506,RU - Eyes closed
+	9507,RU - Angry
+	9508,RU - Sweat smile
+	9509,RU - Embarrassed & angry
+	9520,RU - Skeptical
+	9521,RU - Grin
+	9522,RU - Ambitious
+	9523,RU - Sheepish
+	9524,RU - Ick
+	9525,RU - Bleh
+	9526,RU - Yikes
+	9527,RU - Grimace
+	9528,RU - Shouting
+	9529,RU - Anguish
+	
+	//Closed down
+	9600,CD - Normal
+	9601,CD - Embarrassed
+	9602,CD - Surprised
+	9603,CD - Anxious
+	9604,CD - Discouraged
+	9605,CD - Smile
+	9606,CD - Eyes closed
+	9607,CD - Angry
+	9608,CD - Sweat smile
+	9609,CD - Embarrassed & angry
+	9620,CD - Skeptical
+	9621,CD - Grin
+	9622,CD - Ambitious
+	9623,CD - Sheepish
+	9624,CD - Ick
+	9625,CD - Bleh
+	9626,CD - Yikes
+	9627,CD - Grimace
+	9628,CD - Shouting
+	9629,CD - Anguish
+	
+	//Closed up
+	9700,CU - Normal
+	9701,CU - Embarrassed
+	9702,CU - Surprised
+	9703,CU - Anxious
+	9704,CU - Discouraged
+	9705,CU - Smile
+	9706,CU - Eyes closed
+	9707,CU - Angry
+	9708,CU - Sweat smile
+	9709,CU - Embarrassed & angry
+	9720,CU - Skeptical
+	9721,CU - Grin
+	9722,CU - Ambitious
+	9723,CU - Sheepish
+	9724,CU - Ick
+	9725,CU - Bleh
+	9726,CU - Yikes
+	9727,CU - Grimace
+	9728,CU - Shouting
+	9729,CU - Anguish
+	
+	//Squeeze
+	9800,S - Normal
+	9801,S - Embarrassed
+	9802,S - Surprised
+	9803,S - Anxious
+	9804,S - Discouraged
+	9805,S - Smile
+	9806,S - Eyes closed
+	9807,S - Angry
+	9808,S - Sweat smile
+	9809,S - Embarrassed & angry
+	9820,S - Skeptical
+	9821,S - Grin
+	9822,S - Ambitious
+	9823,S - Sheepish
+	9824,S - Ick
+	9825,S - Bleh
+	9826,S - Yikes
+	9827,S - Grimace
+	9828,S - Shouting
+	9829,S - Anguish
 }
