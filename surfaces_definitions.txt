@@ -359,33 +359,33 @@ surface64102
 
 surface65000
 {
-	element0,overlay,ring_mobile/leg/pointer_gold.png,0,0
+	element0,overlay,ring_mobile/rest/pointer_gold.png,0,0
 }
 
 surface65001
 {
-	element0,overlay,ring_mobile/leg/pointer_silver.png,0,0
+	element0,overlay,ring_mobile/rest/pointer_silver.png,0,0
 }
 
 surface65002
 {
-	element0,overlay,ring_mobile/leg/pointer_copper.png,0,0
+	element0,overlay,ring_mobile/rest/pointer_copper.png,0,0
 }
 
 
 surface65100
 {
-	element0,overlay,ring_mobile/leg/middle_gold.png,0,0
+	element0,overlay,ring_mobile/rest/middle_gold.png,0,0
 }
 
 surface65101
 {
-	element0,overlay,ring_mobile/leg/middle_silver.png,0,0
+	element0,overlay,ring_mobile/rest/middle_silver.png,0,0
 }
 
 surface65102
 {
-	element0,overlay,ring_mobile/leg/middle_copper.png,0,0
+	element0,overlay,ring_mobile/rest/middle_copper.png,0,0
 }
 
 
