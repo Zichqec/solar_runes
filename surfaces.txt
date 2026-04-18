@@ -529,6 +529,9 @@ surface.append0-4999,!10-19
 	animation501.interval,bind
 	animation501.pattern0,overlay,50001,0,0,0
 	
+	animation502.interval,bind
+	animation502.pattern0,overlay,50002,0,0,0
+	
 	
 	//Middle finger
 	animation510.interval,bind
@@ -536,6 +539,9 @@ surface.append0-4999,!10-19
 	
 	animation511.interval,bind
 	animation511.pattern0,overlay,50101,0,0,0
+	
+	animation512.interval,bind
+	animation512.pattern0,overlay,50102,0,0,0
 }
 
 //Right hand ring dressups (his right)
@@ -549,6 +555,9 @@ surface.append1000-1999
 	animation601.interval,bind
 	animation601.pattern0,overlay,61001,0,0,0
 	
+	animation602.interval,bind
+	animation602.pattern0,overlay,61002,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -556,6 +565,9 @@ surface.append1000-1999
 	
 	animation611.interval,bind
 	animation611.pattern0,overlay,61101,0,0,0
+	
+	animation612.interval,bind
+	animation612.pattern0,overlay,61102,0,0,0
 }
 
 //Gesture
@@ -568,6 +580,9 @@ surface.append2000-2999
 	animation601.interval,bind
 	animation601.pattern0,overlay,62001,0,0,0
 	
+	animation602.interval,bind
+	animation602.pattern0,overlay,62002,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -575,6 +590,9 @@ surface.append2000-2999
 	
 	animation611.interval,bind
 	animation611.pattern0,overlay,62101,0,0,0
+	
+	animation612.interval,bind
+	animation612.pattern0,overlay,62102,0,0,0
 }
 
 //Point
@@ -587,6 +605,9 @@ surface.append3000-3999
 	animation601.interval,bind
 	animation601.pattern0,overlay,63001,0,0,0
 	
+	animation602.interval,bind
+	animation602.pattern0,overlay,63002,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -594,6 +615,9 @@ surface.append3000-3999
 	
 	animation611.interval,bind
 	animation611.pattern0,overlay,63101,0,0,0
+	
+	animation612.interval,bind
+	animation612.pattern0,overlay,63102,0,0,0
 }
 
 //Think
@@ -606,6 +630,9 @@ surface.append4000-4999,4999000
 	animation601.interval,bind
 	animation601.pattern0,overlay,64001,0,0,0
 	
+	animation602.interval,bind
+	animation602.pattern0,overlay,64002,0,0,0
+	
 	
 	//Middle finger
 	animation610.interval,bind
@@ -613,6 +640,9 @@ surface.append4000-4999,4999000
 	
 	animation611.interval,bind
 	animation611.pattern0,overlay,64101,0,0,0
+	
+	animation612.interval,bind
+	animation612.pattern0,overlay,64102,0,0,0
 }
 
 

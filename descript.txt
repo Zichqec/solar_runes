@@ -52,18 +52,22 @@ sakura.bindgroup402.name,Book cover,Moon
 sakura.bindgroup403.name,Book cover,Title only
 
 
-sakura.bindgroup500.name,Ring - right pointer finger,Silver
-sakura.bindgroup501.name,Ring - right pointer finger,Gold
+sakura.bindgroup500.name,Ring - right pointer finger,Gold
+sakura.bindgroup501.name,Ring - right pointer finger,Silver
+sakura.bindgroup502.name,Ring - right pointer finger,Copper
 
-sakura.bindgroup510.default,1
-sakura.bindgroup510.name,Ring - right middle finger,Silver
-sakura.bindgroup511.name,Ring - right middle finger,Gold
+sakura.bindgroup511.default,1
+sakura.bindgroup510.name,Ring - right middle finger,Gold
+sakura.bindgroup511.name,Ring - right middle finger,Silver
+sakura.bindgroup512.name,Ring - right middle finger,Copper
 
-sakura.bindgroup600.name,Ring - left pointer finger,Silver
-sakura.bindgroup601.name,Ring - left pointer finger,Gold
+sakura.bindgroup600.name,Ring - left pointer finger,Gold
+sakura.bindgroup601.name,Ring - left pointer finger,Silver
+sakura.bindgroup602.name,Ring - left pointer finger,Copper
 
-sakura.bindgroup610.name,Ring - left middle finger,Silver
-sakura.bindgroup611.name,Ring - left middle finger,Gold
+sakura.bindgroup610.name,Ring - left middle finger,Gold
+sakura.bindgroup611.name,Ring - left middle finger,Silver
+sakura.bindgroup612.name,Ring - left middle finger,Copper
 
 
 sakura.bindgroup2000.default,1

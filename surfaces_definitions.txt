@@ -197,22 +197,33 @@ surface40003
 //I usually do stage left and stage right, but in this case since they will be user facing... maybe his left and his right are better?
 surface50000
 {
-	element0,overlay,ring_static/pointer_silver.png,0,0
+	element0,overlay,ring_static/pointer_gold.png,0,0
 }
 
 surface50001
 {
-	element0,overlay,ring_static/pointer_gold.png,0,0
+	element0,overlay,ring_static/pointer_silver.png,0,0
 }
+
+surface50002
+{
+	element0,overlay,ring_static/pointer_copper.png,0,0
+}
+
 
 surface50100
 {
-	element0,overlay,ring_static/middle_silver.png,0,0
+	element0,overlay,ring_static/middle_gold.png,0,0
 }
 
 surface50101
 {
-	element0,overlay,ring_static/middle_gold.png,0,0
+	element0,overlay,ring_static/middle_silver.png,0,0
+}
+
+surface50102
+{
+	element0,overlay,ring_static/middle_copper.png,0,0
 }
 
 
@@ -220,86 +231,245 @@ surface50101
 //Skipping 0 because that's the book hand and rings aren't visible
 surface61000
 {
-	element0,overlay,ring_mobile/extended/pointer_silver.png,0,0
+	element0,overlay,ring_mobile/extended/pointer_gold.png,0,0
 }
 
 surface61001
 {
-	element0,overlay,ring_mobile/extended/pointer_gold.png,0,0
+	element0,overlay,ring_mobile/extended/pointer_silver.png,0,0
 }
+
+surface61002
+{
+	element0,overlay,ring_mobile/extended/pointer_copper.png,0,0
+}
+
 
 surface61100
 {
-	element0,overlay,ring_mobile/extended/middle_silver.png,0,0
+	element0,overlay,ring_mobile/extended/middle_gold.png,0,0
 }
 
 surface61101
 {
-	element0,overlay,ring_mobile/extended/middle_gold.png,0,0
+	element0,overlay,ring_mobile/extended/middle_silver.png,0,0
+}
+
+surface61102
+{
+	element0,overlay,ring_mobile/extended/middle_copper.png,0,0
 }
 
 
 surface62000
 {
-	element0,overlay,ring_mobile/gesture/pointer_silver.png,0,0
+	element0,overlay,ring_mobile/gesture/pointer_gold.png,0,0
 }
 
 surface62001
 {
-	element0,overlay,ring_mobile/gesture/pointer_gold.png,0,0
+	element0,overlay,ring_mobile/gesture/pointer_silver.png,0,0
 }
+
+surface62002
+{
+	element0,overlay,ring_mobile/gesture/pointer_copper.png,0,0
+}
+
 
 surface62100
 {
-	element0,overlay,ring_mobile/gesture/middle_silver.png,0,0
+	element0,overlay,ring_mobile/gesture/middle_gold.png,0,0
 }
 
 surface62101
 {
-	element0,overlay,ring_mobile/gesture/middle_gold.png,0,0
+	element0,overlay,ring_mobile/gesture/middle_silver.png,0,0
+}
+
+surface62102
+{
+	element0,overlay,ring_mobile/gesture/middle_copper.png,0,0
 }
 
 
 surface63000
 {
-	element0,overlay,ring_mobile/point/pointer_silver.png,0,0
+	element0,overlay,ring_mobile/point/pointer_gold.png,0,0
 }
 
 surface63001
 {
-	element0,overlay,ring_mobile/point/pointer_gold.png,0,0
+	element0,overlay,ring_mobile/point/pointer_silver.png,0,0
 }
+
+surface63002
+{
+	element0,overlay,ring_mobile/point/pointer_copper.png,0,0
+}
+
 
 surface63100
 {
-	element0,overlay,ring_mobile/point/middle_silver.png,0,0
+	element0,overlay,ring_mobile/point/middle_gold.png,0,0
 }
 
 surface63101
 {
-	element0,overlay,ring_mobile/point/middle_gold.png,0,0
+	element0,overlay,ring_mobile/point/middle_silver.png,0,0
+}
+
+surface63102
+{
+	element0,overlay,ring_mobile/point/middle_copper.png,0,0
 }
 
 
 surface64000
 {
-	element0,overlay,ring_mobile/think/pointer_silver.png,0,0
+	element0,overlay,ring_mobile/think/pointer_gold.png,0,0
 }
 
 surface64001
 {
-	element0,overlay,ring_mobile/think/pointer_gold.png,0,0
+	element0,overlay,ring_mobile/think/pointer_silver.png,0,0
 }
+
+surface64002
+{
+	element0,overlay,ring_mobile/think/pointer_copper.png,0,0
+}
+
 
 surface64100
 {
-	element0,overlay,ring_mobile/think/middle_silver.png,0,0
+	element0,overlay,ring_mobile/think/middle_gold.png,0,0
 }
 
 surface64101
 {
-	element0,overlay,ring_mobile/think/middle_gold.png,0,0
+	element0,overlay,ring_mobile/think/middle_silver.png,0,0
 }
+
+surface64102
+{
+	element0,overlay,ring_mobile/think/middle_copper.png,0,0
+}
+
+
+surface65000
+{
+	element0,overlay,ring_mobile/leg/pointer_gold.png,0,0
+}
+
+surface65001
+{
+	element0,overlay,ring_mobile/leg/pointer_silver.png,0,0
+}
+
+surface65002
+{
+	element0,overlay,ring_mobile/leg/pointer_copper.png,0,0
+}
+
+
+surface65100
+{
+	element0,overlay,ring_mobile/leg/middle_gold.png,0,0
+}
+
+surface65101
+{
+	element0,overlay,ring_mobile/leg/middle_silver.png,0,0
+}
+
+surface65102
+{
+	element0,overlay,ring_mobile/leg/middle_copper.png,0,0
+}
+
+
+surface66000
+{
+	element0,overlay,ring_mobile/grasp/pointer_gold.png,0,0
+}
+
+surface66001
+{
+	element0,overlay,ring_mobile/grasp/pointer_silver.png,0,0
+}
+
+surface66002
+{
+	element0,overlay,ring_mobile/grasp/pointer_copper.png,0,0
+}
+
+
+surface66100
+{
+	element0,overlay,ring_mobile/grasp/middle_gold.png,0,0
+}
+
+surface66101
+{
+	element0,overlay,ring_mobile/grasp/middle_silver.png,0,0
+}
+
+surface66102
+{
+	element0,overlay,ring_mobile/grasp/middle_copper.png,0,0
+}
+
+
+surface67000
+{
+	element0,overlay,ring_mobile/wave/pointer_gold.png,0,0
+}
+
+surface67001
+{
+	element0,overlay,ring_mobile/wave/pointer_silver.png,0,0
+}
+
+surface67002
+{
+	element0,overlay,ring_mobile/wave/pointer_copper.png,0,0
+}
+
+
+surface67100
+{
+	element0,overlay,ring_mobile/wave/middle_gold.png,0,0
+}
+
+surface67101
+{
+	element0,overlay,ring_mobile/wave/middle_silver.png,0,0
+}
+
+surface67102
+{
+	element0,overlay,ring_mobile/wave/middle_copper.png,0,0
+}
+
+
+//No pointer finger rings for this hand
+surface68100
+{
+	element0,overlay,ring_mobile/temple/middle_gold.png,0,0
+}
+
+surface68101
+{
+	element0,overlay,ring_mobile/temple/middle_silver.png,0,0
+}
+
+surface68102
+{
+	element0,overlay,ring_mobile/temple/middle_copper.png,0,0
+}
+
+//Scratch arm has no visible rings
 
 
 //—————————————————————————————— Magic glow ——————————————————————————————
