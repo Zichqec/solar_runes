@@ -677,6 +677,40 @@ surface72000-72007,!72006
 }
 
 
+//—————————— Light ball ——————————
+surface73000
+{
+	element0,overlay,magic/light_ball_glow/shape_00.png,0,0
+}
+
+surface73001
+{
+	element0,overlay,magic/light_ball_glow/shape_01.png,0,0
+}
+
+surface73002
+{
+	element0,overlay,magic/light_ball_glow/shape_02.png,0,0
+}
+
+surface73003
+{
+	element0,overlay,magic/light_ball_glow/shape_03.png,0,0
+}
+
+surface73004
+{
+	element0,overlay,magic/light_ball_glow/shape_04.png,0,0
+}
+
+surface73000-73004
+{
+	//Blue
+	animation7300.interval,bind
+	animation7300.pattern0,overlayfast,130000,0,0,0
+}
+
+
 //—————————— Spells ——————————
 //—————————— Fire ——————————
 surface80000
@@ -2160,7 +2194,66 @@ surface82007
 }
 
 
-surface.append70000-89999,!71000-71999,!72000-72999
+//—————————— Light ball ——————————
+surface83000
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230000,0,0,0
+}
+
+surface83001
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230001,0,0,0
+}
+
+surface83002
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230002,0,0,0
+}
+
+surface83003
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230003,0,0,0
+}
+
+surface83004
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230004,0,0,0
+}
+
+surface83005
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230005,0,0,0
+}
+
+surface83006
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230006,0,0,0
+}
+
+surface83007
+{
+	//Blue
+	animation8300.interval,bind
+	animation8300.pattern0,overlay,230007,0,0,0
+}
+
+
+
+surface.append70000-89999,!71000-73999,83000-83007
 {
 	element0,overlay,blank.png,0,0
 }

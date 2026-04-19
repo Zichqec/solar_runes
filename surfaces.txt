@@ -886,6 +886,30 @@ surface.append2000-2999
 	animation2200.pattern7,overlay,82007,100,0,0
 	animation2200.pattern8,overlay,82007,100,0,0
 	animation2200.option,shared-index
+	
+	
+	//—————————— Light ball ——————————
+	animation1300.interval,bind+always
+	animation1300.pattern0,overlayfast,73000,0,0,0
+	animation1300.pattern1,overlayfast,73001,250,0,0
+	animation1300.pattern2,overlayfast,73002,200,0,0
+	animation1300.pattern3,overlayfast,73003,150,0,0
+	animation1300.pattern4,overlayfast,73004,200,0,0
+	animation1300.pattern5,overlayfast,73003,250,0,0
+	animation1300.pattern6,overlayfast,73002,200,0,0
+	animation1300.pattern7,overlayfast,73001,150,0,0
+	animation1300.pattern8,overlayfast,73001,200,0,0
+	
+	animation2300.interval,bind+always
+	animation2300.pattern0,overlay,83000,0,0,0
+	animation2300.pattern1,overlay,83001,150,0,0
+	animation2300.pattern2,overlay,83002,150,0,0
+	animation2300.pattern3,overlay,83003,150,0,0
+	animation2300.pattern4,overlay,83004,150,0,0
+	animation2300.pattern5,overlay,83005,150,0,0
+	animation2300.pattern6,overlay,83006,150,0,0
+	animation2300.pattern7,overlay,83007,150,0,0
+	animation2300.pattern8,overlay,83007,150,0,0
 }
 
 //Float

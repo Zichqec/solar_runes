@@ -732,6 +732,14 @@ surface121300-121303
 }
 
 
+//—————————— Light ball ——————————
+//Blue
+surface130000
+{
+	element0,overlay,magic/light_ball_glow/blue.png,0,0
+}
+
+
 //—————————————————————————————— Magic ——————————————————————————————
 //—————————— Fire ——————————
 //Orange
@@ -1975,4 +1983,47 @@ surface221306
 surface221307
 {
 	element0,overlay,magic/soul_chasers/white_03.png,0,0
+}
+
+
+//—————————— Light ball ——————————
+//Blue (move later)
+surface230000
+{
+	element0,overlay,magic/light_ball/blue_00.png,0,0
+}
+
+surface230001
+{
+	element0,overlay,magic/light_ball/blue_01.png,0,0
+}
+
+surface230002
+{
+	element0,overlay,magic/light_ball/blue_02.png,0,0
+}
+
+surface230003
+{
+	element0,overlay,magic/light_ball/blue_03.png,0,0
+}
+
+surface230004
+{
+	element0,overlay,magic/light_ball/blue_04.png,0,0
+}
+
+surface230005
+{
+	element0,overlay,magic/light_ball/blue_05.png,0,0
+}
+
+surface230006
+{
+	element0,overlay,magic/light_ball/blue_06.png,0,0
+}
+
+surface230007
+{
+	element0,overlay,magic/light_ball/blue_07.png,0,0
 }

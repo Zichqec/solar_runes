@@ -81,6 +81,9 @@ sakura.bindgroup2100.addid,1100
 sakura.bindgroup2200.name,Spell,Soul chasers
 sakura.bindgroup2200.addid,1200
 
+sakura.bindgroup2300.name,Spell,Light ball
+sakura.bindgroup2300.addid,1300
+
 
 sakura.bindoption8000.group,Fire color,mustselect
 sakura.bindgroup8000.default,1
@@ -233,6 +236,12 @@ sakura.bindgroup8262.addid,7262
 sakura.bindgroup8263.name,Soul chasers secondary color,White
 sakura.bindgroup8263.addid,7263
 
+
+sakura.bindoption8300.group,Light ball color,mustselect
+sakura.bindgroup8300.default,1
+
+sakura.bindgroup8300.name,Light ball color,Blue
+sakura.bindgroup8300.addid,7300
 
 
 sakura.bindgroup10000.default,1
