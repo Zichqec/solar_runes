@@ -339,18 +339,22 @@ surface.append9000-9999
 	animation100.interval,bind
 	animation100.pattern0,overlay,10000,0,0,0
 	animation100.pattern1,overlay,9999000,0,0,0
+	animation100.pattern2,overlay,9999100,0,0,0
 	
 	animation101.interval,bind
 	animation101.pattern0,overlay,10001,0,0,0
 	animation101.pattern1,overlay,9999001,0,0,0
+	animation101.pattern2,overlay,9999100,0,0,0
 	
 	animation102.interval,bind
 	animation102.pattern0,overlay,10002,0,0,0
 	animation102.pattern1,overlay,9999002,0,0,0
+	animation102.pattern2,overlay,9999100,0,0,0
 	
 	animation103.interval,bind
 	animation103.pattern0,overlay,10003,0,0,0
 	animation103.pattern1,overlay,9999003,0,0,0
+	animation103.pattern2,overlay,9999100,0,0,0
 }
 
 //Define tabard pieces to use as dressups
@@ -372,6 +376,12 @@ surface9999002
 surface9999003
 {
 	element0,overlay,tabard/scratch_gold.png,0,0
+}
+
+//Patch piece to go overtop to block out the base tabard color where it intersects the arm
+surface9999100
+{
+	element0,overlay,arm/scratch_patch.png,0,0
 }
 
 
