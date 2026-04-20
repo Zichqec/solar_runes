@@ -473,69 +473,88 @@ surface68102
 
 
 //—————————————————————————————— Magic glow ——————————————————————————————
-//Orange
+//Red
 surface100000
 {
-	element0,overlay,magic/fire_glow/orange_00.png,0,0
+	element0,overlay,magic/fire_glow/red.png,0,0
 }
 
-surface100001
-{
-	element0,overlay,magic/fire_glow/orange_01.png,0,0
-}
-
-surface100002
-{
-	element0,overlay,magic/fire_glow/orange_02.png,0,0
-}
-
-surface100003
-{
-	element0,overlay,magic/fire_glow/orange_03.png,0,0
-}
-
-
-//Blue
+//Orange
 surface100100
 {
-	element0,overlay,magic/fire_glow/blue_00.png,0,0
+	element0,overlay,magic/fire_glow/orange.png,0,0
 }
 
-surface100101
-{
-	element0,overlay,magic/fire_glow/blue_01.png,0,0
-}
-
-surface100102
-{
-	element0,overlay,magic/fire_glow/blue_02.png,0,0
-}
-
-surface100103
-{
-	element0,overlay,magic/fire_glow/blue_03.png,0,0
-}
-
-
-//Green
+//Yellow
 surface100200
 {
-	element0,overlay,magic/fire_glow/green_00.png,0,0
+	element0,overlay,magic/fire_glow/yellow.png,0,0
 }
 
-surface100201
+//Chartreuse
+surface100300
 {
-	element0,overlay,magic/fire_glow/green_01.png,0,0
+	element0,overlay,magic/fire_glow/chartreuse.png,0,0
 }
 
-surface100202
+//Green
+surface100400
 {
-	element0,overlay,magic/fire_glow/green_02.png,0,0
+	element0,overlay,magic/fire_glow/green.png,0,0
 }
 
-surface100203
+//Turquoise
+surface100500
 {
-	element0,overlay,magic/fire_glow/green_03.png,0,0
+	element0,overlay,magic/fire_glow/turquoise.png,0,0
+}
+
+//Cyan
+surface100600
+{
+	element0,overlay,magic/fire_glow/cyan.png,0,0
+}
+
+//Blue
+surface100700
+{
+	element0,overlay,magic/fire_glow/blue.png,0,0
+}
+
+//Purple
+surface100800
+{
+	element0,overlay,magic/fire_glow/purple.png,0,0
+}
+
+//Magenta
+surface100900
+{
+	element0,overlay,magic/fire_glow/magenta.png,0,0
+}
+
+//Pink
+surface101000
+{
+	element0,overlay,magic/fire_glow/pink.png,0,0
+}
+
+//Black
+surface101100
+{
+	element0,overlay,magic/fire_glow/black.png,0,0
+}
+
+//Gray
+surface101200
+{
+	element0,overlay,magic/fire_glow/gray.png,0,0
+}
+
+//White
+surface101300
+{
+	element0,overlay,magic/fire_glow/white.png,0,0
 }
 
 
@@ -820,70 +839,313 @@ surface131300
 
 //—————————————————————————————— Magic ——————————————————————————————
 //—————————— Fire ——————————
-//Orange
+//Red
 surface200000
 {
-	element0,overlay,magic/fire/orange_00.png,0,0
+	element0,overlay,magic/fire/red_00.png,0,0
 }
 
 surface200001
 {
-	element0,overlay,magic/fire/orange_01.png,0,0
+	element0,overlay,magic/fire/red_01.png,0,0
 }
 
 surface200002
 {
-	element0,overlay,magic/fire/orange_02.png,0,0
+	element0,overlay,magic/fire/red_02.png,0,0
 }
 
 surface200003
+{
+	element0,overlay,magic/fire/red_03.png,0,0
+}
+
+
+//Orange
+surface200100
+{
+	element0,overlay,magic/fire/orange_00.png,0,0
+}
+
+surface200101
+{
+	element0,overlay,magic/fire/orange_01.png,0,0
+}
+
+surface200102
+{
+	element0,overlay,magic/fire/orange_02.png,0,0
+}
+
+surface200103
 {
 	element0,overlay,magic/fire/orange_03.png,0,0
 }
 
 
+//Yellow
+surface200200
+{
+	element0,overlay,magic/fire/yellow_00.png,0,0
+}
+
+surface200201
+{
+	element0,overlay,magic/fire/yellow_01.png,0,0
+}
+
+surface200202
+{
+	element0,overlay,magic/fire/yellow_02.png,0,0
+}
+
+surface200203
+{
+	element0,overlay,magic/fire/yellow_03.png,0,0
+}
+
+
+//Chartreuse
+surface200300
+{
+	element0,overlay,magic/fire/chartreuse_00.png,0,0
+}
+
+surface200301
+{
+	element0,overlay,magic/fire/chartreuse_01.png,0,0
+}
+
+surface200302
+{
+	element0,overlay,magic/fire/chartreuse_02.png,0,0
+}
+
+surface200303
+{
+	element0,overlay,magic/fire/chartreuse_03.png,0,0
+}
+
+
+//Green
+surface200400
+{
+	element0,overlay,magic/fire/green_00.png,0,0
+}
+
+surface200401
+{
+	element0,overlay,magic/fire/green_01.png,0,0
+}
+
+surface200402
+{
+	element0,overlay,magic/fire/green_02.png,0,0
+}
+
+surface200403
+{
+	element0,overlay,magic/fire/green_03.png,0,0
+}
+
+
+//Turquoise
+surface200500
+{
+	element0,overlay,magic/fire/turquoise_00.png,0,0
+}
+
+surface200501
+{
+	element0,overlay,magic/fire/turquoise_01.png,0,0
+}
+
+surface200502
+{
+	element0,overlay,magic/fire/turquoise_02.png,0,0
+}
+
+surface200503
+{
+	element0,overlay,magic/fire/turquoise_03.png,0,0
+}
+
+
+//Cyan
+surface200600
+{
+	element0,overlay,magic/fire/cyan_00.png,0,0
+}
+
+surface200601
+{
+	element0,overlay,magic/fire/cyan_01.png,0,0
+}
+
+surface200602
+{
+	element0,overlay,magic/fire/cyan_02.png,0,0
+}
+
+surface200603
+{
+	element0,overlay,magic/fire/cyan_03.png,0,0
+}
+
+
 //Blue
-surface200100
+surface200700
 {
 	element0,overlay,magic/fire/blue_00.png,0,0
 }
 
-surface200101
+surface200701
 {
 	element0,overlay,magic/fire/blue_01.png,0,0
 }
 
-surface200102
+surface200702
 {
 	element0,overlay,magic/fire/blue_02.png,0,0
 }
 
-surface200103
+surface200703
 {
 	element0,overlay,magic/fire/blue_03.png,0,0
 }
 
 
-//Green
-surface200200
+//Purple
+surface200800
 {
-	element0,overlay,magic/fire/green_00.png,0,0
+	element0,overlay,magic/fire/purple_00.png,0,0
 }
 
-surface200201
+surface200801
 {
-	element0,overlay,magic/fire/green_01.png,0,0
+	element0,overlay,magic/fire/purple_01.png,0,0
 }
 
-surface200202
+surface200802
 {
-	element0,overlay,magic/fire/green_02.png,0,0
+	element0,overlay,magic/fire/purple_02.png,0,0
 }
 
-surface200203
+surface200803
 {
-	element0,overlay,magic/fire/green_03.png,0,0
+	element0,overlay,magic/fire/purple_03.png,0,0
 }
+
+
+//Magenta
+surface200900
+{
+	element0,overlay,magic/fire/magenta_00.png,0,0
+}
+
+surface200901
+{
+	element0,overlay,magic/fire/magenta_01.png,0,0
+}
+
+surface200902
+{
+	element0,overlay,magic/fire/magenta_02.png,0,0
+}
+
+surface200903
+{
+	element0,overlay,magic/fire/magenta_03.png,0,0
+}
+
+
+//Pink
+surface201000
+{
+	element0,overlay,magic/fire/pink_00.png,0,0
+}
+
+surface201001
+{
+	element0,overlay,magic/fire/pink_01.png,0,0
+}
+
+surface201002
+{
+	element0,overlay,magic/fire/pink_02.png,0,0
+}
+
+surface201003
+{
+	element0,overlay,magic/fire/pink_03.png,0,0
+}
+
+
+//Black
+surface201100
+{
+	element0,overlay,magic/fire/black_00.png,0,0
+}
+
+surface201101
+{
+	element0,overlay,magic/fire/black_01.png,0,0
+}
+
+surface201102
+{
+	element0,overlay,magic/fire/black_02.png,0,0
+}
+
+surface201103
+{
+	element0,overlay,magic/fire/black_03.png,0,0
+}
+
+
+//Gray
+surface201200
+{
+	element0,overlay,magic/fire/gray_00.png,0,0
+}
+
+surface201201
+{
+	element0,overlay,magic/fire/gray_01.png,0,0
+}
+
+surface201202
+{
+	element0,overlay,magic/fire/gray_02.png,0,0
+}
+
+surface201203
+{
+	element0,overlay,magic/fire/gray_03.png,0,0
+}
+
+
+//White
+surface201300
+{
+	element0,overlay,magic/fire/white_00.png,0,0
+}
+
+surface201301
+{
+	element0,overlay,magic/fire/white_01.png,0,0
+}
+
+surface201302
+{
+	element0,overlay,magic/fire/white_02.png,0,0
+}
+
+surface201303
+{
+	element0,overlay,magic/fire/white_03.png,0,0
+}
+
 
 
 //—————————— Soul spin (also used as soul chasers primary) ——————————

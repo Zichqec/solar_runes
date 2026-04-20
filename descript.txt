@@ -86,16 +86,49 @@ sakura.bindgroup2300.addid,1300
 
 
 sakura.bindoption8000.group,Fire color,mustselect
-sakura.bindgroup8000.default,1
+sakura.bindgroup8001.default,1
 
-sakura.bindgroup8000.name,Fire color,Orange
+sakura.bindgroup8000.name,Fire color,Red
 sakura.bindgroup8000.addid,7000
 
-sakura.bindgroup8001.name,Fire color,Blue
+sakura.bindgroup8001.name,Fire color,Orange
 sakura.bindgroup8001.addid,7001
 
-sakura.bindgroup8002.name,Fire color,Green
+sakura.bindgroup8002.name,Fire color,Yellow
 sakura.bindgroup8002.addid,7002
+
+sakura.bindgroup8003.name,Fire color,Chartreuse
+sakura.bindgroup8003.addid,7003
+
+sakura.bindgroup8004.name,Fire color,Green
+sakura.bindgroup8004.addid,7004
+
+sakura.bindgroup8005.name,Fire color,Turquoise
+sakura.bindgroup8005.addid,7005
+
+sakura.bindgroup8006.name,Fire color,Cyan
+sakura.bindgroup8006.addid,7006
+
+sakura.bindgroup8007.name,Fire color,Blue
+sakura.bindgroup8007.addid,7007
+
+sakura.bindgroup8008.name,Fire color,Purple
+sakura.bindgroup8008.addid,7008
+
+sakura.bindgroup8009.name,Fire color,Magenta
+sakura.bindgroup8009.addid,7009
+
+sakura.bindgroup8010.name,Fire color,Pink
+sakura.bindgroup8010.addid,7010
+
+sakura.bindgroup8011.name,Fire color,Black
+sakura.bindgroup8011.addid,7011
+
+sakura.bindgroup8012.name,Fire color,Gray
+sakura.bindgroup8012.addid,7012
+
+sakura.bindgroup8013.name,Fire color,White
+sakura.bindgroup8013.addid,7013
 
 
 sakura.bindoption8100.group,Soul spin color,mustselect
