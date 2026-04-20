@@ -678,36 +678,88 @@ surface72000-72007,!72006
 
 
 //—————————— Light ball ——————————
-surface73000
+surface73000,73010,73020,73030,73040,73050,73060,73070,73080,73090,73100,73110,73120,73130
 {
 	element0,overlay,magic/light_ball_glow/shape_00.png,0,0
 }
 
-surface73001
+surface73001,73011,73021,73031,73041,73051,73061,73071,73081,73091,73101,73111,73121,73131
 {
 	element0,overlay,magic/light_ball_glow/shape_01.png,0,0
 }
 
-surface73002
+surface73002,73012,73022,73032,73042,73052,73062,73072,73082,73092,73102,73112,73122,73132
 {
 	element0,overlay,magic/light_ball_glow/shape_02.png,0,0
 }
 
-surface73003
+surface73003,73013,73023,73033,73043,73053,73063,73073,73083,73093,73103,73113,73123,73133
 {
 	element0,overlay,magic/light_ball_glow/shape_03.png,0,0
 }
 
-surface73004
+surface73004,73014,73024,73034,73044,73054,73064,73074,73084,73094,73104,73114,73124,73134
 {
 	element0,overlay,magic/light_ball_glow/shape_04.png,0,0
 }
 
-surface73000-73004
+surface.append73000-73134
 {
-	//Blue
+	//Red
 	animation7300.interval,bind
 	animation7300.pattern0,overlayfast,130000,0,0,0
+	
+	//Orange
+	animation7301.interval,bind
+	animation7301.pattern0,overlayfast,130100,0,0,0
+	
+	//Yellow
+	animation7302.interval,bind
+	animation7302.pattern0,overlayfast,130200,0,0,0
+	
+	//Chartreuse
+	animation7303.interval,bind
+	animation7303.pattern0,overlayfast,130300,0,0,0
+	
+	//Green
+	animation7304.interval,bind
+	animation7304.pattern0,overlayfast,130400,0,0,0
+	
+	//Turquoise
+	animation7305.interval,bind
+	animation7305.pattern0,overlayfast,130500,0,0,0
+	
+	//Cyan
+	animation7306.interval,bind
+	animation7306.pattern0,overlayfast,130600,0,0,0
+	
+	//Blue
+	animation7307.interval,bind
+	animation7307.pattern0,overlayfast,130700,0,0,0
+	
+	//Purple
+	animation7308.interval,bind
+	animation7308.pattern0,overlayfast,130800,0,0,0
+	
+	//Magenta
+	animation7309.interval,bind
+	animation7309.pattern0,overlayfast,130900,0,0,0
+	
+	//Pink
+	animation7310.interval,bind
+	animation7310.pattern0,overlayfast,131000,0,0,0
+	
+	//Black
+	animation7311.interval,bind
+	animation7311.pattern0,overlayfast,131100,0,0,0
+	
+	//Gray
+	animation7312.interval,bind
+	animation7312.pattern0,overlayfast,131200,0,0,0
+	
+	//White
+	animation7313.interval,bind
+	animation7313.pattern0,overlayfast,131300,0,0,0
 }
 
 
@@ -2197,58 +2249,474 @@ surface82007
 //—————————— Light ball ——————————
 surface83000
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230000,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230100,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230200,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230300,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230400,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230500,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230600,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230700,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230800,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230900,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231000,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231100,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231200,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231300,0,0,0
 }
 
 surface83001
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230001,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230101,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230201,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230301,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230401,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230501,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230601,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230701,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230801,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230901,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231001,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231101,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231201,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231301,0,0,0
 }
 
 surface83002
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230002,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230102,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230202,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230302,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230402,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230502,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230602,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230702,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230802,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230902,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231002,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231102,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231202,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231302,0,0,0
 }
 
 surface83003
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230003,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230103,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230203,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230303,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230403,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230503,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230603,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230703,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230803,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230903,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231003,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231103,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231203,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231303,0,0,0
 }
 
 surface83004
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230004,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230104,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230204,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230304,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230404,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230504,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230604,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230704,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230804,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230904,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231004,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231104,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231204,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231304,0,0,0
 }
 
 surface83005
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230005,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230105,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230205,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230305,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230405,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230505,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230605,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230705,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230805,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230905,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231005,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231105,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231205,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231305,0,0,0
 }
 
 surface83006
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230006,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230106,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230206,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230306,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230406,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230506,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230606,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230706,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230806,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230906,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231006,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231106,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231206,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231306,0,0,0
 }
 
 surface83007
 {
-	//Blue
+	//Red
 	animation8300.interval,bind
 	animation8300.pattern0,overlay,230007,0,0,0
+	
+	//Orange
+	animation8301.interval,bind
+	animation8301.pattern0,overlay,230107,0,0,0
+	
+	//Yellow
+	animation8302.interval,bind
+	animation8302.pattern0,overlay,230207,0,0,0
+	
+	//Chartreuse
+	animation8303.interval,bind
+	animation8303.pattern0,overlay,230307,0,0,0
+	
+	//Green
+	animation8304.interval,bind
+	animation8304.pattern0,overlay,230407,0,0,0
+	
+	//Turquoise
+	animation8305.interval,bind
+	animation8305.pattern0,overlay,230507,0,0,0
+	
+	//Cyan
+	animation8306.interval,bind
+	animation8306.pattern0,overlay,230607,0,0,0
+	
+	//Blue
+	animation8307.interval,bind
+	animation8307.pattern0,overlay,230707,0,0,0
+	
+	//Purple
+	animation8308.interval,bind
+	animation8308.pattern0,overlay,230807,0,0,0
+	
+	//Magenta
+	animation8309.interval,bind
+	animation8309.pattern0,overlay,230907,0,0,0
+	
+	//Pink
+	animation8310.interval,bind
+	animation8310.pattern0,overlay,231007,0,0,0
+	
+	//Black
+	animation8311.interval,bind
+	animation8311.pattern0,overlay,231107,0,0,0
+	
+	//Gray
+	animation8312.interval,bind
+	animation8312.pattern0,overlay,231207,0,0,0
+	
+	//White
+	animation8313.interval,bind
+	animation8313.pattern0,overlay,231307,0,0,0
 }
 
 

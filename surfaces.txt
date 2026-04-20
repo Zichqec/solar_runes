@@ -899,6 +899,7 @@ surface.append2000-2999
 	animation1300.pattern6,overlayfast,73002,200,0,0
 	animation1300.pattern7,overlayfast,73001,150,0,0
 	animation1300.pattern8,overlayfast,73001,200,0,0
+	animation1300.option,shared-index
 	
 	animation2300.interval,bind+always
 	animation2300.pattern0,overlay,83000,0,0,0
@@ -910,6 +911,7 @@ surface.append2000-2999
 	animation2300.pattern6,overlay,83006,150,0,0
 	animation2300.pattern7,overlay,83007,150,0,0
 	animation2300.pattern8,overlay,83007,150,0,0
+	animation2300.option,shared-index
 }
 
 //Float

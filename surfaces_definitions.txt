@@ -733,10 +733,88 @@ surface121300-121303
 
 
 //—————————— Light ball ——————————
-//Blue
+//Red
 surface130000
 {
+	element0,overlay,magic/light_ball_glow/red.png,0,0
+}
+
+//Orange
+surface130100
+{
+	element0,overlay,magic/light_ball_glow/orange.png,0,0
+}
+
+//Yellow
+surface130200
+{
+	element0,overlay,magic/light_ball_glow/yellow.png,0,0
+}
+
+//Chartreuse
+surface130300
+{
+	element0,overlay,magic/light_ball_glow/chartreuse.png,0,0
+}
+
+//Green
+surface130400
+{
+	element0,overlay,magic/light_ball_glow/green.png,0,0
+}
+
+//Turquoise
+surface130500
+{
+	element0,overlay,magic/light_ball_glow/turquoise.png,0,0
+}
+
+//Cyan
+surface130600
+{
+	element0,overlay,magic/light_ball_glow/cyan.png,0,0
+}
+
+//Blue
+surface130700
+{
 	element0,overlay,magic/light_ball_glow/blue.png,0,0
+}
+
+//Purple
+surface130800
+{
+	element0,overlay,magic/light_ball_glow/purple.png,0,0
+}
+
+//Magenta
+surface130900
+{
+	element0,overlay,magic/light_ball_glow/magenta.png,0,0
+}
+
+//Pink
+surface131000
+{
+	element0,overlay,magic/light_ball_glow/pink.png,0,0
+}
+
+//Black
+surface131100
+{
+	element0,overlay,magic/light_ball_glow/black.png,0,0
+}
+
+//Gray
+surface131200
+{
+	element0,overlay,magic/light_ball_glow/gray.png,0,0
+}
+
+//White
+surface131300
+{
+	element0,overlay,magic/light_ball_glow/white.png,0,0
 }
 
 
@@ -1987,43 +2065,141 @@ surface221307
 
 
 //—————————— Light ball ——————————
-//Blue (move later)
-surface230000
+//Shapes
+surface230000,230100,230200,230300,230400,230500,230600,230700,230800,230900,231000,231100,231200,231300
 {
-	element0,overlay,magic/light_ball/blue_00.png,0,0
+	element0,overlay,magic/light_ball/shape_00.png,0,0
 }
 
-surface230001
+surface230001,230101,230201,230301,230401,230501,230601,230701,230801,230901,231001,231101,231201,231301
 {
-	element0,overlay,magic/light_ball/blue_01.png,0,0
+	element0,overlay,magic/light_ball/shape_01.png,0,0
 }
 
-surface230002
+surface230002,230102,230202,230302,230402,230502,230602,230702,230802,230902,231002,231102,231202,231302
 {
-	element0,overlay,magic/light_ball/blue_02.png,0,0
+	element0,overlay,magic/light_ball/shape_02.png,0,0
 }
 
-surface230003
+surface230003,230103,230203,230303,230403,230503,230603,230703,230803,230903,231003,231103,231203,231303
 {
-	element0,overlay,magic/light_ball/blue_03.png,0,0
+	element0,overlay,magic/light_ball/shape_03.png,0,0
 }
 
-surface230004
+surface230004,230104,230204,230304,230404,230504,230604,230704,230804,230904,231004,231104,231204,231304
 {
-	element0,overlay,magic/light_ball/blue_04.png,0,0
+	element0,overlay,magic/light_ball/shape_04.png,0,0
 }
 
-surface230005
+surface230005,230105,230205,230305,230405,230505,230605,230705,230805,230905,231005,231105,231205,231305
 {
-	element0,overlay,magic/light_ball/blue_05.png,0,0
+	element0,overlay,magic/light_ball/shape_05.png,0,0
 }
 
-surface230006
+surface230006,230106,230206,230306,230406,230506,230606,230706,230806,230906,231006,231106,231206,231306
 {
-	element0,overlay,magic/light_ball/blue_06.png,0,0
+	element0,overlay,magic/light_ball/shape_06.png,0,0
 }
 
-surface230007
+surface230007,230107,230207,230307,230407,230507,230607,230707,230807,230907,231007,231107,231207,231307
 {
-	element0,overlay,magic/light_ball/blue_07.png,0,0
+	element0,overlay,magic/light_ball/shape_07.png,0,0
+}
+
+//Red
+surface230000-230007
+{
+	element1,overlayfast,magic/light_ball_glow/red.png,0,0
+	element2,overlay,magic/light_ball/red.png,0,0
+}
+
+//Orange
+surface230100-230107
+{
+	element1,overlayfast,magic/light_ball_glow/orange.png,0,0
+	element2,overlay,magic/light_ball/orange.png,0,0
+}
+
+//Yellow
+surface230200-230207
+{
+	element1,overlayfast,magic/light_ball_glow/yellow.png,0,0
+	element2,overlay,magic/light_ball/yellow.png,0,0
+}
+
+//Chartreuse
+surface230300-230307
+{
+	element1,overlayfast,magic/light_ball_glow/chartreuse.png,0,0
+	element2,overlay,magic/light_ball/chartreuse.png,0,0
+}
+
+//Green
+surface230400-230407
+{
+	element1,overlayfast,magic/light_ball_glow/green.png,0,0
+	element2,overlay,magic/light_ball/green.png,0,0
+}
+
+//Turquoise
+surface230500-230507
+{
+	element1,overlayfast,magic/light_ball_glow/turquoise.png,0,0
+	element2,overlay,magic/light_ball/turquoise.png,0,0
+}
+
+//Cyan
+surface230600-230607
+{
+	element1,overlayfast,magic/light_ball_glow/cyan.png,0,0
+	element2,overlay,magic/light_ball/cyan.png,0,0
+}
+
+//Blue
+surface230700-230707
+{
+	element1,overlayfast,magic/light_ball_glow/blue.png,0,0
+	element2,overlay,magic/light_ball/blue.png,0,0
+}
+
+//Purple
+surface230800-230807
+{
+	element1,overlayfast,magic/light_ball_glow/purple.png,0,0
+	element2,overlay,magic/light_ball/purple.png,0,0
+}
+
+//Magenta
+surface230900-230907
+{
+	element1,overlayfast,magic/light_ball_glow/magenta.png,0,0
+	element2,overlay,magic/light_ball/magenta.png,0,0
+}
+
+//Pink
+surface231000-231007
+{
+	element1,overlayfast,magic/light_ball_glow/pink.png,0,0
+	element2,overlay,magic/light_ball/pink.png,0,0
+}
+
+//Black
+surface231100-231107
+{
+	element1,overlayfast,magic/light_ball_glow/black.png,0,0
+	element2,overlay,magic/light_ball/black.png,0,0
+}
+
+//Gray
+surface231200-231207
+{
+	element1,overlayfast,magic/light_ball_glow/gray.png,0,0
+	element2,overlay,magic/light_ball/gray.png,0,0
+}
+
+//White
+surface231300-231307
+{
+	element1,overlayfast,magic/light_ball_glow/white.png,0,0
+	element2,overlay,magic/light_ball/white.png,0,0
 }

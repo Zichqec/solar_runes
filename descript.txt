@@ -238,10 +238,49 @@ sakura.bindgroup8263.addid,7263
 
 
 sakura.bindoption8300.group,Light ball color,mustselect
-sakura.bindgroup8300.default,1
+sakura.bindgroup8307.default,1
 
-sakura.bindgroup8300.name,Light ball color,Blue
+sakura.bindgroup8300.name,Light ball color,Red
 sakura.bindgroup8300.addid,7300
+
+sakura.bindgroup8301.name,Light ball color,Orange
+sakura.bindgroup8301.addid,7301
+
+sakura.bindgroup8302.name,Light ball color,Yellow
+sakura.bindgroup8302.addid,7302
+
+sakura.bindgroup8303.name,Light ball color,Chartreuse
+sakura.bindgroup8303.addid,7303
+
+sakura.bindgroup8304.name,Light ball color,Green
+sakura.bindgroup8304.addid,7304
+
+sakura.bindgroup8305.name,Light ball color,Turquoise
+sakura.bindgroup8305.addid,7305
+
+sakura.bindgroup8306.name,Light ball color,Cyan
+sakura.bindgroup8306.addid,7306
+
+sakura.bindgroup8307.name,Light ball color,Blue
+sakura.bindgroup8307.addid,7307
+
+sakura.bindgroup8308.name,Light ball color,Purple
+sakura.bindgroup8308.addid,7308
+
+sakura.bindgroup8309.name,Light ball color,Magenta
+sakura.bindgroup8309.addid,7309
+
+sakura.bindgroup8310.name,Light ball color,Pink
+sakura.bindgroup8310.addid,7310
+
+sakura.bindgroup8311.name,Light ball color,Black
+sakura.bindgroup8311.addid,7311
+
+sakura.bindgroup8312.name,Light ball color,Gray
+sakura.bindgroup8312.addid,7312
+
+sakura.bindgroup8313.name,Light ball color,White
+sakura.bindgroup8313.addid,7313
 
 
 sakura.bindgroup10000.default,1
