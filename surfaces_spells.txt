@@ -348,11 +348,11 @@ surface71000-71004
 	
 	//Gray
 	animation7112.interval,bind
-	animation7112.pattern0,overlay,111200,0,0,0
+	animation7112.pattern0,overlayfast,111200,0,0,0
 	
 	//White
 	animation7113.interval,bind
-	animation7113.pattern0,overlay,111300,0,0,0
+	animation7113.pattern0,overlayfast,111300,0,0,0
 }
 
 
